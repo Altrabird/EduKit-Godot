@@ -17,6 +17,9 @@ config/icon.kancil="res://assets/art/subjects/bahasa_melayu/sang_kancil.svg"
 run/main_scene.kedai="res://games/kedai/menu.tscn"
 config/name.kedai="Kedai Runcit Pak Ali"
 config/icon.kedai="res://assets/art/icons/coin.svg"
+run/main_scene.makmal="res://games/makmal/hub.tscn"
+config/name.makmal="Makmal Sains Ajaib 3D"
+config/icon.makmal="res://assets/art/subjects/sains/flask_conical.svg"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://assets/art/icons/grad_cap.svg"
 

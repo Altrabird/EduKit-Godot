@@ -133,6 +133,38 @@
     "text": "Eja perkataan ini.",
     "path": "res://assets/audio/voice/ms/feedback/spell.mp3"
    },
+   "lab_welcome": {
+    "text": "Selamat datang ke makmal sains! Pilih satu meja untuk memulakan misi.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_welcome.mp3"
+   },
+   "lab_solar": {
+    "text": "Susun planet mengikut urutan dari Matahari.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_solar.mp3"
+   },
+   "lab_lifecycle": {
+    "text": "Susun kitaran hidup mengikut urutan yang betul.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_lifecycle.mp3"
+   },
+   "lab_magnet": {
+    "text": "Uji setiap objek dengan magnet, kemudian asingkan.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_magnet.mp3"
+   },
+   "lab_circuit": {
+    "text": "Lengkapkan litar dan hidupkan suis.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_circuit.mp3"
+   },
+   "lab_plant": {
+    "text": "Pokok manakah yang akan tumbuh dengan subur?",
+    "path": "res://assets/audio/voice/ms/feedback/lab_plant.mp3"
+   },
+   "lab_insulator": {
+    "text": "Itu penebat. Elektrik tidak boleh mengalir.",
+    "path": "res://assets/audio/voice/ms/feedback/lab_insulator.mp3"
+   },
+   "lab_lit": {
+    "text": "Litar lengkap! Mentol menyala!",
+    "path": "res://assets/audio/voice/ms/feedback/lab_lit.mp3"
+   },
    "shop_open": {
     "text": "Kedai dibuka! Selamat datang!",
     "path": "res://assets/audio/voice/ms/feedback/shop_open.mp3"
@@ -3164,6 +3196,38 @@
    "spell": {
     "text": "Spell this word.",
     "path": "res://assets/audio/voice/en/feedback/spell.mp3"
+   },
+   "lab_welcome": {
+    "text": "Welcome to the science lab! Choose a table to start a mission.",
+    "path": "res://assets/audio/voice/en/feedback/lab_welcome.mp3"
+   },
+   "lab_solar": {
+    "text": "Put the planets in order from the Sun.",
+    "path": "res://assets/audio/voice/en/feedback/lab_solar.mp3"
+   },
+   "lab_lifecycle": {
+    "text": "Put the life cycle in the right order.",
+    "path": "res://assets/audio/voice/en/feedback/lab_lifecycle.mp3"
+   },
+   "lab_magnet": {
+    "text": "Test each object with the magnet, then sort them.",
+    "path": "res://assets/audio/voice/en/feedback/lab_magnet.mp3"
+   },
+   "lab_circuit": {
+    "text": "Complete the circuit and turn on the switch.",
+    "path": "res://assets/audio/voice/en/feedback/lab_circuit.mp3"
+   },
+   "lab_plant": {
+    "text": "Which plant will grow best?",
+    "path": "res://assets/audio/voice/en/feedback/lab_plant.mp3"
+   },
+   "lab_insulator": {
+    "text": "That is an insulator. Electricity cannot flow.",
+    "path": "res://assets/audio/voice/en/feedback/lab_insulator.mp3"
+   },
+   "lab_lit": {
+    "text": "The circuit is complete! The bulb lights up!",
+    "path": "res://assets/audio/voice/en/feedback/lab_lit.mp3"
    },
    "shop_open": {
     "text": "The shop is open! Welcome!",

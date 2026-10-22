@@ -23,7 +23,16 @@ FEEDBACK = {
     "your_score": ("Markah anda.", "Your score."), "question": ("Soalan.", "Question."), "paused": ("Permainan dijeda.", "Game paused."),
     "new_record": ("Rekod baharu!", "New record!"), "unlocked": ("Tahap baharu dibuka!", "New level unlocked!"), "hint": ("Ini petunjuk.", "Here is a hint."),
     "spell": ("Eja perkataan ini.", "Spell this word."),
-    # Kedai Runcit Pak Ali
+    # Makmal Sains Ajaib 3D
+    "lab_welcome": ("Selamat datang ke makmal sains! Pilih satu meja untuk memulakan misi.", "Welcome to the science lab! Choose a table to start a mission."),
+    "lab_solar": ("Susun planet mengikut urutan dari Matahari.", "Put the planets in order from the Sun."),
+    "lab_lifecycle": ("Susun kitaran hidup mengikut urutan yang betul.", "Put the life cycle in the right order."),
+    "lab_magnet": ("Uji setiap objek dengan magnet, kemudian asingkan.", "Test each object with the magnet, then sort them."),
+    "lab_circuit": ("Lengkapkan litar dan hidupkan suis.", "Complete the circuit and turn on the switch."),
+    "lab_plant": ("Pokok manakah yang akan tumbuh dengan subur?", "Which plant will grow best?"),
+    "lab_insulator": ("Itu penebat. Elektrik tidak boleh mengalir.", "That is an insulator. Electricity cannot flow."),
+    "lab_lit": ("Litar lengkap! Mentol menyala!", "The circuit is complete! The bulb lights up!"),
+
     "shop_open": ("Kedai dibuka! Selamat datang!", "The shop is open! Welcome!"), "shop_list": ("Saya mahu beli barang-barang ini.", "I would like to buy these, please."),
     "shop_total": ("Berapakah jumlah harganya?", "How much is the total?"), "shop_change": ("Berapakah bakinya?", "How much change do I get?"),
     "shop_thanks": ("Terima kasih, Pak Ali!", "Thank you, Pak Ali!"), "shop_clock": ("Laraskan jam kepada waktu kedai dibuka.", "Set the clock to the shop opening time."),
