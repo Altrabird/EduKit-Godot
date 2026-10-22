@@ -57,6 +57,15 @@ def jobs():
         j += [("ms", "days", ms, ms.capitalize()), ("en", "days", ms, en)]
     for i, (ms, en) in enumerate(zip(MONTHS, MONTHS_EN)):
         j += [("ms", "months", str(i + 1), ms), ("en", "months", str(i + 1), en)]
+    # Bank questions: language subjects are voiced only in their own language.
+    qdir = os.path.join(ROOT, "data", "questions")
+    for fn in sorted(os.listdir(qdir)):
+        subject = fn[:-5]
+        for q in json.load(open(os.path.join(qdir, fn), encoding="utf-8")):
+            for lang in ("ms", "en"):
+                if (subject, lang) in (("bahasa_melayu", "en"), ("bahasa_inggeris", "ms")):
+                    continue
+                j.append((lang, "questions/" + subject, q["id"], q["q"][lang].replace("___", "...")))
     manifest = json.load(open(os.path.join(ROOT, "assets", "art", "manifest.json"), encoding="utf-8"))
     for m in manifest:
         if m.get("subject"):

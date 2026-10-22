@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "rbt/pemutar_skru"
+  "image": "rbt/pemutar_skru",
+  "id": "b5564c5151"
  },
  {
   "year": 4,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "rbt/led"
+  "image": "rbt/led",
+  "id": "2a41eaecd0"
  },
  {
   "year": 5,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "rbt/perintang"
+  "image": "rbt/perintang",
+  "id": "10b6d873c4"
  },
  {
   "year": 5,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "rbt/penyiram"
+  "image": "rbt/penyiram",
+  "id": "a11769d3ce"
  },
  {
   "year": 6,
@@ -112,6 +116,223 @@
    ]
   },
   "answer": 0,
-  "image": "rbt/kod_blok"
+  "image": "rbt/kod_blok",
+  "id": "c5ef79d738"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Alat untuk memotong kayu ialah...",
+   "en": "The tool for cutting wood is a..."
+  },
+  "choices": {
+   "ms": [
+    "gergaji",
+    "tukul",
+    "playar",
+    "pemutar skru"
+   ],
+   "en": [
+    "saw",
+    "hammer",
+    "pair of pliers",
+    "screwdriver"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/gergaji",
+  "id": "a3abbcfb73"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Langkah pertama dalam proses reka bentuk ialah...",
+   "en": "The first step of the design process is..."
+  },
+  "choices": {
+   "ms": [
+    "mengenal pasti masalah",
+    "menguji produk",
+    "menjual produk",
+    "mengecat produk"
+   ],
+   "en": [
+    "identifying the problem",
+    "testing the product",
+    "selling the product",
+    "painting the product"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/lakaran_reka_bentuk",
+  "id": "672c97167d"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Alat untuk menggembur tanah ialah...",
+   "en": "The tool for loosening soil is a..."
+  },
+  "choices": {
+   "ms": [
+    "cangkul",
+    "penyiram",
+    "gunting",
+    "sepana"
+   ],
+   "en": [
+    "hoe",
+    "watering can",
+    "pair of scissors",
+    "spanner"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/cangkul",
+  "id": "d93be2394e"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Bateri membekalkan tenaga...",
+   "en": "A battery supplies ... energy."
+  },
+  "choices": {
+   "ms": [
+    "elektrik",
+    "angin",
+    "air",
+    "bunyi"
+   ],
+   "en": [
+    "electrical",
+    "wind",
+    "water",
+    "sound"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/battery",
+  "id": "8b35219455"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Suis digunakan untuk...",
+   "en": "A switch is used to..."
+  },
+  "choices": {
+   "ms": [
+    "menyambung atau memutuskan litar",
+    "menyimpan tenaga",
+    "menghasilkan bunyi",
+    "mengukur suhu"
+   ],
+   "en": [
+    "open or close a circuit",
+    "store energy",
+    "make sound",
+    "measure temperature"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/suis",
+  "id": "8c0fc2a689"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Alat untuk menjahit butang ialah...",
+   "en": "To sew on a button we use a..."
+  },
+  "choices": {
+   "ms": [
+    "jarum dan benang",
+    "gunting",
+    "pita ukur",
+    "gam"
+   ],
+   "en": [
+    "needle and thread",
+    "pair of scissors",
+    "measuring tape",
+    "glue stick"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/jarum_benang",
+  "id": "8324dbc922"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Dalam pengaturcaraan, arahan dilaksanakan mengikut...",
+   "en": "In programming, instructions run in..."
+  },
+  "choices": {
+   "ms": [
+    "urutan",
+    "warna",
+    "saiz",
+    "bunyi"
+   ],
+   "en": [
+    "sequence",
+    "colour",
+    "size",
+    "sound"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/kod_blok",
+  "id": "fb915fa3f4"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Algoritma ialah...",
+   "en": "An algorithm is..."
+  },
+  "choices": {
+   "ms": [
+    "langkah-langkah menyelesaikan masalah",
+    "sejenis komputer",
+    "bahasa asing",
+    "alat pertukangan"
+   ],
+   "en": [
+    "steps to solve a problem",
+    "a kind of computer",
+    "a foreign language",
+    "a woodworking tool"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "ac68bbebb3"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Robot mengesan halangan menggunakan...",
+   "en": "A robot detects obstacles with a..."
+  },
+  "choices": {
+   "ms": [
+    "penderia",
+    "cat",
+    "roda",
+    "skru"
+   ],
+   "en": [
+    "sensor",
+    "paint",
+    "wheel",
+    "screw"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/robot",
+  "id": "236592a688"
  }
 ]

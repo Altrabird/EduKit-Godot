@@ -24,9 +24,10 @@ static var _art := {}
 static var _models := {}
 
 
-static func _load_json(path: String) -> Array:
+static func _load_json(path: String, optional := false) -> Array:
 	if not FileAccess.file_exists(path):
-		push_error("EduAssets: missing " + path)
+		if not optional:  # games that ship without 3D drop the model manifest on purpose
+			push_error("EduAssets: missing " + path)
 		return []
 	var data = JSON.parse_string(FileAccess.get_file_as_string(path))
 	return data if data is Array else []
@@ -36,7 +37,7 @@ static func _ensure() -> void:
 	if _art.is_empty():
 		for e in _load_json(ART_MANIFEST):
 			_art[e.get("subject", e.category) + "/" + e.id] = e
-		for e in _load_json(MODEL_MANIFEST):
+		for e in _load_json(MODEL_MANIFEST, true):
 			_models[e.folder + "/" + e.id] = e
 
 

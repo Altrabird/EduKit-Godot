@@ -40,7 +40,7 @@ func _ready() -> void:
 	add_child(_cam)
 	var ui := CanvasLayer.new()
 	add_child(ui)
-	DemoUtil.home_button(ui)
+	KitUtil.home_button(ui)
 	_label.theme_type_variation = "LabelTitle"
 	_label.add_theme_color_override("font_outline_color", Color.WHITE)
 	_label.add_theme_constant_override("outline_size", 16)
@@ -51,7 +51,7 @@ func _ready() -> void:
 	_label.text = GameState.tr2("Klik objek untuk mengenalinya", "Click an object to learn its name")
 	ui.add_child(_label)
 	Audio.music("santai_kampung")
-	DemoUtil.maybe_shot(self, "demo_classroom3d", 3.0)
+	KitUtil.maybe_shot(self, "demo_classroom3d", 3.0)
 
 
 func _prop(ref: String, pos: Vector3, yaw_deg := 0.0) -> Prop3D:

@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/pinggan_sihat"
+  "image": "pjpk/pinggan_sihat",
+  "id": "1f5d1c264f"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/basuh_tangan"
+  "image": "pjpk/basuh_tangan",
+  "id": "1512e22cd6"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/berus_gigi"
+  "image": "pjpk/berus_gigi",
+  "id": "7ba056ef6e"
  },
  {
   "year": 3,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/bola_takraw"
+  "image": "pjpk/bola_takraw",
+  "id": "8916b19b8c"
  },
  {
   "year": 4,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/minuman_bergas"
+  "image": "pjpk/minuman_bergas",
+  "id": "83e347e34a"
  },
  {
   "year": 5,
@@ -135,6 +140,223 @@
    ]
   },
   "answer": 0,
-  "image": "pjpk/kon"
+  "image": "pjpk/kon",
+  "id": "e238990478"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Sebelum makan, kita mesti...",
+   "en": "Before eating, we must..."
+  },
+  "choices": {
+   "ms": [
+    "mencuci tangan",
+    "bermain",
+    "tidur",
+    "menonton TV"
+   ],
+   "en": [
+    "wash our hands",
+    "play",
+    "sleep",
+    "watch TV"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/sabun",
+  "id": "69a75f6865"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Kita perlu minum air kosong kira-kira ___ gelas sehari.",
+   "en": "We should drink about ___ glasses of plain water a day."
+  },
+  "choices": {
+   "ms": [
+    "8",
+    "1",
+    "2",
+    "20"
+   ],
+   "en": [
+    "8",
+    "1",
+    "2",
+    "20"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "c0e66009ad"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Sayur dan buah membekalkan...",
+   "en": "Vegetables and fruit give us..."
+  },
+  "choices": {
+   "ms": [
+    "vitamin",
+    "gula",
+    "minyak",
+    "garam"
+   ],
+   "en": [
+    "vitamins",
+    "sugar",
+    "oil",
+    "salt"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/brokoli",
+  "id": "bd9220c6de"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Semasa batuk, kita menutup mulut dengan...",
+   "en": "When coughing, we cover our mouth with..."
+  },
+  "choices": {
+   "ms": [
+    "siku atau tisu",
+    "tangan kosong",
+    "rambut",
+    "buku"
+   ],
+   "en": [
+    "an elbow or tissue",
+    "a bare hand",
+    "our hair",
+    "a book"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "5044efeb0a"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Setiap pasukan bola sepak mempunyai ___ pemain di padang.",
+   "en": "Each football team has ___ players on the field."
+  },
+  "choices": {
+   "ms": [
+    "11",
+    "5",
+    "7",
+    "9"
+   ],
+   "en": [
+    "11",
+    "5",
+    "7",
+    "9"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/bola_sepak",
+  "id": "9934abbfec"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bola keranjang dijaringkan ke dalam...",
+   "en": "In basketball you score through the..."
+  },
+  "choices": {
+   "ms": [
+    "gelung jaring",
+    "gawang",
+    "petak",
+    "kotak"
+   ],
+   "en": [
+    "hoop",
+    "goal",
+    "box",
+    "square"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/bola_keranjang",
+  "id": "ffdfe899a4"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Setiap regu sepak takraw mempunyai ___ pemain.",
+   "en": "Each sepak takraw team (regu) has ___ players."
+  },
+  "choices": {
+   "ms": [
+    "3",
+    "2",
+    "5",
+    "11"
+   ],
+   "en": [
+    "3",
+    "2",
+    "5",
+    "11"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/bola_takraw",
+  "id": "8197e5114b"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Nombor talian kecemasan di Malaysia ialah...",
+   "en": "Malaysia's emergency number is..."
+  },
+  "choices": {
+   "ms": [
+    "999",
+    "911",
+    "123",
+    "100"
+   ],
+   "en": [
+    "999",
+    "911",
+    "123",
+    "100"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/kit_pertolongan_cemas",
+  "id": "d11e19c6ae"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Kekurangan zat besi boleh menyebabkan...",
+   "en": "Too little iron can cause..."
+  },
+  "choices": {
+   "ms": [
+    "anemia",
+    "rabun",
+    "sakit gigi",
+    "selsema"
+   ],
+   "en": [
+    "anaemia",
+    "short-sightedness",
+    "toothache",
+    "a cold"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "806d57d464"
  }
 ]

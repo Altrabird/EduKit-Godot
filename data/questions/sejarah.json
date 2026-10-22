@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "sejarah/jalur_gemilang"
+  "image": "sejarah/jalur_gemilang",
+  "id": "0c41f6f404"
  },
  {
   "year": 4,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "sejarah/bunga_raya"
+  "image": "sejarah/bunga_raya",
+  "id": "d603b42fc7"
  },
  {
   "year": 4,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "sejarah/jalur_gemilang"
+  "image": "sejarah/jalur_gemilang",
+  "id": "44f8cdb293"
  },
  {
   "year": 5,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "94a6e4d5df"
  },
  {
   "year": 5,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "87efdaddbb"
  },
  {
   "year": 6,
@@ -135,6 +140,223 @@
    ]
   },
   "answer": 0,
-  "image": "sejarah/dulang_bijih_timah"
+  "image": "sejarah/dulang_bijih_timah",
+  "id": "b9f9343de9"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Ibu negara Malaysia ialah...",
+   "en": "The capital city of Malaysia is..."
+  },
+  "choices": {
+   "ms": [
+    "Kuala Lumpur",
+    "Johor Bahru",
+    "Kuching",
+    "Ipoh"
+   ],
+   "en": [
+    "Kuala Lumpur",
+    "Johor Bahru",
+    "Kuching",
+    "Ipoh"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "490ea7dafa"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Jata Negara Malaysia mempunyai dua ekor...",
+   "en": "Malaysia's coat of arms has two..."
+  },
+  "choices": {
+   "ms": [
+    "harimau",
+    "gajah",
+    "buaya",
+    "kancil"
+   ],
+   "en": [
+    "tigers",
+    "elephants",
+    "crocodiles",
+    "mouse deer"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/harimau",
+  "id": "4b4eff8a7d"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bilangan negeri di Malaysia ialah...",
+   "en": "How many states does Malaysia have?"
+  },
+  "choices": {
+   "ms": [
+    "13",
+    "14",
+    "11",
+    "16"
+   ],
+   "en": [
+    "13",
+    "14",
+    "11",
+    "16"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "5c97340c58"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Pengasas Kesultanan Melayu Melaka ialah...",
+   "en": "The founder of the Melaka Sultanate was..."
+  },
+  "choices": {
+   "ms": [
+    "Parameswara",
+    "Hang Tuah",
+    "Tun Perak",
+    "Sultan Mansur Syah"
+   ],
+   "en": [
+    "Parameswara",
+    "Hang Tuah",
+    "Tun Perak",
+    "Sultan Mansur Syah"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/kapal_layar",
+  "id": "0e1ad2246a"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Bapa Kemerdekaan Malaysia ialah...",
+   "en": "The Father of Independence of Malaysia is..."
+  },
+  "choices": {
+   "ms": [
+    "Tunku Abdul Rahman Putra Al-Haj",
+    "Tun Abdul Razak",
+    "Tun Hussein Onn",
+    "Tun Dr. Ismail"
+   ],
+   "en": [
+    "Tunku Abdul Rahman Putra Al-Haj",
+    "Tun Abdul Razak",
+    "Tun Hussein Onn",
+    "Tun Dr. Ismail"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "115864d85d"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Pengisytiharan kemerdekaan dibacakan di...",
+   "en": "Independence was proclaimed at..."
+  },
+  "choices": {
+   "ms": [
+    "Stadium Merdeka",
+    "Bukit Bintang",
+    "Pulau Pinang",
+    "Melaka"
+   ],
+   "en": [
+    "Stadium Merdeka",
+    "Bukit Bintang",
+    "Penang",
+    "Melaka"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "784b612067"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Rukun Negara diperkenalkan pada tahun...",
+   "en": "The Rukun Negara was introduced in..."
+  },
+  "choices": {
+   "ms": [
+    "1970",
+    "1957",
+    "1963",
+    "1980"
+   ],
+   "en": [
+    "1970",
+    "1957",
+    "1963",
+    "1980"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "08840b70d3"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Prinsip pertama Rukun Negara ialah...",
+   "en": "The first principle of the Rukun Negara is..."
+  },
+  "choices": {
+   "ms": [
+    "Kepercayaan kepada Tuhan",
+    "Kesetiaan kepada Raja dan Negara",
+    "Keluhuran Perlembagaan",
+    "Kesopanan dan Kesusilaan"
+   ],
+   "en": [
+    "Belief in God",
+    "Loyalty to King and Country",
+    "Supremacy of the Constitution",
+    "Courtesy and Morality"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "fc78a24ec5"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Ketua Negara Malaysia digelar...",
+   "en": "Malaysia's Head of State is the..."
+  },
+  "choices": {
+   "ms": [
+    "Yang di-Pertuan Agong",
+    "Perdana Menteri",
+    "Menteri Besar",
+    "Ketua Menteri"
+   ],
+   "en": [
+    "Yang di-Pertuan Agong",
+    "Prime Minister",
+    "Menteri Besar",
+    "Chief Minister"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/mahkota",
+  "id": "1c9f235ee9"
  }
 ]

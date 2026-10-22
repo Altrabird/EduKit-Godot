@@ -16,6 +16,7 @@ var _grid := GridContainer.new()
 var _buttons: Array[AnswerButton] = []
 var _timer: TimerBar
 var _locked := false
+var _speaker := Button.new()
 
 
 func _ready() -> void:
@@ -23,10 +24,20 @@ func _ready() -> void:
 	var v := VBoxContainer.new()
 	v.add_theme_constant_override("separation", 18)
 	add_child(v)
+	var qrow := HBoxContainer.new()
+	v.add_child(qrow)
 	_q_label.theme_type_variation = "LabelHeading"
 	_q_label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	_q_label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
-	v.add_child(_q_label)
+	_q_label.size_flags_horizontal = Control.SIZE_EXPAND_FILL
+	qrow.add_child(_q_label)
+	_speaker.icon = load("res://assets/art/icons/sound_on.svg")
+	_speaker.expand_icon = true
+	_speaker.theme_type_variation = "ButtonYellow"
+	_speaker.custom_minimum_size = Vector2(88, 80)
+	_speaker.tooltip_text = "Dengar / Listen"
+	_speaker.pressed.connect(_speak_question)
+	qrow.add_child(_speaker)
 	_img.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	_img.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 	_img.custom_minimum_size = Vector2(0, 240)
@@ -54,6 +65,7 @@ func show_question(q: Dictionary) -> void:
 	question = q
 	_locked = false
 	_q_label.text = q.text
+	_speaker.visible = not q.get("speak", {}).is_empty()
 	_img.visible = q.get("image", "") != ""
 	if _img.visible:
 		_img.texture = EduAssets.texture(q.image)
@@ -66,6 +78,34 @@ func show_question(q: Dictionary) -> void:
 	_speak_question()
 	modulate.a = 0
 	create_tween().tween_property(self, "modulate:a", 1.0, 0.25)
+
+
+## Lifeline: hide `n` wrong answers (50:50 = 2). Returns how many were hidden.
+func eliminate(n: int) -> int:
+	var wrong := []
+	for i in _buttons.size():
+		if i != question.get("answer", -1) and _buttons[i].visible and not _buttons[i].disabled:
+			wrong.append(i)
+	wrong.shuffle()
+	for i in wrong.slice(0, n):
+		_buttons[i].disabled = true
+		create_tween().tween_property(_buttons[i], "modulate:a", 0.15, 0.25)
+	return mini(n, wrong.size())
+
+
+func time_left() -> float:
+	return _timer.time_left() if _timer else 0.0
+
+
+func is_locked() -> bool:
+	return _locked
+
+
+## Stops the round without answering (used by skip): no signal is emitted.
+func cancel() -> void:
+	_locked = true
+	if _timer:
+		_timer.stop()
 
 
 func _speak_question() -> void:

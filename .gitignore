@@ -3,3 +3,4 @@ __pycache__/
 *.tmp
 /build/
 docs/sheets/_*.png
+/build/

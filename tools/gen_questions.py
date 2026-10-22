@@ -2,7 +2,9 @@
 Authoring rule: the FIRST choice is the correct one; Questions.gd shuffles at runtime.
 Images are asset refs ("<subject or category>/<id>") from assets/art/manifest.json.
 These are starter banks for demos; teachers can extend the JSON directly."""
-import json, os
+import hashlib, json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from questions_more import MORE
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "questions")
@@ -108,6 +110,10 @@ BANK = {
 }
 
 
+for _subject, _rows in MORE.items():
+    BANK.setdefault(_subject, []).extend(_rows)
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     manifest = json.load(open(os.path.join(ROOT, "assets", "art", "manifest.json"), encoding="utf-8"))
@@ -118,9 +124,9 @@ def main():
         for year, qms, qen, cms, cen, img in rows:
             assert len(cms) == len(cen) == 4, (subject, qms)
             assert len(set(cms)) == 4 and len(set(cen)) == 4, f"duplicate choices: {subject} {qms}"
-            if img and img not in refs:
-                img = ""  # unknown picture: keep the question, drop the image
-            out.append({"year": year, "q": {"ms": qms, "en": qen}, "choices": {"ms": cms, "en": cen}, "answer": 0, "image": img})
+            assert not img or img in refs, f"unknown picture {img}"
+            out.append({"year": year, "q": {"ms": qms, "en": qen}, "choices": {"ms": cms, "en": cen}, "answer": 0, "image": img,
+                        "id": hashlib.md5(qms.encode("utf-8")).hexdigest()[:10]})
         with open(os.path.join(OUT, subject + ".json"), "w", encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=1)
         total += len(out)

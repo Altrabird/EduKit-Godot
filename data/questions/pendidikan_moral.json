@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/dompet"
+  "image": "pendidikan_moral/dompet",
+  "id": "c223930f66"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/tong_kitar_biru"
+  "image": "pendidikan_moral/tong_kitar_biru",
+  "id": "efafcb0cb4"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/tong_kitar_coklat"
+  "image": "pendidikan_moral/tong_kitar_coklat",
+  "id": "0f4b86ac20"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/lampu_isyarat"
+  "image": "pendidikan_moral/lampu_isyarat",
+  "id": "0157f3f174"
  },
  {
   "year": 3,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/tolong_menolong"
+  "image": "pendidikan_moral/tolong_menolong",
+  "id": "2bd2584daf"
  },
  {
   "year": 4,
@@ -135,6 +140,223 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_moral/tabung"
+  "image": "pendidikan_moral/tabung",
+  "id": "74642e7181"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Apabila menerima hadiah, kita mengucapkan...",
+   "en": "When we receive a gift, we say..."
+  },
+  "choices": {
+   "ms": [
+    "terima kasih",
+    "selamat tinggal",
+    "maaf",
+    "tahniah"
+   ],
+   "en": [
+    "thank you",
+    "goodbye",
+    "sorry",
+    "congratulations"
+   ]
+  },
+  "answer": 0,
+  "image": "icons/gift",
+  "id": "e5e9425cfb"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Apabila melakukan kesilapan, kita patut...",
+   "en": "When we make a mistake, we should..."
+  },
+  "choices": {
+   "ms": [
+    "meminta maaf",
+    "lari",
+    "marah",
+    "menyalahkan orang lain"
+   ],
+   "en": [
+    "say sorry",
+    "run away",
+    "get angry",
+    "blame others"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "80c596d998"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Tong kitar semula berwarna oren untuk...",
+   "en": "The orange recycling bin is for..."
+  },
+  "choices": {
+   "ms": [
+    "plastik dan tin",
+    "kertas",
+    "kaca",
+    "sisa makanan"
+   ],
+   "en": [
+    "plastic and cans",
+    "paper",
+    "glass",
+    "food waste"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/tong_kitar_oren",
+  "id": "c82550c23d"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Kita patut ___ air dan elektrik.",
+   "en": "We should ___ water and electricity."
+  },
+  "choices": {
+   "ms": [
+    "menjimatkan",
+    "membazirkan",
+    "menjual",
+    "menyembunyikan"
+   ],
+   "en": [
+    "save",
+    "waste",
+    "sell",
+    "hide"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "c9d93e9502"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Menghormati guru menunjukkan nilai...",
+   "en": "Respecting teachers shows..."
+  },
+  "choices": {
+   "ms": [
+    "hormat-menghormati",
+    "tamak",
+    "malas",
+    "sombong"
+   ],
+   "en": [
+    "respect",
+    "greed",
+    "laziness",
+    "arrogance"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "97d806d293"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Tempat yang selamat untuk melintas jalan ialah...",
+   "en": "The safe place to cross the road is the..."
+  },
+  "choices": {
+   "ms": [
+    "lintasan belang",
+    "tengah jalan",
+    "selekoh",
+    "celah kereta"
+   ],
+   "en": [
+    "zebra crossing",
+    "middle of the road",
+    "bend",
+    "between parked cars"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/lintasan_zebra",
+  "id": "640b79c860"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bersikap jujur bermaksud...",
+   "en": "Being honest means..."
+  },
+  "choices": {
+   "ms": [
+    "bercakap benar",
+    "menipu",
+    "mengambil barang orang",
+    "meniru"
+   ],
+   "en": [
+    "telling the truth",
+    "lying",
+    "taking others' things",
+    "copying"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "ec11b0dc0b"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Sambutan Hari Kebangsaan menunjukkan nilai...",
+   "en": "Celebrating National Day shows..."
+  },
+  "choices": {
+   "ms": [
+    "cinta akan negara",
+    "malas",
+    "boros",
+    "takut"
+   ],
+   "en": [
+    "love for the country",
+    "laziness",
+    "wastefulness",
+    "fear"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/jalur_gemilang",
+  "id": "996d88c172"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Masyarakat berbilang kaum hidup harmoni dengan sikap...",
+   "en": "A multiracial society lives in harmony through..."
+  },
+  "choices": {
+   "ms": [
+    "toleransi",
+    "pentingkan diri",
+    "sombong",
+    "dengki"
+   ],
+   "en": [
+    "tolerance",
+    "selfishness",
+    "arrogance",
+    "envy"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "5e9b2e8b02"
  }
 ]

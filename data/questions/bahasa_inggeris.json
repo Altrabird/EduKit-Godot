@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_inggeris/cat"
+  "image": "bahasa_inggeris/cat",
+  "id": "5e722f6517"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "0d4c87e5a8"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_inggeris/bicycle"
+  "image": "bahasa_inggeris/bicycle",
+  "id": "e84def0fba"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "fd27afd450"
  },
  {
   "year": 3,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "87086653d0"
  },
  {
   "year": 3,
@@ -135,7 +140,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "d3ea4bf5ce"
  },
  {
   "year": 4,
@@ -158,7 +164,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "cd54db53d7"
  },
  {
   "year": 5,
@@ -181,6 +188,319 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "df87d631f2"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "What colour is the sky on a sunny day?",
+   "en": "What colour is the sky on a sunny day?"
+  },
+  "choices": {
+   "ms": [
+    "blue",
+    "green",
+    "red",
+    "black"
+   ],
+   "en": [
+    "blue",
+    "green",
+    "red",
+    "black"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "898e376029"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "How many legs does a cat have?",
+   "en": "How many legs does a cat have?"
+  },
+  "choices": {
+   "ms": [
+    "four",
+    "two",
+    "six",
+    "eight"
+   ],
+   "en": [
+    "four",
+    "two",
+    "six",
+    "eight"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/cat",
+  "id": "4e7e7a6401"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Choose the correct spelling.",
+   "en": "Choose the correct spelling."
+  },
+  "choices": {
+   "ms": [
+    "school",
+    "skool",
+    "shcool",
+    "scool"
+   ],
+   "en": [
+    "school",
+    "skool",
+    "shcool",
+    "scool"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "a6faddfad8"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "We see with our ___.",
+   "en": "We see with our ___."
+  },
+  "choices": {
+   "ms": [
+    "eyes",
+    "ears",
+    "nose",
+    "mouth"
+   ],
+   "en": [
+    "eyes",
+    "ears",
+    "nose",
+    "mouth"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "ed2f975dab"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Choose the opposite of 'big'.",
+   "en": "Choose the opposite of 'big'."
+  },
+  "choices": {
+   "ms": [
+    "small",
+    "tall",
+    "long",
+    "fast"
+   ],
+   "en": [
+    "small",
+    "tall",
+    "long",
+    "fast"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "3cdfd97c1b"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Which one is a fruit?",
+   "en": "Which one is a fruit?"
+  },
+  "choices": {
+   "ms": [
+    "banana",
+    "carrot",
+    "rice",
+    "bread"
+   ],
+   "en": [
+    "banana",
+    "carrot",
+    "rice",
+    "bread"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "5520ad6986"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "She ___ a red bag.",
+   "en": "She ___ a red bag."
+  },
+  "choices": {
+   "ms": [
+    "has",
+    "have",
+    "having",
+    "haves"
+   ],
+   "en": [
+    "has",
+    "have",
+    "having",
+    "haves"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "5b17a336d0"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "___ is your name?",
+   "en": "___ is your name?"
+  },
+  "choices": {
+   "ms": [
+    "What",
+    "Where",
+    "When",
+    "Why"
+   ],
+   "en": [
+    "What",
+    "Where",
+    "When",
+    "Why"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "03d6d74668"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "The plural of 'child' is...",
+   "en": "The plural of 'child' is..."
+  },
+  "choices": {
+   "ms": [
+    "children",
+    "childs",
+    "childes",
+    "childrens"
+   ],
+   "en": [
+    "children",
+    "childs",
+    "childes",
+    "childrens"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "d3d011829c"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Which sentence is correct?",
+   "en": "Which sentence is correct?"
+  },
+  "choices": {
+   "ms": [
+    "They are playing football.",
+    "They is playing football.",
+    "They am playing football.",
+    "They be playing football."
+   ],
+   "en": [
+    "They are playing football.",
+    "They is playing football.",
+    "They am playing football.",
+    "They be playing football."
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "e99508ca4a"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "The past tense of 'go' is...",
+   "en": "The past tense of 'go' is..."
+  },
+  "choices": {
+   "ms": [
+    "went",
+    "goed",
+    "gone",
+    "going"
+   ],
+   "en": [
+    "went",
+    "goed",
+    "gone",
+    "going"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "50cb3aa787"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "The book is ___ the table.",
+   "en": "The book is ___ the table."
+  },
+  "choices": {
+   "ms": [
+    "on",
+    "of",
+    "to",
+    "for"
+   ],
+   "en": [
+    "on",
+    "of",
+    "to",
+    "for"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "0cdc36275b"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Which word is an adjective?",
+   "en": "Which word is an adjective?"
+  },
+  "choices": {
+   "ms": [
+    "beautiful",
+    "run",
+    "quickly",
+    "and"
+   ],
+   "en": [
+    "beautiful",
+    "run",
+    "quickly",
+    "and"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "9eb07c9ccd"
  }
 ]

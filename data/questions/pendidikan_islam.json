@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_islam/sejadah"
+  "image": "pendidikan_islam/sejadah",
+  "id": "8186223804"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_islam/al_quran_rehal"
+  "image": "pendidikan_islam/al_quran_rehal",
+  "id": "8157e7bded"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_islam/paip_air_wuduk"
+  "image": "pendidikan_islam/paip_air_wuduk",
+  "id": "c79433c02f"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_islam/tanglung"
+  "image": "pendidikan_islam/tanglung",
+  "id": "d702a485fa"
  },
  {
   "year": 3,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": "pendidikan_islam/kaabah"
+  "image": "pendidikan_islam/kaabah",
+  "id": "02b6839600"
  },
  {
   "year": 4,
@@ -135,6 +140,295 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_melayu/ketupat"
+  "image": "bahasa_melayu/ketupat",
+  "id": "c8e16958ea"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Rukun Islam ada ___ perkara.",
+   "en": "There are ___ pillars of Islam."
+  },
+  "choices": {
+   "ms": [
+    "5",
+    "6",
+    "3",
+    "4"
+   ],
+   "en": [
+    "5",
+    "6",
+    "3",
+    "4"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "8dfa9507a2"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Rukun Iman ada ___ perkara.",
+   "en": "There are ___ pillars of faith (Rukun Iman)."
+  },
+  "choices": {
+   "ms": [
+    "6",
+    "5",
+    "4",
+    "7"
+   ],
+   "en": [
+    "6",
+    "5",
+    "4",
+    "7"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "621c5db4b1"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Rukun Islam yang pertama ialah...",
+   "en": "The first pillar of Islam is..."
+  },
+  "choices": {
+   "ms": [
+    "mengucap dua kalimah syahadah",
+    "solat",
+    "puasa",
+    "zakat"
+   ],
+   "en": [
+    "declaring the syahadah",
+    "prayer",
+    "fasting",
+    "zakat"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "81249af8cb"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Solat Subuh mempunyai ___ rakaat.",
+   "en": "Subuh prayer has ___ rakaat."
+  },
+  "choices": {
+   "ms": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "en": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/sejadah",
+  "id": "b13796d3ea"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Solat Maghrib mempunyai ___ rakaat.",
+   "en": "Maghrib prayer has ___ rakaat."
+  },
+  "choices": {
+   "ms": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "en": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/sejadah",
+  "id": "d9055ea3a2"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Solat Zuhur mempunyai ___ rakaat.",
+   "en": "Zuhur prayer has ___ rakaat."
+  },
+  "choices": {
+   "ms": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ],
+   "en": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/sejadah",
+  "id": "4b541b9cb2"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Ibadah haji dilakukan di...",
+   "en": "Hajj is performed in..."
+  },
+  "choices": {
+   "ms": [
+    "Makkah",
+    "Kaherah",
+    "Istanbul",
+    "Kuala Lumpur"
+   ],
+   "en": [
+    "Makkah",
+    "Cairo",
+    "Istanbul",
+    "Kuala Lumpur"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/kaabah",
+  "id": "448ccec000"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Nabi Muhammad SAW dilahirkan di...",
+   "en": "Prophet Muhammad SAW was born in..."
+  },
+  "choices": {
+   "ms": [
+    "Makkah",
+    "Madinah",
+    "Taif",
+    "Syam"
+   ],
+   "en": [
+    "Makkah",
+    "Madinah",
+    "Taif",
+    "Syam"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "2d2dd54f74"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Malaikat yang menyampaikan wahyu ialah...",
+   "en": "The angel who delivered revelation is..."
+  },
+  "choices": {
+   "ms": [
+    "Jibril",
+    "Mikail",
+    "Israfil",
+    "Izrail"
+   ],
+   "en": [
+    "Jibril",
+    "Mikail",
+    "Israfil",
+    "Izrail"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "c465e20524"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Zakat fitrah wajib dibayar sebelum...",
+   "en": "Zakat fitrah must be paid before..."
+  },
+  "choices": {
+   "ms": [
+    "solat Hari Raya Aidilfitri",
+    "solat Jumaat",
+    "bulan Rejab",
+    "solat Hari Raya Aidiladha"
+   ],
+   "en": [
+    "the Eid al-Fitr prayer",
+    "Friday prayer",
+    "the month of Rejab",
+    "the Eid al-Adha prayer"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "9dd258d6cb"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Hari Raya Aidiladha disambut pada bulan...",
+   "en": "Eid al-Adha is celebrated in the month of..."
+  },
+  "choices": {
+   "ms": [
+    "Zulhijah",
+    "Syawal",
+    "Ramadan",
+    "Rabiulawal"
+   ],
+   "en": [
+    "Zulhijah",
+    "Syawal",
+    "Ramadan",
+    "Rabiulawal"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "35d59e0890"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Kitab Zabur diturunkan kepada Nabi...",
+   "en": "The Zabur was revealed to Prophet..."
+  },
+  "choices": {
+   "ms": [
+    "Daud",
+    "Musa",
+    "Isa",
+    "Ibrahim"
+   ],
+   "en": [
+    "Daud",
+    "Musa",
+    "Isa",
+    "Ibrahim"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "7efb6f7319"
  }
 ]

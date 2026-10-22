@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "seni_visual/tiub_cat"
+  "image": "seni_visual/tiub_cat",
+  "id": "f6616110e5"
  },
  {
   "year": 2,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "seni_visual/roda_warna"
+  "image": "seni_visual/roda_warna",
+  "id": "e85affddd7"
  },
  {
   "year": 3,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "seni_visual/roda_warna"
+  "image": "seni_visual/roda_warna",
+  "id": "884cff1be0"
  },
  {
   "year": 4,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "seni_visual/canting"
+  "image": "seni_visual/canting",
+  "id": "cce187df9c"
  },
  {
   "year": 5,
@@ -112,6 +116,175 @@
    ]
   },
   "answer": 0,
-  "image": "seni_visual/origami"
+  "image": "seni_visual/origami",
+  "id": "f2ec980669"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Merah + kuning menghasilkan warna...",
+   "en": "Red + yellow makes..."
+  },
+  "choices": {
+   "ms": [
+    "oren",
+    "hijau",
+    "ungu",
+    "coklat"
+   ],
+   "en": [
+    "orange",
+    "green",
+    "purple",
+    "brown"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/roda_warna",
+  "id": "107bd638cd"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Warna sekunder terhasil daripada campuran dua warna...",
+   "en": "Secondary colours come from mixing two ... colours."
+  },
+  "choices": {
+   "ms": [
+    "primer",
+    "neutral",
+    "gelap",
+    "pastel"
+   ],
+   "en": [
+    "primary",
+    "neutral",
+    "dark",
+    "pastel"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/roda_warna",
+  "id": "c2dcf5ea75"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Alat untuk melukis garisan lurus ialah...",
+   "en": "The tool for drawing a straight line is a..."
+  },
+  "choices": {
+   "ms": [
+    "pembaris",
+    "berus",
+    "gunting",
+    "gam"
+   ],
+   "en": [
+    "ruler",
+    "brush",
+    "pair of scissors",
+    "glue stick"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "783f6f5512"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Kolaj dihasilkan dengan cara...",
+   "en": "A collage is made by..."
+  },
+  "choices": {
+   "ms": [
+    "menampal bahan",
+    "mewarna sahaja",
+    "melipat kertas",
+    "mengukir kayu"
+   ],
+   "en": [
+    "sticking materials on",
+    "colouring only",
+    "folding paper",
+    "carving wood"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/kertas_warna",
+  "id": "b604319d48"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Wau bulan ialah kraf tradisional terkenal dari negeri...",
+   "en": "The wau bulan is a famous traditional craft from..."
+  },
+  "choices": {
+   "ms": [
+    "Kelantan",
+    "Melaka",
+    "Perak",
+    "Johor"
+   ],
+   "en": [
+    "Kelantan",
+    "Melaka",
+    "Perak",
+    "Johor"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/wau",
+  "id": "483c84198a"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Hitam dan putih dikenali sebagai warna...",
+   "en": "Black and white are called ... colours."
+  },
+  "choices": {
+   "ms": [
+    "neutral",
+    "primer",
+    "sekunder",
+    "panas"
+   ],
+   "en": [
+    "neutral",
+    "primary",
+    "secondary",
+    "warm"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "902bddca6c"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Batik dihasilkan menggunakan lilin dan...",
+   "en": "Batik is made using wax and a..."
+  },
+  "choices": {
+   "ms": [
+    "canting",
+    "pensel",
+    "pemadam",
+    "pembaris"
+   ],
+   "en": [
+    "canting",
+    "pencil",
+    "eraser",
+    "ruler"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/kain_batik",
+  "id": "472981c75e"
  }
 ]

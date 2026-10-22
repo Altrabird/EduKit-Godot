@@ -878,6 +878,714 @@
     "path": "res://assets/audio/voice/ms/months/12.mp3"
    }
   },
+  "questions/bahasa_melayu": {
+   "068e787c88": {
+    "text": "Apakah nama buah ini?",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/068e787c88.mp3"
+   },
+   "ef2eff76b7": {
+    "text": "Suku kata pertama bagi perkataan 'buku' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/ef2eff76b7.mp3"
+   },
+   "217e7aa2e4": {
+    "text": "Pilih huruf vokal.",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/217e7aa2e4.mp3"
+   },
+   "b4069c054d": {
+    "text": "Haiwan ini dikenali sebagai...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/b4069c054d.mp3"
+   },
+   "53d65da2d2": {
+    "text": "Lawan bagi perkataan 'tinggi' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/53d65da2d2.mp3"
+   },
+   "18f2c5dd53": {
+    "text": "Pilih ayat yang betul.",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/18f2c5dd53.mp3"
+   },
+   "64dd508fd9": {
+    "text": "Permainan tradisional ini ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/64dd508fd9.mp3"
+   },
+   "1463741b16": {
+    "text": "Peribahasa 'bagai aur dengan tebing' bermaksud...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/1463741b16.mp3"
+   },
+   "0c0afe4812": {
+    "text": "Kata sendi nama yang sesuai: Ayah pergi ... pejabat.",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/0c0afe4812.mp3"
+   },
+   "b7b1942137": {
+    "text": "Pilih perkataan yang betul ejaannya.",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/b7b1942137.mp3"
+   },
+   "dbace491c3": {
+    "text": "Huruf pertama perkataan 'ikan' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/dbace491c3.mp3"
+   },
+   "8dedbe91f9": {
+    "text": "Kata nama khas ditulis bermula dengan huruf...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/8dedbe91f9.mp3"
+   },
+   "00c3ed6a9b": {
+    "text": "Penjodoh bilangan bagi 'kucing' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/00c3ed6a9b.mp3"
+   },
+   "49ed0d8fc7": {
+    "text": "Penjodoh bilangan bagi 'rumah' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/49ed0d8fc7.mp3"
+   },
+   "812c1a9fe0": {
+    "text": "Penjodoh bilangan bagi 'baju' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/812c1a9fe0.mp3"
+   },
+   "61bc068ae4": {
+    "text": "Sinonim bagi 'gembira' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/61bc068ae4.mp3"
+   },
+   "c15e462fe3": {
+    "text": "Antonim bagi 'panas' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/c15e462fe3.mp3"
+   },
+   "3f3b6b64f7": {
+    "text": "Kata ganti nama diri pertama ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/3f3b6b64f7.mp3"
+   },
+   "3bb91e96b1": {
+    "text": "Simpulan bahasa 'ringan tulang' bermaksud...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/3bb91e96b1.mp3"
+   },
+   "23dadf7e0c": {
+    "text": "Simpulan bahasa 'buah hati' bermaksud...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/23dadf7e0c.mp3"
+   },
+   "9699f7ce8c": {
+    "text": "Peribahasa 'bagai kacang lupakan kulit' bermaksud...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/9699f7ce8c.mp3"
+   },
+   "242313ab08": {
+    "text": "Imbuhan dalam perkataan 'bermain' ialah...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/242313ab08.mp3"
+   },
+   "831666eb88": {
+    "text": "Ayat 'Ali sedang membaca buku.' ialah ayat...",
+    "path": "res://assets/audio/voice/ms/questions/bahasa_melayu/831666eb88.mp3"
+   }
+  },
+  "questions/matematik": {
+   "ba64286e0c": {
+    "text": "Berapakah 3 + 4?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/ba64286e0c.mp3"
+   },
+   "4ffb131724": {
+    "text": "Bentuk ini ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/4ffb131724.mp3"
+   },
+   "b7b16e2459": {
+    "text": "Pepejal ini ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/b7b16e2459.mp3"
+   },
+   "b9f9a9940d": {
+    "text": "Berapakah 50 sen + 50 sen?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/b9f9a9940d.mp3"
+   },
+   "fb31d91ed7": {
+    "text": "Berapakah 6 x 7?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/fb31d91ed7.mp3"
+   },
+   "0c4b859692": {
+    "text": "1 jam = ... minit",
+    "path": "res://assets/audio/voice/ms/questions/matematik/0c4b859692.mp3"
+   },
+   "ee11c23c1e": {
+    "text": "Pecahan setara bagi 1/2 ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/ee11c23c1e.mp3"
+   },
+   "08811eca14": {
+    "text": "0.5 = ... %",
+    "path": "res://assets/audio/voice/ms/questions/matematik/08811eca14.mp3"
+   },
+   "bbfc5dec16": {
+    "text": "Purata bagi 4, 6 dan 8 ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/bbfc5dec16.mp3"
+   },
+   "fc6018fe45": {
+    "text": "Nombor selepas 9 ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/fc6018fe45.mp3"
+   },
+   "110102da17": {
+    "text": "Berapakah bilangan sisi segi tiga?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/110102da17.mp3"
+   },
+   "a4b64266e5": {
+    "text": "Nilai digit 5 dalam 52 ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/a4b64266e5.mp3"
+   },
+   "d7517537a6": {
+    "text": "Berapa hari dalam seminggu?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/d7517537a6.mp3"
+   },
+   "797affb806": {
+    "text": "1 kilogram = ... gram",
+    "path": "res://assets/audio/voice/ms/questions/matematik/797affb806.mp3"
+   },
+   "cb91068209": {
+    "text": "1 meter = ... sentimeter",
+    "path": "res://assets/audio/voice/ms/questions/matematik/cb91068209.mp3"
+   },
+   "6c315bd768": {
+    "text": "Berapa bulan dalam setahun?",
+    "path": "res://assets/audio/voice/ms/questions/matematik/6c315bd768.mp3"
+   },
+   "1d4983bfe8": {
+    "text": "1 liter = ... mililiter",
+    "path": "res://assets/audio/voice/ms/questions/matematik/1d4983bfe8.mp3"
+   },
+   "19abc7cf49": {
+    "text": "Bundarkan 47 kepada puluh yang terdekat.",
+    "path": "res://assets/audio/voice/ms/questions/matematik/19abc7cf49.mp3"
+   },
+   "00d1196149": {
+    "text": "Perimeter segi empat sama bersisi 5 cm ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/00d1196149.mp3"
+   },
+   "8e50ea8dbd": {
+    "text": "Luas segi empat tepat 6 cm × 4 cm ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/8e50ea8dbd.mp3"
+   },
+   "9ac20f5867": {
+    "text": "25% daripada 80 ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/9ac20f5867.mp3"
+   },
+   "901b4c329e": {
+    "text": "Isi padu kubus bersisi 3 cm ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/901b4c329e.mp3"
+   },
+   "f509adfa2a": {
+    "text": "Nisbah 4 : 8 dalam bentuk termudah ialah...",
+    "path": "res://assets/audio/voice/ms/questions/matematik/f509adfa2a.mp3"
+   }
+  },
+  "questions/muzik": {
+   "cfdccd3655": {
+    "text": "Alat muzik ini ialah...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/cfdccd3655.mp3"
+   },
+   "a8e01ee1e8": {
+    "text": "Alat muzik tradisional Sarawak ini ialah...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/a8e01ee1e8.mp3"
+   },
+   "f45a0fe2e5": {
+    "text": "Not krocet bernilai ... detik.",
+    "path": "res://assets/audio/voice/ms/questions/muzik/f45a0fe2e5.mp3"
+   },
+   "36164bd32a": {
+    "text": "Not minim bernilai ... detik.",
+    "path": "res://assets/audio/voice/ms/questions/muzik/36164bd32a.mp3"
+   },
+   "1566936f6e": {
+    "text": "Not semibrif bernilai ... detik.",
+    "path": "res://assets/audio/voice/ms/questions/muzik/1566936f6e.mp3"
+   },
+   "2da0a85afc": {
+    "text": "Alat muzik yang dipukul dikenali sebagai alat muzik...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/2da0a85afc.mp3"
+   },
+   "b7054c2788": {
+    "text": "Rekoder ialah alat muzik jenis...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/b7054c2788.mp3"
+   },
+   "e54d092f70": {
+    "text": "Gitar ialah alat muzik jenis...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/e54d092f70.mp3"
+   },
+   "bb5e42a56f": {
+    "text": "Not kuaver bernilai ... detik.",
+    "path": "res://assets/audio/voice/ms/questions/muzik/bb5e42a56f.mp3"
+   },
+   "d8318ca30b": {
+    "text": "Kompang biasanya dimainkan semasa majlis...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/d8318ca30b.mp3"
+   },
+   "5f34c7e7cf": {
+    "text": "Klef trebel juga dikenali sebagai klef...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/5f34c7e7cf.mp3"
+   },
+   "bb2fd5bde5": {
+    "text": "Tempo merujuk kepada...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/bb2fd5bde5.mp3"
+   },
+   "ecb192c662": {
+    "text": "Dinamik merujuk kepada...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/ecb192c662.mp3"
+   },
+   "ad704498b9": {
+    "text": "Lagu kebangsaan Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/muzik/ad704498b9.mp3"
+   }
+  },
+  "questions/pendidikan_islam": {
+   "8186223804": {
+    "text": "Bilangan solat fardu sehari semalam ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/8186223804.mp3"
+   },
+   "8157e7bded": {
+    "text": "Kitab suci umat Islam ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/8157e7bded.mp3"
+   },
+   "c79433c02f": {
+    "text": "Sebelum solat, kita perlu mengambil...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/c79433c02f.mp3"
+   },
+   "d702a485fa": {
+    "text": "Umat Islam berpuasa pada bulan...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/d702a485fa.mp3"
+   },
+   "02b6839600": {
+    "text": "Kiblat umat Islam ialah ke arah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/02b6839600.mp3"
+   },
+   "c8e16958ea": {
+    "text": "Hari raya selepas bulan Ramadan ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/c8e16958ea.mp3"
+   },
+   "8dfa9507a2": {
+    "text": "Rukun Islam ada ... perkara.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/8dfa9507a2.mp3"
+   },
+   "621c5db4b1": {
+    "text": "Rukun Iman ada ... perkara.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/621c5db4b1.mp3"
+   },
+   "81249af8cb": {
+    "text": "Rukun Islam yang pertama ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/81249af8cb.mp3"
+   },
+   "b13796d3ea": {
+    "text": "Solat Subuh mempunyai ... rakaat.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/b13796d3ea.mp3"
+   },
+   "d9055ea3a2": {
+    "text": "Solat Maghrib mempunyai ... rakaat.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/d9055ea3a2.mp3"
+   },
+   "4b541b9cb2": {
+    "text": "Solat Zuhur mempunyai ... rakaat.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/4b541b9cb2.mp3"
+   },
+   "448ccec000": {
+    "text": "Ibadah haji dilakukan di...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/448ccec000.mp3"
+   },
+   "2d2dd54f74": {
+    "text": "Nabi Muhammad SAW dilahirkan di...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/2d2dd54f74.mp3"
+   },
+   "c465e20524": {
+    "text": "Malaikat yang menyampaikan wahyu ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/c465e20524.mp3"
+   },
+   "9dd258d6cb": {
+    "text": "Zakat fitrah wajib dibayar sebelum...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/9dd258d6cb.mp3"
+   },
+   "35d59e0890": {
+    "text": "Hari Raya Aidiladha disambut pada bulan...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/35d59e0890.mp3"
+   },
+   "7efb6f7319": {
+    "text": "Kitab Zabur diturunkan kepada Nabi...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_islam/7efb6f7319.mp3"
+   }
+  },
+  "questions/pendidikan_moral": {
+   "c223930f66": {
+    "text": "Apakah yang patut kamu lakukan apabila menjumpai dompet orang lain?",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/c223930f66.mp3"
+   },
+   "efafcb0cb4": {
+    "text": "Tong kitar semula berwarna biru untuk...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/efafcb0cb4.mp3"
+   },
+   "0f4b86ac20": {
+    "text": "Tong kitar semula berwarna coklat untuk...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/0f4b86ac20.mp3"
+   },
+   "0157f3f174": {
+    "text": "Apabila lampu isyarat merah, kita mesti...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/0157f3f174.mp3"
+   },
+   "2bd2584daf": {
+    "text": "Menolong rakan yang jatuh menunjukkan nilai...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/2bd2584daf.mp3"
+   },
+   "74642e7181": {
+    "text": "Menyimpan wang di dalam tabung menunjukkan sikap...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/74642e7181.mp3"
+   },
+   "e5e9425cfb": {
+    "text": "Apabila menerima hadiah, kita mengucapkan...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/e5e9425cfb.mp3"
+   },
+   "80c596d998": {
+    "text": "Apabila melakukan kesilapan, kita patut...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/80c596d998.mp3"
+   },
+   "c82550c23d": {
+    "text": "Tong kitar semula berwarna oren untuk...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/c82550c23d.mp3"
+   },
+   "c9d93e9502": {
+    "text": "Kita patut ... air dan elektrik.",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/c9d93e9502.mp3"
+   },
+   "97d806d293": {
+    "text": "Menghormati guru menunjukkan nilai...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/97d806d293.mp3"
+   },
+   "640b79c860": {
+    "text": "Tempat yang selamat untuk melintas jalan ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/640b79c860.mp3"
+   },
+   "ec11b0dc0b": {
+    "text": "Bersikap jujur bermaksud...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/ec11b0dc0b.mp3"
+   },
+   "996d88c172": {
+    "text": "Sambutan Hari Kebangsaan menunjukkan nilai...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/996d88c172.mp3"
+   },
+   "5e9b2e8b02": {
+    "text": "Masyarakat berbilang kaum hidup harmoni dengan sikap...",
+    "path": "res://assets/audio/voice/ms/questions/pendidikan_moral/5e9b2e8b02.mp3"
+   }
+  },
+  "questions/pjpk": {
+   "1f5d1c264f": {
+    "text": "Mengikut Pinggan Sihat Malaysia, separuh pinggan ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/1f5d1c264f.mp3"
+   },
+   "1512e22cd6": {
+    "text": "Kita perlu mencuci tangan dengan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/1512e22cd6.mp3"
+   },
+   "7ba056ef6e": {
+    "text": "Kita menggosok gigi sekurang-kurangnya ... sehari.",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/7ba056ef6e.mp3"
+   },
+   "8916b19b8c": {
+    "text": "Bola ini digunakan dalam permainan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/8916b19b8c.mp3"
+   },
+   "83e347e34a": {
+    "text": "Makanan yang perlu dikurangkan ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/83e347e34a.mp3"
+   },
+   "e238990478": {
+    "text": "Sebelum bersenam, kita perlu melakukan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/e238990478.mp3"
+   },
+   "69a75f6865": {
+    "text": "Sebelum makan, kita mesti...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/69a75f6865.mp3"
+   },
+   "c0e66009ad": {
+    "text": "Kita perlu minum air kosong kira-kira ... gelas sehari.",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/c0e66009ad.mp3"
+   },
+   "bd9220c6de": {
+    "text": "Sayur dan buah membekalkan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/bd9220c6de.mp3"
+   },
+   "5044efeb0a": {
+    "text": "Semasa batuk, kita menutup mulut dengan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/5044efeb0a.mp3"
+   },
+   "9934abbfec": {
+    "text": "Setiap pasukan bola sepak mempunyai ... pemain di padang.",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/9934abbfec.mp3"
+   },
+   "ffdfe899a4": {
+    "text": "Bola keranjang dijaringkan ke dalam...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/ffdfe899a4.mp3"
+   },
+   "8197e5114b": {
+    "text": "Setiap regu sepak takraw mempunyai ... pemain.",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/8197e5114b.mp3"
+   },
+   "d11e19c6ae": {
+    "text": "Nombor talian kecemasan di Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/d11e19c6ae.mp3"
+   },
+   "806d57d464": {
+    "text": "Kekurangan zat besi boleh menyebabkan...",
+    "path": "res://assets/audio/voice/ms/questions/pjpk/806d57d464.mp3"
+   }
+  },
+  "questions/rbt": {
+   "b5564c5151": {
+    "text": "Alat ini digunakan untuk memasukkan skru.",
+    "path": "res://assets/audio/voice/ms/questions/rbt/b5564c5151.mp3"
+   },
+   "2a41eaecd0": {
+    "text": "Komponen yang menyalakan cahaya dalam litar ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/2a41eaecd0.mp3"
+   },
+   "10b6d873c4": {
+    "text": "Komponen yang menghadkan arus elektrik ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/10b6d873c4.mp3"
+   },
+   "a11769d3ce": {
+    "text": "Alat ini digunakan untuk menyiram tanaman.",
+    "path": "res://assets/audio/voice/ms/questions/rbt/a11769d3ce.mp3"
+   },
+   "c5ef79d738": {
+    "text": "Kod blok 'ulang 10 kali' ialah contoh...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/c5ef79d738.mp3"
+   },
+   "a3abbcfb73": {
+    "text": "Alat untuk memotong kayu ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/a3abbcfb73.mp3"
+   },
+   "672c97167d": {
+    "text": "Langkah pertama dalam proses reka bentuk ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/672c97167d.mp3"
+   },
+   "d93be2394e": {
+    "text": "Alat untuk menggembur tanah ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/d93be2394e.mp3"
+   },
+   "8b35219455": {
+    "text": "Bateri membekalkan tenaga...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/8b35219455.mp3"
+   },
+   "8c0fc2a689": {
+    "text": "Suis digunakan untuk...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/8c0fc2a689.mp3"
+   },
+   "8324dbc922": {
+    "text": "Alat untuk menjahit butang ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/8324dbc922.mp3"
+   },
+   "fb915fa3f4": {
+    "text": "Dalam pengaturcaraan, arahan dilaksanakan mengikut...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/fb915fa3f4.mp3"
+   },
+   "ac68bbebb3": {
+    "text": "Algoritma ialah...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/ac68bbebb3.mp3"
+   },
+   "236592a688": {
+    "text": "Robot mengesan halangan menggunakan...",
+    "path": "res://assets/audio/voice/ms/questions/rbt/236592a688.mp3"
+   }
+  },
+  "questions/sains": {
+   "d2c3b0adf5": {
+    "text": "Planet tempat kita tinggal ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/d2c3b0adf5.mp3"
+   },
+   "e9120a8f49": {
+    "text": "Deria apakah yang digunakan untuk melihat?",
+    "path": "res://assets/audio/voice/ms/questions/sains/e9120a8f49.mp3"
+   },
+   "45b0c818e5": {
+    "text": "Peringkat selepas telur dalam kitaran hidup katak ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/45b0c818e5.mp3"
+   },
+   "f31fdde1fd": {
+    "text": "Tumbuhan memerlukan ... untuk membuat makanan.",
+    "path": "res://assets/audio/voice/ms/questions/sains/f31fdde1fd.mp3"
+   },
+   "1d0e560461": {
+    "text": "Magnet menarik objek yang diperbuat daripada...",
+    "path": "res://assets/audio/voice/ms/questions/sains/1d0e560461.mp3"
+   },
+   "2b988b6244": {
+    "text": "Alat ini digunakan untuk mengukur suhu.",
+    "path": "res://assets/audio/voice/ms/questions/sains/2b988b6244.mp3"
+   },
+   "19f1d27b1d": {
+    "text": "Planet terbesar dalam Sistem Suria ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/19f1d27b1d.mp3"
+   },
+   "0c9bcd0c04": {
+    "text": "Air mendidih pada suhu...",
+    "path": "res://assets/audio/voice/ms/questions/sains/0c9bcd0c04.mp3"
+   },
+   "6675ebada5": {
+    "text": "Bulan mengelilingi Bumi dalam masa kira-kira...",
+    "path": "res://assets/audio/voice/ms/questions/sains/6675ebada5.mp3"
+   },
+   "93c99c6e2d": {
+    "text": "Haiwan yang bertelur ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/93c99c6e2d.mp3"
+   },
+   "2bc993e3c9": {
+    "text": "Kita mendengar menggunakan...",
+    "path": "res://assets/audio/voice/ms/questions/sains/2bc993e3c9.mp3"
+   },
+   "549e3eaa6b": {
+    "text": "Beluncas akan berubah menjadi...",
+    "path": "res://assets/audio/voice/ms/questions/sains/549e3eaa6b.mp3"
+   },
+   "00c96eabbe": {
+    "text": "Haiwan yang bernafas melalui insang ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/00c96eabbe.mp3"
+   },
+   "c67c460aef": {
+    "text": "Bahan yang boleh menyerap air ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/c67c460aef.mp3"
+   },
+   "4b8494b9ef": {
+    "text": "Bumi berputar pada paksinya sekali dalam...",
+    "path": "res://assets/audio/voice/ms/questions/sains/4b8494b9ef.mp3"
+   },
+   "120c630a29": {
+    "text": "Bumi mengelilingi Matahari sekali dalam kira-kira...",
+    "path": "res://assets/audio/voice/ms/questions/sains/120c630a29.mp3"
+   },
+   "0707e2f5e9": {
+    "text": "Planet yang paling hampir dengan Matahari ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/0707e2f5e9.mp3"
+   },
+   "fe8870d804": {
+    "text": "Organ yang mengepam darah ke seluruh badan ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/fe8870d804.mp3"
+   },
+   "f9aad5a9ba": {
+    "text": "Air membeku pada suhu...",
+    "path": "res://assets/audio/voice/ms/questions/sains/f9aad5a9ba.mp3"
+   },
+   "c56387da2a": {
+    "text": "Tumbuhan membuat makanan melalui proses...",
+    "path": "res://assets/audio/voice/ms/questions/sains/c56387da2a.mp3"
+   },
+   "60135122f8": {
+    "text": "Gas yang dibebaskan oleh tumbuhan semasa fotosintesis ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/60135122f8.mp3"
+   },
+   "1f68e28698": {
+    "text": "Fasa bulan apabila seluruh permukaannya kelihatan bercahaya ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/1f68e28698.mp3"
+   },
+   "d001b8a2eb": {
+    "text": "Alat untuk melihat objek yang sangat kecil ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sains/d001b8a2eb.mp3"
+   }
+  },
+  "questions/sejarah": {
+   "0c41f6f404": {
+    "text": "Bendera Malaysia dikenali sebagai...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/0c41f6f404.mp3"
+   },
+   "d603b42fc7": {
+    "text": "Bunga kebangsaan Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/d603b42fc7.mp3"
+   },
+   "44f8cdb293": {
+    "text": "Jalur Gemilang mempunyai ... jalur merah dan putih.",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/44f8cdb293.mp3"
+   },
+   "94a6e4d5df": {
+    "text": "Malaysia (Persekutuan Tanah Melayu) mencapai kemerdekaan pada...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/94a6e4d5df.mp3"
+   },
+   "87efdaddbb": {
+    "text": "Pada 16 September 1963, terbentuknya...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/87efdaddbb.mp3"
+   },
+   "b9f9343de9": {
+    "text": "Bijih timah didulang menggunakan alat ini.",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/b9f9343de9.mp3"
+   },
+   "490ea7dafa": {
+    "text": "Ibu negara Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/490ea7dafa.mp3"
+   },
+   "4b4eff8a7d": {
+    "text": "Jata Negara Malaysia mempunyai dua ekor...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/4b4eff8a7d.mp3"
+   },
+   "5c97340c58": {
+    "text": "Bilangan negeri di Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/5c97340c58.mp3"
+   },
+   "0e1ad2246a": {
+    "text": "Pengasas Kesultanan Melayu Melaka ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/0e1ad2246a.mp3"
+   },
+   "115864d85d": {
+    "text": "Bapa Kemerdekaan Malaysia ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/115864d85d.mp3"
+   },
+   "784b612067": {
+    "text": "Pengisytiharan kemerdekaan dibacakan di...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/784b612067.mp3"
+   },
+   "08840b70d3": {
+    "text": "Rukun Negara diperkenalkan pada tahun...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/08840b70d3.mp3"
+   },
+   "fc78a24ec5": {
+    "text": "Prinsip pertama Rukun Negara ialah...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/fc78a24ec5.mp3"
+   },
+   "1c9f235ee9": {
+    "text": "Ketua Negara Malaysia digelar...",
+    "path": "res://assets/audio/voice/ms/questions/sejarah/1c9f235ee9.mp3"
+   }
+  },
+  "questions/seni_visual": {
+   "f6616110e5": {
+    "text": "Warna primer ialah merah, biru dan...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/f6616110e5.mp3"
+   },
+   "e85affddd7": {
+    "text": "Biru + kuning menghasilkan warna...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/e85affddd7.mp3"
+   },
+   "884cff1be0": {
+    "text": "Merah + biru menghasilkan warna...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/884cff1be0.mp3"
+   },
+   "cce187df9c": {
+    "text": "Alat ini digunakan untuk membuat batik.",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/cce187df9c.mp3"
+   },
+   "f2ec980669": {
+    "text": "Seni melipat kertas dikenali sebagai...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/f2ec980669.mp3"
+   },
+   "107bd638cd": {
+    "text": "Merah + kuning menghasilkan warna...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/107bd638cd.mp3"
+   },
+   "c2dcf5ea75": {
+    "text": "Warna sekunder terhasil daripada campuran dua warna...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/c2dcf5ea75.mp3"
+   },
+   "783f6f5512": {
+    "text": "Alat untuk melukis garisan lurus ialah...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/783f6f5512.mp3"
+   },
+   "b604319d48": {
+    "text": "Kolaj dihasilkan dengan cara...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/b604319d48.mp3"
+   },
+   "483c84198a": {
+    "text": "Wau bulan ialah kraf tradisional terkenal dari negeri...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/483c84198a.mp3"
+   },
+   "902bddca6c": {
+    "text": "Hitam dan putih dikenali sebagai warna...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/902bddca6c.mp3"
+   },
+   "472981c75e": {
+    "text": "Batik dihasilkan menggunakan lilin dan...",
+    "path": "res://assets/audio/voice/ms/questions/seni_visual/472981c75e.mp3"
+   }
+  },
   "vocab/bahasa_inggeris": {
    "aeroplane": {
     "text": "Kapal terbang",
@@ -2688,6 +3396,706 @@
    "12": {
     "text": "December",
     "path": "res://assets/audio/voice/en/months/12.mp3"
+   }
+  },
+  "questions/bahasa_inggeris": {
+   "5e722f6517": {
+    "text": "What animal is this?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/5e722f6517.mp3"
+   },
+   "0d4c87e5a8": {
+    "text": "Which word starts with 'b'?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/0d4c87e5a8.mp3"
+   },
+   "e84def0fba": {
+    "text": "This is a ....",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/e84def0fba.mp3"
+   },
+   "fd27afd450": {
+    "text": "Choose the plural of 'apple'.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/fd27afd450.mp3"
+   },
+   "87086653d0": {
+    "text": "I ... a student.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/87086653d0.mp3"
+   },
+   "d3ea4bf5ce": {
+    "text": "Which one can fly?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/d3ea4bf5ce.mp3"
+   },
+   "cd54db53d7": {
+    "text": "Yesterday, she ... to school.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/cd54db53d7.mp3"
+   },
+   "df87d631f2": {
+    "text": "The opposite of 'brave' is...",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/df87d631f2.mp3"
+   },
+   "898e376029": {
+    "text": "What colour is the sky on a sunny day?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/898e376029.mp3"
+   },
+   "4e7e7a6401": {
+    "text": "How many legs does a cat have?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/4e7e7a6401.mp3"
+   },
+   "a6faddfad8": {
+    "text": "Choose the correct spelling.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/a6faddfad8.mp3"
+   },
+   "ed2f975dab": {
+    "text": "We see with our ....",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/ed2f975dab.mp3"
+   },
+   "3cdfd97c1b": {
+    "text": "Choose the opposite of 'big'.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/3cdfd97c1b.mp3"
+   },
+   "5520ad6986": {
+    "text": "Which one is a fruit?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/5520ad6986.mp3"
+   },
+   "5b17a336d0": {
+    "text": "She ... a red bag.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/5b17a336d0.mp3"
+   },
+   "03d6d74668": {
+    "text": "... is your name?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/03d6d74668.mp3"
+   },
+   "d3d011829c": {
+    "text": "The plural of 'child' is...",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/d3d011829c.mp3"
+   },
+   "e99508ca4a": {
+    "text": "Which sentence is correct?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/e99508ca4a.mp3"
+   },
+   "50cb3aa787": {
+    "text": "The past tense of 'go' is...",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/50cb3aa787.mp3"
+   },
+   "0cdc36275b": {
+    "text": "The book is ... the table.",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/0cdc36275b.mp3"
+   },
+   "9eb07c9ccd": {
+    "text": "Which word is an adjective?",
+    "path": "res://assets/audio/voice/en/questions/bahasa_inggeris/9eb07c9ccd.mp3"
+   }
+  },
+  "questions/matematik": {
+   "ba64286e0c": {
+    "text": "What is 3 + 4?",
+    "path": "res://assets/audio/voice/en/questions/matematik/ba64286e0c.mp3"
+   },
+   "4ffb131724": {
+    "text": "This shape is a...",
+    "path": "res://assets/audio/voice/en/questions/matematik/4ffb131724.mp3"
+   },
+   "b7b16e2459": {
+    "text": "This solid is a...",
+    "path": "res://assets/audio/voice/en/questions/matematik/b7b16e2459.mp3"
+   },
+   "b9f9a9940d": {
+    "text": "What is 50 sen + 50 sen?",
+    "path": "res://assets/audio/voice/en/questions/matematik/b9f9a9940d.mp3"
+   },
+   "fb31d91ed7": {
+    "text": "What is 6 x 7?",
+    "path": "res://assets/audio/voice/en/questions/matematik/fb31d91ed7.mp3"
+   },
+   "0c4b859692": {
+    "text": "1 hour = ... minutes",
+    "path": "res://assets/audio/voice/en/questions/matematik/0c4b859692.mp3"
+   },
+   "ee11c23c1e": {
+    "text": "An equivalent fraction of 1/2 is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/ee11c23c1e.mp3"
+   },
+   "08811eca14": {
+    "text": "0.5 = ... %",
+    "path": "res://assets/audio/voice/en/questions/matematik/08811eca14.mp3"
+   },
+   "bbfc5dec16": {
+    "text": "The average of 4, 6 and 8 is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/bbfc5dec16.mp3"
+   },
+   "fc6018fe45": {
+    "text": "The number after 9 is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/fc6018fe45.mp3"
+   },
+   "110102da17": {
+    "text": "How many sides does a triangle have?",
+    "path": "res://assets/audio/voice/en/questions/matematik/110102da17.mp3"
+   },
+   "a4b64266e5": {
+    "text": "The value of the digit 5 in 52 is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/a4b64266e5.mp3"
+   },
+   "d7517537a6": {
+    "text": "How many days are in a week?",
+    "path": "res://assets/audio/voice/en/questions/matematik/d7517537a6.mp3"
+   },
+   "797affb806": {
+    "text": "1 kilogram = ... grams",
+    "path": "res://assets/audio/voice/en/questions/matematik/797affb806.mp3"
+   },
+   "cb91068209": {
+    "text": "1 metre = ... centimetres",
+    "path": "res://assets/audio/voice/en/questions/matematik/cb91068209.mp3"
+   },
+   "6c315bd768": {
+    "text": "How many months are in a year?",
+    "path": "res://assets/audio/voice/en/questions/matematik/6c315bd768.mp3"
+   },
+   "1d4983bfe8": {
+    "text": "1 litre = ... millilitres",
+    "path": "res://assets/audio/voice/en/questions/matematik/1d4983bfe8.mp3"
+   },
+   "19abc7cf49": {
+    "text": "Round 47 to the nearest ten.",
+    "path": "res://assets/audio/voice/en/questions/matematik/19abc7cf49.mp3"
+   },
+   "00d1196149": {
+    "text": "The perimeter of a square with 5 cm sides is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/00d1196149.mp3"
+   },
+   "8e50ea8dbd": {
+    "text": "The area of a 6 cm × 4 cm rectangle is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/8e50ea8dbd.mp3"
+   },
+   "9ac20f5867": {
+    "text": "25% of 80 is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/9ac20f5867.mp3"
+   },
+   "901b4c329e": {
+    "text": "The volume of a cube with 3 cm sides is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/901b4c329e.mp3"
+   },
+   "f509adfa2a": {
+    "text": "The ratio 4 : 8 in simplest form is...",
+    "path": "res://assets/audio/voice/en/questions/matematik/f509adfa2a.mp3"
+   }
+  },
+  "questions/muzik": {
+   "cfdccd3655": {
+    "text": "This instrument is a...",
+    "path": "res://assets/audio/voice/en/questions/muzik/cfdccd3655.mp3"
+   },
+   "a8e01ee1e8": {
+    "text": "This traditional Sarawak instrument is the...",
+    "path": "res://assets/audio/voice/en/questions/muzik/a8e01ee1e8.mp3"
+   },
+   "f45a0fe2e5": {
+    "text": "A crotchet is worth ... beat(s).",
+    "path": "res://assets/audio/voice/en/questions/muzik/f45a0fe2e5.mp3"
+   },
+   "36164bd32a": {
+    "text": "A minim is worth ... beats.",
+    "path": "res://assets/audio/voice/en/questions/muzik/36164bd32a.mp3"
+   },
+   "1566936f6e": {
+    "text": "A semibreve is worth ... beats.",
+    "path": "res://assets/audio/voice/en/questions/muzik/1566936f6e.mp3"
+   },
+   "2da0a85afc": {
+    "text": "Instruments you hit are called ... instruments.",
+    "path": "res://assets/audio/voice/en/questions/muzik/2da0a85afc.mp3"
+   },
+   "b7054c2788": {
+    "text": "A recorder is a ... instrument.",
+    "path": "res://assets/audio/voice/en/questions/muzik/b7054c2788.mp3"
+   },
+   "e54d092f70": {
+    "text": "A guitar is a ... instrument.",
+    "path": "res://assets/audio/voice/en/questions/muzik/e54d092f70.mp3"
+   },
+   "bb5e42a56f": {
+    "text": "A quaver is worth ... beat.",
+    "path": "res://assets/audio/voice/en/questions/muzik/bb5e42a56f.mp3"
+   },
+   "d8318ca30b": {
+    "text": "The kompang is usually played at...",
+    "path": "res://assets/audio/voice/en/questions/muzik/d8318ca30b.mp3"
+   },
+   "5f34c7e7cf": {
+    "text": "The treble clef is also called the ... clef.",
+    "path": "res://assets/audio/voice/en/questions/muzik/5f34c7e7cf.mp3"
+   },
+   "bb2fd5bde5": {
+    "text": "Tempo means...",
+    "path": "res://assets/audio/voice/en/questions/muzik/bb2fd5bde5.mp3"
+   },
+   "ecb192c662": {
+    "text": "Dynamics means...",
+    "path": "res://assets/audio/voice/en/questions/muzik/ecb192c662.mp3"
+   },
+   "ad704498b9": {
+    "text": "Malaysia's national anthem is...",
+    "path": "res://assets/audio/voice/en/questions/muzik/ad704498b9.mp3"
+   }
+  },
+  "questions/pendidikan_islam": {
+   "8186223804": {
+    "text": "How many obligatory prayers are there in a day?",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/8186223804.mp3"
+   },
+   "8157e7bded": {
+    "text": "The holy book of Muslims is...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/8157e7bded.mp3"
+   },
+   "c79433c02f": {
+    "text": "Before praying, we must perform...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/c79433c02f.mp3"
+   },
+   "d702a485fa": {
+    "text": "Muslims fast in the month of...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/d702a485fa.mp3"
+   },
+   "02b6839600": {
+    "text": "The qibla faces towards the...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/02b6839600.mp3"
+   },
+   "c8e16958ea": {
+    "text": "The festival after Ramadan is...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/c8e16958ea.mp3"
+   },
+   "8dfa9507a2": {
+    "text": "There are ... pillars of Islam.",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/8dfa9507a2.mp3"
+   },
+   "621c5db4b1": {
+    "text": "There are ... pillars of faith (Rukun Iman).",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/621c5db4b1.mp3"
+   },
+   "81249af8cb": {
+    "text": "The first pillar of Islam is...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/81249af8cb.mp3"
+   },
+   "b13796d3ea": {
+    "text": "Subuh prayer has ... rakaat.",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/b13796d3ea.mp3"
+   },
+   "d9055ea3a2": {
+    "text": "Maghrib prayer has ... rakaat.",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/d9055ea3a2.mp3"
+   },
+   "4b541b9cb2": {
+    "text": "Zuhur prayer has ... rakaat.",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/4b541b9cb2.mp3"
+   },
+   "448ccec000": {
+    "text": "Hajj is performed in...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/448ccec000.mp3"
+   },
+   "2d2dd54f74": {
+    "text": "Prophet Muhammad SAW was born in...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/2d2dd54f74.mp3"
+   },
+   "c465e20524": {
+    "text": "The angel who delivered revelation is...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/c465e20524.mp3"
+   },
+   "9dd258d6cb": {
+    "text": "Zakat fitrah must be paid before...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/9dd258d6cb.mp3"
+   },
+   "35d59e0890": {
+    "text": "Eid al-Adha is celebrated in the month of...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/35d59e0890.mp3"
+   },
+   "7efb6f7319": {
+    "text": "The Zabur was revealed to Prophet...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_islam/7efb6f7319.mp3"
+   }
+  },
+  "questions/pendidikan_moral": {
+   "c223930f66": {
+    "text": "What should you do if you find someone's wallet?",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/c223930f66.mp3"
+   },
+   "efafcb0cb4": {
+    "text": "The blue recycling bin is for...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/efafcb0cb4.mp3"
+   },
+   "0f4b86ac20": {
+    "text": "The brown recycling bin is for...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/0f4b86ac20.mp3"
+   },
+   "0157f3f174": {
+    "text": "When the traffic light is red, we must...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/0157f3f174.mp3"
+   },
+   "2bd2584daf": {
+    "text": "Helping a friend who fell shows...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/2bd2584daf.mp3"
+   },
+   "74642e7181": {
+    "text": "Saving money in a piggy bank shows...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/74642e7181.mp3"
+   },
+   "e5e9425cfb": {
+    "text": "When we receive a gift, we say...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/e5e9425cfb.mp3"
+   },
+   "80c596d998": {
+    "text": "When we make a mistake, we should...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/80c596d998.mp3"
+   },
+   "c82550c23d": {
+    "text": "The orange recycling bin is for...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/c82550c23d.mp3"
+   },
+   "c9d93e9502": {
+    "text": "We should ... water and electricity.",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/c9d93e9502.mp3"
+   },
+   "97d806d293": {
+    "text": "Respecting teachers shows...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/97d806d293.mp3"
+   },
+   "640b79c860": {
+    "text": "The safe place to cross the road is the...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/640b79c860.mp3"
+   },
+   "ec11b0dc0b": {
+    "text": "Being honest means...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/ec11b0dc0b.mp3"
+   },
+   "996d88c172": {
+    "text": "Celebrating National Day shows...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/996d88c172.mp3"
+   },
+   "5e9b2e8b02": {
+    "text": "A multiracial society lives in harmony through...",
+    "path": "res://assets/audio/voice/en/questions/pendidikan_moral/5e9b2e8b02.mp3"
+   }
+  },
+  "questions/pjpk": {
+   "1f5d1c264f": {
+    "text": "On the Malaysian Healthy Plate, half the plate is...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/1f5d1c264f.mp3"
+   },
+   "1512e22cd6": {
+    "text": "We should wash our hands with...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/1512e22cd6.mp3"
+   },
+   "7ba056ef6e": {
+    "text": "We brush our teeth at least ... a day.",
+    "path": "res://assets/audio/voice/en/questions/pjpk/7ba056ef6e.mp3"
+   },
+   "8916b19b8c": {
+    "text": "This ball is used in...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/8916b19b8c.mp3"
+   },
+   "83e347e34a": {
+    "text": "Food we should eat less of is...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/83e347e34a.mp3"
+   },
+   "e238990478": {
+    "text": "Before exercising, we should...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/e238990478.mp3"
+   },
+   "69a75f6865": {
+    "text": "Before eating, we must...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/69a75f6865.mp3"
+   },
+   "c0e66009ad": {
+    "text": "We should drink about ... glasses of plain water a day.",
+    "path": "res://assets/audio/voice/en/questions/pjpk/c0e66009ad.mp3"
+   },
+   "bd9220c6de": {
+    "text": "Vegetables and fruit give us...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/bd9220c6de.mp3"
+   },
+   "5044efeb0a": {
+    "text": "When coughing, we cover our mouth with...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/5044efeb0a.mp3"
+   },
+   "9934abbfec": {
+    "text": "Each football team has ... players on the field.",
+    "path": "res://assets/audio/voice/en/questions/pjpk/9934abbfec.mp3"
+   },
+   "ffdfe899a4": {
+    "text": "In basketball you score through the...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/ffdfe899a4.mp3"
+   },
+   "8197e5114b": {
+    "text": "Each sepak takraw team (regu) has ... players.",
+    "path": "res://assets/audio/voice/en/questions/pjpk/8197e5114b.mp3"
+   },
+   "d11e19c6ae": {
+    "text": "Malaysia's emergency number is...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/d11e19c6ae.mp3"
+   },
+   "806d57d464": {
+    "text": "Too little iron can cause...",
+    "path": "res://assets/audio/voice/en/questions/pjpk/806d57d464.mp3"
+   }
+  },
+  "questions/rbt": {
+   "b5564c5151": {
+    "text": "This tool is used to drive screws.",
+    "path": "res://assets/audio/voice/en/questions/rbt/b5564c5151.mp3"
+   },
+   "2a41eaecd0": {
+    "text": "The component that gives light in a circuit is the...",
+    "path": "res://assets/audio/voice/en/questions/rbt/2a41eaecd0.mp3"
+   },
+   "10b6d873c4": {
+    "text": "The component that limits electric current is the...",
+    "path": "res://assets/audio/voice/en/questions/rbt/10b6d873c4.mp3"
+   },
+   "a11769d3ce": {
+    "text": "This tool is used to water plants.",
+    "path": "res://assets/audio/voice/en/questions/rbt/a11769d3ce.mp3"
+   },
+   "c5ef79d738": {
+    "text": "A 'repeat 10 times' block is an example of...",
+    "path": "res://assets/audio/voice/en/questions/rbt/c5ef79d738.mp3"
+   },
+   "a3abbcfb73": {
+    "text": "The tool for cutting wood is a...",
+    "path": "res://assets/audio/voice/en/questions/rbt/a3abbcfb73.mp3"
+   },
+   "672c97167d": {
+    "text": "The first step of the design process is...",
+    "path": "res://assets/audio/voice/en/questions/rbt/672c97167d.mp3"
+   },
+   "d93be2394e": {
+    "text": "The tool for loosening soil is a...",
+    "path": "res://assets/audio/voice/en/questions/rbt/d93be2394e.mp3"
+   },
+   "8b35219455": {
+    "text": "A battery supplies ... energy.",
+    "path": "res://assets/audio/voice/en/questions/rbt/8b35219455.mp3"
+   },
+   "8c0fc2a689": {
+    "text": "A switch is used to...",
+    "path": "res://assets/audio/voice/en/questions/rbt/8c0fc2a689.mp3"
+   },
+   "8324dbc922": {
+    "text": "To sew on a button we use a...",
+    "path": "res://assets/audio/voice/en/questions/rbt/8324dbc922.mp3"
+   },
+   "fb915fa3f4": {
+    "text": "In programming, instructions run in...",
+    "path": "res://assets/audio/voice/en/questions/rbt/fb915fa3f4.mp3"
+   },
+   "ac68bbebb3": {
+    "text": "An algorithm is...",
+    "path": "res://assets/audio/voice/en/questions/rbt/ac68bbebb3.mp3"
+   },
+   "236592a688": {
+    "text": "A robot detects obstacles with a...",
+    "path": "res://assets/audio/voice/en/questions/rbt/236592a688.mp3"
+   }
+  },
+  "questions/sains": {
+   "d2c3b0adf5": {
+    "text": "The planet we live on is...",
+    "path": "res://assets/audio/voice/en/questions/sains/d2c3b0adf5.mp3"
+   },
+   "e9120a8f49": {
+    "text": "Which sense do we use to see?",
+    "path": "res://assets/audio/voice/en/questions/sains/e9120a8f49.mp3"
+   },
+   "45b0c818e5": {
+    "text": "After the egg, the frog's next life stage is...",
+    "path": "res://assets/audio/voice/en/questions/sains/45b0c818e5.mp3"
+   },
+   "f31fdde1fd": {
+    "text": "Plants need ... to make food.",
+    "path": "res://assets/audio/voice/en/questions/sains/f31fdde1fd.mp3"
+   },
+   "1d0e560461": {
+    "text": "A magnet attracts objects made of...",
+    "path": "res://assets/audio/voice/en/questions/sains/1d0e560461.mp3"
+   },
+   "2b988b6244": {
+    "text": "This tool measures temperature.",
+    "path": "res://assets/audio/voice/en/questions/sains/2b988b6244.mp3"
+   },
+   "19f1d27b1d": {
+    "text": "The largest planet in the Solar System is...",
+    "path": "res://assets/audio/voice/en/questions/sains/19f1d27b1d.mp3"
+   },
+   "0c9bcd0c04": {
+    "text": "Water boils at...",
+    "path": "res://assets/audio/voice/en/questions/sains/0c9bcd0c04.mp3"
+   },
+   "6675ebada5": {
+    "text": "The Moon orbits the Earth in about...",
+    "path": "res://assets/audio/voice/en/questions/sains/6675ebada5.mp3"
+   },
+   "93c99c6e2d": {
+    "text": "Which animal lays eggs?",
+    "path": "res://assets/audio/voice/en/questions/sains/93c99c6e2d.mp3"
+   },
+   "2bc993e3c9": {
+    "text": "We hear with our...",
+    "path": "res://assets/audio/voice/en/questions/sains/2bc993e3c9.mp3"
+   },
+   "549e3eaa6b": {
+    "text": "A caterpillar turns into a...",
+    "path": "res://assets/audio/voice/en/questions/sains/549e3eaa6b.mp3"
+   },
+   "00c96eabbe": {
+    "text": "Which animal breathes through gills?",
+    "path": "res://assets/audio/voice/en/questions/sains/00c96eabbe.mp3"
+   },
+   "c67c460aef": {
+    "text": "Which material absorbs water?",
+    "path": "res://assets/audio/voice/en/questions/sains/c67c460aef.mp3"
+   },
+   "4b8494b9ef": {
+    "text": "The Earth spins on its axis once every...",
+    "path": "res://assets/audio/voice/en/questions/sains/4b8494b9ef.mp3"
+   },
+   "120c630a29": {
+    "text": "The Earth orbits the Sun once in about...",
+    "path": "res://assets/audio/voice/en/questions/sains/120c630a29.mp3"
+   },
+   "0707e2f5e9": {
+    "text": "The planet closest to the Sun is...",
+    "path": "res://assets/audio/voice/en/questions/sains/0707e2f5e9.mp3"
+   },
+   "fe8870d804": {
+    "text": "The organ that pumps blood around the body is the...",
+    "path": "res://assets/audio/voice/en/questions/sains/fe8870d804.mp3"
+   },
+   "f9aad5a9ba": {
+    "text": "Water freezes at...",
+    "path": "res://assets/audio/voice/en/questions/sains/f9aad5a9ba.mp3"
+   },
+   "c56387da2a": {
+    "text": "Plants make food through...",
+    "path": "res://assets/audio/voice/en/questions/sains/c56387da2a.mp3"
+   },
+   "60135122f8": {
+    "text": "The gas plants give out during photosynthesis is...",
+    "path": "res://assets/audio/voice/en/questions/sains/60135122f8.mp3"
+   },
+   "1f68e28698": {
+    "text": "The Moon phase when the whole face is lit is the...",
+    "path": "res://assets/audio/voice/en/questions/sains/1f68e28698.mp3"
+   },
+   "d001b8a2eb": {
+    "text": "The tool for seeing very tiny things is the...",
+    "path": "res://assets/audio/voice/en/questions/sains/d001b8a2eb.mp3"
+   }
+  },
+  "questions/sejarah": {
+   "0c41f6f404": {
+    "text": "Malaysia's flag is called...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/0c41f6f404.mp3"
+   },
+   "d603b42fc7": {
+    "text": "Malaysia's national flower is the...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/d603b42fc7.mp3"
+   },
+   "44f8cdb293": {
+    "text": "The Jalur Gemilang has ... red and white stripes.",
+    "path": "res://assets/audio/voice/en/questions/sejarah/44f8cdb293.mp3"
+   },
+   "94a6e4d5df": {
+    "text": "Malaya gained independence on...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/94a6e4d5df.mp3"
+   },
+   "87efdaddbb": {
+    "text": "On 16 September 1963, what was formed?",
+    "path": "res://assets/audio/voice/en/questions/sejarah/87efdaddbb.mp3"
+   },
+   "b9f9343de9": {
+    "text": "Tin ore was panned with this tool.",
+    "path": "res://assets/audio/voice/en/questions/sejarah/b9f9343de9.mp3"
+   },
+   "490ea7dafa": {
+    "text": "The capital city of Malaysia is...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/490ea7dafa.mp3"
+   },
+   "4b4eff8a7d": {
+    "text": "Malaysia's coat of arms has two...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/4b4eff8a7d.mp3"
+   },
+   "5c97340c58": {
+    "text": "How many states does Malaysia have?",
+    "path": "res://assets/audio/voice/en/questions/sejarah/5c97340c58.mp3"
+   },
+   "0e1ad2246a": {
+    "text": "The founder of the Melaka Sultanate was...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/0e1ad2246a.mp3"
+   },
+   "115864d85d": {
+    "text": "The Father of Independence of Malaysia is...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/115864d85d.mp3"
+   },
+   "784b612067": {
+    "text": "Independence was proclaimed at...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/784b612067.mp3"
+   },
+   "08840b70d3": {
+    "text": "The Rukun Negara was introduced in...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/08840b70d3.mp3"
+   },
+   "fc78a24ec5": {
+    "text": "The first principle of the Rukun Negara is...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/fc78a24ec5.mp3"
+   },
+   "1c9f235ee9": {
+    "text": "Malaysia's Head of State is the...",
+    "path": "res://assets/audio/voice/en/questions/sejarah/1c9f235ee9.mp3"
+   }
+  },
+  "questions/seni_visual": {
+   "f6616110e5": {
+    "text": "The primary colours are red, blue and...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/f6616110e5.mp3"
+   },
+   "e85affddd7": {
+    "text": "Blue + yellow makes...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/e85affddd7.mp3"
+   },
+   "884cff1be0": {
+    "text": "Red + blue makes...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/884cff1be0.mp3"
+   },
+   "cce187df9c": {
+    "text": "This tool is used to make batik.",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/cce187df9c.mp3"
+   },
+   "f2ec980669": {
+    "text": "The art of folding paper is called...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/f2ec980669.mp3"
+   },
+   "107bd638cd": {
+    "text": "Red + yellow makes...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/107bd638cd.mp3"
+   },
+   "c2dcf5ea75": {
+    "text": "Secondary colours come from mixing two ... colours.",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/c2dcf5ea75.mp3"
+   },
+   "783f6f5512": {
+    "text": "The tool for drawing a straight line is a...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/783f6f5512.mp3"
+   },
+   "b604319d48": {
+    "text": "A collage is made by...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/b604319d48.mp3"
+   },
+   "483c84198a": {
+    "text": "The wau bulan is a famous traditional craft from...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/483c84198a.mp3"
+   },
+   "902bddca6c": {
+    "text": "Black and white are called ... colours.",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/902bddca6c.mp3"
+   },
+   "472981c75e": {
+    "text": "Batik is made using wax and a...",
+    "path": "res://assets/audio/voice/en/questions/seni_visual/472981c75e.mp3"
    }
   },
   "vocab/bahasa_inggeris": {

@@ -15,7 +15,7 @@ var _right := 0
 
 
 func _ready() -> void:
-	DemoUtil.background(self, "backgrounds/stage_hall")
+	KitUtil.background(self, "backgrounds/stage_hall")
 	_robo.char_id = "robo"
 	_robo.height_px = 520
 	_robo.position = Vector2(230, 1040)
@@ -41,10 +41,10 @@ func _ready() -> void:
 	_results.next.connect(_start)
 	_results.menu.connect(func(): Fader.go("res://demo/gallery.tscn"))
 	add_child(_results)
-	DemoUtil.home_button(self)
+	KitUtil.home_button(self)
 	Audio.music("quiz_berfikir")
 	_start()
-	DemoUtil.maybe_shot(self, "demo_quiz", 2.5)
+	KitUtil.maybe_shot(self, "demo_quiz", 2.5)
 
 
 func _start() -> void:

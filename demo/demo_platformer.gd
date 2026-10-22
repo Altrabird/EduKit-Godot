@@ -75,7 +75,7 @@ func _ready() -> void:
 	add_child(_ui)
 	_score.position = Vector2(1650, 30)
 	_ui.add_child(_score)
-	DemoUtil.home_button(_ui)
+	KitUtil.home_button(_ui)
 	_card.position = Vector2(440, 160)
 	_card.custom_minimum_size = Vector2(1040, 0)
 	_card.time_limit = 15
@@ -90,7 +90,7 @@ func _ready() -> void:
 	_results.menu.connect(func(): Fader.go("res://demo/gallery.tscn"))
 	_ui.add_child(_results)
 	Audio.music("arcade_laju")
-	DemoUtil.maybe_shot(self, "demo_platformer", 2.0)
+	KitUtil.maybe_shot(self, "demo_platformer", 2.0)
 
 
 func _parallax() -> void:

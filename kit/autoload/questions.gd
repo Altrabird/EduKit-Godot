@@ -7,16 +7,53 @@
 extends Node
 
 const BANK_DIR := "res://data/questions/"
+const USER_DIR := "user://questions/"  ## teacher-added questions (IndexedDB on web)
 
 var _banks := {}
 
 
+static func _read(path: String) -> Array:
+	var data = JSON.parse_string(FileAccess.get_file_as_string(path)) if FileAccess.file_exists(path) else null
+	return data if data is Array else []
+
+
+## Built-in bank + the teacher's own questions for that subject.
 func bank(subject: String) -> Array:
 	if not _banks.has(subject):
-		var path := BANK_DIR + subject + ".json"
-		var data = JSON.parse_string(FileAccess.get_file_as_string(path)) if FileAccess.file_exists(path) else null
-		_banks[subject] = data if data is Array else []
+		_banks[subject] = _read(BANK_DIR + subject + ".json") + user_bank(subject)
 	return _banks[subject]
+
+
+func user_bank(subject: String) -> Array:
+	return _read(USER_DIR + subject + ".json")
+
+
+func save_user_bank(subject: String, questions: Array) -> bool:
+	DirAccess.make_dir_recursive_absolute(USER_DIR)
+	var f := FileAccess.open(USER_DIR + subject + ".json", FileAccess.WRITE)
+	if f == null:
+		push_warning("Questions: cannot save %s (%d)" % [subject, FileAccess.get_open_error()])
+		return false
+	f.store_string(JSON.stringify(questions, " "))
+	f.close()
+	_banks.erase(subject)
+	return true
+
+
+## Checks one teacher question before it is saved: text, 4 distinct non-empty choices per language.
+static func validate(q: Dictionary) -> String:
+	for lang in ["ms", "en"]:
+		if str(q.get("q", {}).get(lang, "")).strip_edges() == "":
+			return "question text (%s) is empty" % lang
+		var c: Array = q.get("choices", {}).get(lang, [])
+		if c.size() != 4 or c.any(func(x): return str(x).strip_edges() == ""):
+			return "need 4 answers (%s)" % lang
+		var u := {}
+		for x in c:
+			u[str(x).strip_edges().to_lower()] = true
+		if u.size() != 4:
+			return "answers must be different (%s)" % lang
+	return ""
 
 
 ## Banks store the correct choice first; this shuffles and tracks where it went.
@@ -24,7 +61,9 @@ func _prepare(raw: Dictionary, subject: String, lang: String) -> Dictionary:
 	var choices: Array = raw.choices[lang].duplicate()
 	var correct: String = choices[raw.get("answer", 0)]
 	choices.shuffle()
-	return {"text": raw.q[lang], "choices": choices, "answer": choices.find(correct), "image": raw.get("image", ""), "subject": subject, "speak": {}}
+	var speak := {"group": "questions/" + subject, "id": raw.id} if raw.has("id") else {}
+	return {"text": raw.q[lang], "choices": choices, "answer": choices.find(correct), "image": raw.get("image", ""), "subject": subject,
+		"speak": speak, "year": int(raw.get("year", 1))}
 
 
 func from_bank(subject: String, count := 5, year := 0, lang := "") -> Array:

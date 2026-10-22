@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/planet_earth"
+  "image": "sains/planet_earth",
+  "id": "d2c3b0adf5"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "e9120a8f49"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/frog_eggs"
+  "image": "sains/frog_eggs",
+  "id": "45b0c818e5"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/plant_young"
+  "image": "sains/plant_young",
+  "id": "f31fdde1fd"
  },
  {
   "year": 3,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/magnet"
+  "image": "sains/magnet",
+  "id": "1d0e560461"
  },
  {
   "year": 3,
@@ -135,7 +140,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/thermometer"
+  "image": "sains/thermometer",
+  "id": "2b988b6244"
  },
  {
   "year": 4,
@@ -158,7 +164,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/planet_jupiter"
+  "image": "sains/planet_jupiter",
+  "id": "19f1d27b1d"
  },
  {
   "year": 5,
@@ -181,7 +188,8 @@
    ]
   },
   "answer": 0,
-  "image": "sains/beaker"
+  "image": "sains/beaker",
+  "id": "0c9bcd0c04"
  },
  {
   "year": 6,
@@ -204,6 +212,343 @@
    ]
   },
   "answer": 0,
-  "image": "sains/moon"
+  "image": "sains/moon",
+  "id": "6675ebada5"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Haiwan yang bertelur ialah...",
+   "en": "Which animal lays eggs?"
+  },
+  "choices": {
+   "ms": [
+    "ayam",
+    "kucing",
+    "lembu",
+    "kambing"
+   ],
+   "en": [
+    "chicken",
+    "cat",
+    "cow",
+    "goat"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/chicken",
+  "id": "93c99c6e2d"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Kita mendengar menggunakan...",
+   "en": "We hear with our..."
+  },
+  "choices": {
+   "ms": [
+    "telinga",
+    "mata",
+    "hidung",
+    "kulit"
+   ],
+   "en": [
+    "ears",
+    "eyes",
+    "nose",
+    "skin"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "2bc993e3c9"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Beluncas akan berubah menjadi...",
+   "en": "A caterpillar turns into a..."
+  },
+  "choices": {
+   "ms": [
+    "rama-rama",
+    "katak",
+    "lebah",
+    "semut"
+   ],
+   "en": [
+    "butterfly",
+    "frog",
+    "bee",
+    "ant"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/caterpillar",
+  "id": "549e3eaa6b"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Haiwan yang bernafas melalui insang ialah...",
+   "en": "Which animal breathes through gills?"
+  },
+  "choices": {
+   "ms": [
+    "ikan",
+    "kucing",
+    "ayam",
+    "arnab"
+   ],
+   "en": [
+    "fish",
+    "cat",
+    "chicken",
+    "rabbit"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/fish",
+  "id": "00c96eabbe"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Bahan yang boleh menyerap air ialah...",
+   "en": "Which material absorbs water?"
+  },
+  "choices": {
+   "ms": [
+    "span",
+    "plastik",
+    "kaca",
+    "besi"
+   ],
+   "en": [
+    "sponge",
+    "plastic",
+    "glass",
+    "iron"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "c67c460aef"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Bumi berputar pada paksinya sekali dalam...",
+   "en": "The Earth spins on its axis once every..."
+  },
+  "choices": {
+   "ms": [
+    "24 jam",
+    "1 minggu",
+    "1 bulan",
+    "1 tahun"
+   ],
+   "en": [
+    "24 hours",
+    "1 week",
+    "1 month",
+    "1 year"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/planet_earth",
+  "id": "4b8494b9ef"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bumi mengelilingi Matahari sekali dalam kira-kira...",
+   "en": "The Earth orbits the Sun once in about..."
+  },
+  "choices": {
+   "ms": [
+    "365 hari",
+    "30 hari",
+    "24 jam",
+    "7 hari"
+   ],
+   "en": [
+    "365 days",
+    "30 days",
+    "24 hours",
+    "7 days"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/sun",
+  "id": "120c630a29"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Planet yang paling hampir dengan Matahari ialah...",
+   "en": "The planet closest to the Sun is..."
+  },
+  "choices": {
+   "ms": [
+    "Utarid",
+    "Bumi",
+    "Marikh",
+    "Neptun"
+   ],
+   "en": [
+    "Mercury",
+    "Earth",
+    "Mars",
+    "Neptune"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/planet_mercury",
+  "id": "0707e2f5e9"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Organ yang mengepam darah ke seluruh badan ialah...",
+   "en": "The organ that pumps blood around the body is the..."
+  },
+  "choices": {
+   "ms": [
+    "jantung",
+    "paru-paru",
+    "perut",
+    "otak"
+   ],
+   "en": [
+    "heart",
+    "lungs",
+    "stomach",
+    "brain"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "fe8870d804"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Air membeku pada suhu...",
+   "en": "Water freezes at..."
+  },
+  "choices": {
+   "ms": [
+    "0 °C",
+    "100 °C",
+    "37 °C",
+    "50 °C"
+   ],
+   "en": [
+    "0 °C",
+    "100 °C",
+    "37 °C",
+    "50 °C"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/snowflake",
+  "id": "f9aad5a9ba"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Tumbuhan membuat makanan melalui proses...",
+   "en": "Plants make food through..."
+  },
+  "choices": {
+   "ms": [
+    "fotosintesis",
+    "respirasi",
+    "pencernaan",
+    "penyejatan"
+   ],
+   "en": [
+    "photosynthesis",
+    "respiration",
+    "digestion",
+    "evaporation"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/leaf",
+  "id": "c56387da2a"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Gas yang dibebaskan oleh tumbuhan semasa fotosintesis ialah...",
+   "en": "The gas plants give out during photosynthesis is..."
+  },
+  "choices": {
+   "ms": [
+    "oksigen",
+    "karbon dioksida",
+    "nitrogen",
+    "hidrogen"
+   ],
+   "en": [
+    "oxygen",
+    "carbon dioxide",
+    "nitrogen",
+    "hydrogen"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/tree",
+  "id": "60135122f8"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Fasa bulan apabila seluruh permukaannya kelihatan bercahaya ialah...",
+   "en": "The Moon phase when the whole face is lit is the..."
+  },
+  "choices": {
+   "ms": [
+    "bulan purnama",
+    "anak bulan",
+    "bulan sabit",
+    "bulan separa"
+   ],
+   "en": [
+    "full moon",
+    "new moon",
+    "crescent moon",
+    "half moon"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/moon",
+  "id": "1f68e28698"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Alat untuk melihat objek yang sangat kecil ialah...",
+   "en": "The tool for seeing very tiny things is the..."
+  },
+  "choices": {
+   "ms": [
+    "mikroskop",
+    "teleskop",
+    "termometer",
+    "teropong"
+   ],
+   "en": [
+    "microscope",
+    "telescope",
+    "thermometer",
+    "binoculars"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/microscope",
+  "id": "d001b8a2eb"
  }
 ]

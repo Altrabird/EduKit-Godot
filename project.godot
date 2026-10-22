@@ -8,7 +8,11 @@ config_version=5
 config/name="EduKit - Education Game Assets"
 config/description="Reusable education-themed art, audio, 3D props and GDScript components."
 run/main_scene="res://demo/gallery.tscn"
+run/main_scene.juara_kuiz="res://games/juara_kuiz/main_menu.tscn"
+config/name.juara_kuiz="Juara Kuiz Sekolah"
+config/icon.juara_kuiz="res://assets/art/icons/trophy.svg"
 config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://assets/art/icons/grad_cap.svg"
 
 [autoload]
 

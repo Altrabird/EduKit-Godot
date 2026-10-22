@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://games/juara_kuiz/test_jks.gd" id="1"]
+
+[node name="TestJks" type="Node"]
+script = ExtResource("1")

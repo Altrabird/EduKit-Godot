@@ -15,7 +15,7 @@ var _pool: Array[String] = []
 
 
 func _ready() -> void:
-	DemoUtil.background(self, "backgrounds/classroom")
+	KitUtil.background(self, "backgrounds/classroom")
 	var col := VBoxContainer.new()
 	col.set_anchors_preset(Control.PRESET_FULL_RECT)
 	col.offset_top = 130
@@ -43,11 +43,11 @@ func _ready() -> void:
 	_results.next.connect(_start)
 	_results.menu.connect(func(): Fader.go("res://demo/gallery.tscn"))
 	add_child(_results)
-	DemoUtil.home_button(self)
+	KitUtil.home_button(self)
 	_pool = EduAssets.by_tag("fruit") + EduAssets.by_tag("animal").filter(func(r): return r.begins_with("bahasa_inggeris"))
 	Audio.music("jelajah_santai")
 	_start()
-	DemoUtil.maybe_shot(self, "demo_dragdrop", 2.0)
+	KitUtil.maybe_shot(self, "demo_dragdrop", 2.0)
 
 
 func _start() -> void:

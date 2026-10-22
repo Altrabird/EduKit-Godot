@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_melayu/durian"
+  "image": "bahasa_melayu/durian",
+  "id": "068e787c88"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "ef2eff76b7"
  },
  {
   "year": 1,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "217e7aa2e4"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_melayu/sang_kancil"
+  "image": "bahasa_melayu/sang_kancil",
+  "id": "b4069c054d"
  },
  {
   "year": 2,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "53d65da2d2"
  },
  {
   "year": 3,
@@ -135,7 +140,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "18f2c5dd53"
  },
  {
   "year": 3,
@@ -158,7 +164,8 @@
    ]
   },
   "answer": 0,
-  "image": "bahasa_melayu/congkak"
+  "image": "bahasa_melayu/congkak",
+  "id": "64dd508fd9"
  },
  {
   "year": 4,
@@ -181,7 +188,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "1463741b16"
  },
  {
   "year": 5,
@@ -204,6 +212,343 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "0c0afe4812"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Pilih perkataan yang betul ejaannya.",
+   "en": "Choose the correctly spelled word."
+  },
+  "choices": {
+   "ms": [
+    "sekolah",
+    "sekolha",
+    "skolah",
+    "sekola"
+   ],
+   "en": [
+    "sekolah",
+    "sekolha",
+    "skolah",
+    "sekola"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "b7b1942137"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Huruf pertama perkataan 'ikan' ialah...",
+   "en": "The first letter of 'ikan' is..."
+  },
+  "choices": {
+   "ms": [
+    "i",
+    "k",
+    "a",
+    "n"
+   ],
+   "en": [
+    "i",
+    "k",
+    "a",
+    "n"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/fish",
+  "id": "dbace491c3"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Kata nama khas ditulis bermula dengan huruf...",
+   "en": "Proper nouns begin with a ... letter."
+  },
+  "choices": {
+   "ms": [
+    "besar",
+    "kecil",
+    "condong",
+    "tebal"
+   ],
+   "en": [
+    "capital",
+    "small",
+    "slanted",
+    "bold"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "8dedbe91f9"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Penjodoh bilangan bagi 'kucing' ialah...",
+   "en": "The classifier for 'kucing' is..."
+  },
+  "choices": {
+   "ms": [
+    "ekor",
+    "buah",
+    "orang",
+    "biji"
+   ],
+   "en": [
+    "ekor",
+    "buah",
+    "orang",
+    "biji"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/cat",
+  "id": "00c3ed6a9b"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Penjodoh bilangan bagi 'rumah' ialah...",
+   "en": "The classifier for 'rumah' is..."
+  },
+  "choices": {
+   "ms": [
+    "buah",
+    "ekor",
+    "helai",
+    "batang"
+   ],
+   "en": [
+    "buah",
+    "ekor",
+    "helai",
+    "batang"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/rumah_kampung",
+  "id": "49ed0d8fc7"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Penjodoh bilangan bagi 'baju' ialah...",
+   "en": "The classifier for 'baju' is..."
+  },
+  "choices": {
+   "ms": [
+    "helai",
+    "ekor",
+    "buah",
+    "orang"
+   ],
+   "en": [
+    "helai",
+    "ekor",
+    "buah",
+    "orang"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/shirt",
+  "id": "812c1a9fe0"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Sinonim bagi 'gembira' ialah...",
+   "en": "A synonym of 'gembira' is..."
+  },
+  "choices": {
+   "ms": [
+    "suka",
+    "sedih",
+    "marah",
+    "takut"
+   ],
+   "en": [
+    "suka",
+    "sedih",
+    "marah",
+    "takut"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "61bc068ae4"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Antonim bagi 'panas' ialah...",
+   "en": "The opposite of 'panas' is..."
+  },
+  "choices": {
+   "ms": [
+    "sejuk",
+    "terang",
+    "besar",
+    "manis"
+   ],
+   "en": [
+    "sejuk",
+    "terang",
+    "besar",
+    "manis"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "c15e462fe3"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Kata ganti nama diri pertama ialah...",
+   "en": "The first-person pronoun is..."
+  },
+  "choices": {
+   "ms": [
+    "saya",
+    "dia",
+    "kamu",
+    "mereka"
+   ],
+   "en": [
+    "saya",
+    "dia",
+    "kamu",
+    "mereka"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "3f3b6b64f7"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Simpulan bahasa 'ringan tulang' bermaksud...",
+   "en": "'Ringan tulang' means..."
+  },
+  "choices": {
+   "ms": [
+    "rajin",
+    "malas",
+    "kuat",
+    "kurus"
+   ],
+   "en": [
+    "hardworking",
+    "lazy",
+    "strong",
+    "thin"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "3bb91e96b1"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Simpulan bahasa 'buah hati' bermaksud...",
+   "en": "'Buah hati' means..."
+  },
+  "choices": {
+   "ms": [
+    "orang yang disayangi",
+    "buah yang manis",
+    "jantung",
+    "doktor"
+   ],
+   "en": [
+    "a loved one",
+    "a sweet fruit",
+    "the heart organ",
+    "a doctor"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "23dadf7e0c"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Peribahasa 'bagai kacang lupakan kulit' bermaksud...",
+   "en": "'Bagai kacang lupakan kulit' means..."
+  },
+  "choices": {
+   "ms": [
+    "lupa asal usul",
+    "sangat rajin",
+    "sangat kaya",
+    "sangat pandai"
+   ],
+   "en": [
+    "forgetting your roots",
+    "very hardworking",
+    "very rich",
+    "very clever"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "9699f7ce8c"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Imbuhan dalam perkataan 'bermain' ialah...",
+   "en": "The affix in 'bermain' is..."
+  },
+  "choices": {
+   "ms": [
+    "ber-",
+    "-an",
+    "me-",
+    "di-"
+   ],
+   "en": [
+    "ber-",
+    "-an",
+    "me-",
+    "di-"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "242313ab08"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Ayat 'Ali sedang membaca buku.' ialah ayat...",
+   "en": "'Ali sedang membaca buku.' is a ... sentence."
+  },
+  "choices": {
+   "ms": [
+    "penyata",
+    "tanya",
+    "perintah",
+    "seruan"
+   ],
+   "en": [
+    "statement",
+    "question",
+    "command",
+    "exclamation"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "831666eb88"
  }
 ]

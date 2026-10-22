@@ -7,6 +7,7 @@ signal chosen(level: int)
 
 @export var game_id := "demo"
 @export var level := 1
+@export var always_open := false  ## e.g. class/team mode where the teacher picks any level
 
 var _num := Label.new()
 var _stars := HBoxContainer.new()
@@ -40,7 +41,7 @@ func _ready() -> void:
 
 
 func refresh() -> void:
-	var open := GameState.is_unlocked(game_id, level)
+	var open := always_open or GameState.is_unlocked(game_id, level)
 	var n := GameState.stars_for(game_id, level)
 	texture_normal = load("res://assets/art/ui/level_node_%s.svg" % ("locked" if not open else ("done" if n > 0 else "open")))
 	_num.text = str(level) if open else ""

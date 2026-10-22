@@ -1,8 +1,15 @@
 # Five games built on EduKit — plan for approval
 
-Nothing below is built yet. Each game reuses the kit as-is; the "new work" lines are
-the only code each one needs. Order is by reuse (fastest first). Target: Godot 4.7,
-Compatibility renderer, Windows + Android (school PCs and tablets); Web optional.
+Each game reuses the kit as-is; the "new work" lines are the only code each one needs.
+Order is by reuse (fastest first). Target: Godot 4.7, Compatibility renderer.
+
+**Every game ships an HTML5 (web) build** — single-threaded export so it runs from any
+static host (GitHub Pages) without COOP/COEP headers, on school PCs, Chromebooks and
+tablets. Web rules for all five: audio starts after the first tap (browser autoplay
+policy), saves live in the browser (user:// = IndexedDB), file import/export uses
+download + paste instead of folders, each game's export filter drops assets it doesn't use
+to keep the download small, and every build is smoke-tested in headless Chromium.
+Windows / Android builds remain possible from the same project.
 
 Coverage across the 11 KSSR subjects:
 

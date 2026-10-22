@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "ba64286e0c"
  },
  {
   "year": 1,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "matematik/shape_triangle"
+  "image": "matematik/shape_triangle",
+  "id": "4ffb131724"
  },
  {
   "year": 2,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "matematik/solid_cylinder"
+  "image": "matematik/solid_cylinder",
+  "id": "b7b16e2459"
  },
  {
   "year": 2,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "b9f9a9940d"
  },
  {
   "year": 3,
@@ -112,7 +116,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "fb31d91ed7"
  },
  {
   "year": 3,
@@ -135,7 +140,8 @@
    ]
   },
   "answer": 0,
-  "image": "matematik/clock_face"
+  "image": "matematik/clock_face",
+  "id": "0c4b859692"
  },
  {
   "year": 4,
@@ -158,7 +164,8 @@
    ]
   },
   "answer": 0,
-  "image": ""
+  "image": "",
+  "id": "ee11c23c1e"
  },
  {
   "year": 5,
@@ -181,7 +188,8 @@
    ]
   },
   "answer": 0,
-  "image": "matematik/op_percent"
+  "image": "matematik/op_percent",
+  "id": "08811eca14"
  },
  {
   "year": 6,
@@ -204,6 +212,343 @@
    ]
   },
   "answer": 0,
-  "image": "matematik/chart_bar"
+  "image": "matematik/chart_bar",
+  "id": "bbfc5dec16"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Nombor selepas 9 ialah...",
+   "en": "The number after 9 is..."
+  },
+  "choices": {
+   "ms": [
+    "10",
+    "8",
+    "11",
+    "19"
+   ],
+   "en": [
+    "10",
+    "8",
+    "11",
+    "19"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "fc6018fe45"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Berapakah bilangan sisi segi tiga?",
+   "en": "How many sides does a triangle have?"
+  },
+  "choices": {
+   "ms": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "en": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/shape_triangle",
+  "id": "110102da17"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Nilai digit 5 dalam 52 ialah...",
+   "en": "The value of the digit 5 in 52 is..."
+  },
+  "choices": {
+   "ms": [
+    "50",
+    "5",
+    "52",
+    "500"
+   ],
+   "en": [
+    "50",
+    "5",
+    "52",
+    "500"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "a4b64266e5"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Berapa hari dalam seminggu?",
+   "en": "How many days are in a week?"
+  },
+  "choices": {
+   "ms": [
+    "7",
+    "5",
+    "6",
+    "10"
+   ],
+   "en": [
+    "7",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "d7517537a6"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "1 kilogram = ___ gram",
+   "en": "1 kilogram = ___ grams"
+  },
+  "choices": {
+   "ms": [
+    "1000",
+    "100",
+    "10",
+    "10000"
+   ],
+   "en": [
+    "1000",
+    "100",
+    "10",
+    "10000"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/weighing_scale",
+  "id": "797affb806"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "1 meter = ___ sentimeter",
+   "en": "1 metre = ___ centimetres"
+  },
+  "choices": {
+   "ms": [
+    "100",
+    "10",
+    "1000",
+    "50"
+   ],
+   "en": [
+    "100",
+    "10",
+    "1000",
+    "50"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/tape_measure",
+  "id": "cb91068209"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Berapa bulan dalam setahun?",
+   "en": "How many months are in a year?"
+  },
+  "choices": {
+   "ms": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "en": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "6c315bd768"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "1 liter = ___ mililiter",
+   "en": "1 litre = ___ millilitres"
+  },
+  "choices": {
+   "ms": [
+    "1000",
+    "100",
+    "10",
+    "500"
+   ],
+   "en": [
+    "1000",
+    "100",
+    "10",
+    "500"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/measuring_jug",
+  "id": "1d4983bfe8"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bundarkan 47 kepada puluh yang terdekat.",
+   "en": "Round 47 to the nearest ten."
+  },
+  "choices": {
+   "ms": [
+    "50",
+    "40",
+    "45",
+    "47"
+   ],
+   "en": [
+    "50",
+    "40",
+    "45",
+    "47"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "19abc7cf49"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Perimeter segi empat sama bersisi 5 cm ialah...",
+   "en": "The perimeter of a square with 5 cm sides is..."
+  },
+  "choices": {
+   "ms": [
+    "20 cm",
+    "25 cm",
+    "10 cm",
+    "15 cm"
+   ],
+   "en": [
+    "20 cm",
+    "25 cm",
+    "10 cm",
+    "15 cm"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/shape_square",
+  "id": "00d1196149"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Luas segi empat tepat 6 cm × 4 cm ialah...",
+   "en": "The area of a 6 cm × 4 cm rectangle is..."
+  },
+  "choices": {
+   "ms": [
+    "24 cm²",
+    "20 cm²",
+    "10 cm²",
+    "48 cm²"
+   ],
+   "en": [
+    "24 cm²",
+    "20 cm²",
+    "10 cm²",
+    "48 cm²"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/shape_rectangle",
+  "id": "8e50ea8dbd"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "25% daripada 80 ialah...",
+   "en": "25% of 80 is..."
+  },
+  "choices": {
+   "ms": [
+    "20",
+    "25",
+    "40",
+    "8"
+   ],
+   "en": [
+    "20",
+    "25",
+    "40",
+    "8"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "9ac20f5867"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Isi padu kubus bersisi 3 cm ialah...",
+   "en": "The volume of a cube with 3 cm sides is..."
+  },
+  "choices": {
+   "ms": [
+    "27 cm³",
+    "9 cm³",
+    "18 cm³",
+    "12 cm³"
+   ],
+   "en": [
+    "27 cm³",
+    "9 cm³",
+    "18 cm³",
+    "12 cm³"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/solid_cube",
+  "id": "901b4c329e"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Nisbah 4 : 8 dalam bentuk termudah ialah...",
+   "en": "The ratio 4 : 8 in simplest form is..."
+  },
+  "choices": {
+   "ms": [
+    "1 : 2",
+    "2 : 4",
+    "4 : 8",
+    "1 : 4"
+   ],
+   "en": [
+    "1 : 2",
+    "2 : 4",
+    "4 : 8",
+    "1 : 4"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "f509adfa2a"
  }
 ]

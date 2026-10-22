@@ -20,7 +20,8 @@
    ]
   },
   "answer": 0,
-  "image": "muzik/kompang"
+  "image": "muzik/kompang",
+  "id": "cfdccd3655"
  },
  {
   "year": 2,
@@ -43,7 +44,8 @@
    ]
   },
   "answer": 0,
-  "image": "muzik/sape"
+  "image": "muzik/sape",
+  "id": "a8e01ee1e8"
  },
  {
   "year": 3,
@@ -66,7 +68,8 @@
    ]
   },
   "answer": 0,
-  "image": "muzik/not_krocet"
+  "image": "muzik/not_krocet",
+  "id": "f45a0fe2e5"
  },
  {
   "year": 4,
@@ -89,7 +92,8 @@
    ]
   },
   "answer": 0,
-  "image": "muzik/not_minim"
+  "image": "muzik/not_minim",
+  "id": "36164bd32a"
  },
  {
   "year": 5,
@@ -112,6 +116,223 @@
    ]
   },
   "answer": 0,
-  "image": "muzik/not_semibreve"
+  "image": "muzik/not_semibreve",
+  "id": "1566936f6e"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Alat muzik yang dipukul dikenali sebagai alat muzik...",
+   "en": "Instruments you hit are called ... instruments."
+  },
+  "choices": {
+   "ms": [
+    "perkusi",
+    "tiup",
+    "bertali",
+    "papan kekunci"
+   ],
+   "en": [
+    "percussion",
+    "wind",
+    "string",
+    "keyboard"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/gendang",
+  "id": "2da0a85afc"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Rekoder ialah alat muzik jenis...",
+   "en": "A recorder is a ... instrument."
+  },
+  "choices": {
+   "ms": [
+    "tiup",
+    "perkusi",
+    "bertali",
+    "elektronik"
+   ],
+   "en": [
+    "wind",
+    "percussion",
+    "string",
+    "electronic"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/rekoder",
+  "id": "b7054c2788"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Gitar ialah alat muzik jenis...",
+   "en": "A guitar is a ... instrument."
+  },
+  "choices": {
+   "ms": [
+    "bertali",
+    "tiup",
+    "perkusi",
+    "papan kekunci"
+   ],
+   "en": [
+    "string",
+    "wind",
+    "percussion",
+    "keyboard"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/gitar",
+  "id": "e54d092f70"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Not kuaver bernilai ___ detik.",
+   "en": "A quaver is worth ___ beat."
+  },
+  "choices": {
+   "ms": [
+    "1/2",
+    "1",
+    "2",
+    "4"
+   ],
+   "en": [
+    "1/2",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/not_kuaver",
+  "id": "bb5e42a56f"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Kompang biasanya dimainkan semasa majlis...",
+   "en": "The kompang is usually played at..."
+  },
+  "choices": {
+   "ms": [
+    "perkahwinan",
+    "peperiksaan",
+    "mesyuarat",
+    "perpustakaan"
+   ],
+   "en": [
+    "weddings",
+    "exams",
+    "meetings",
+    "libraries"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/kompang",
+  "id": "d8318ca30b"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Klef trebel juga dikenali sebagai klef...",
+   "en": "The treble clef is also called the ... clef."
+  },
+  "choices": {
+   "ms": [
+    "G",
+    "F",
+    "C",
+    "D"
+   ],
+   "en": [
+    "G",
+    "F",
+    "C",
+    "D"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/klef_trebel",
+  "id": "5f34c7e7cf"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Tempo merujuk kepada...",
+   "en": "Tempo means..."
+  },
+  "choices": {
+   "ms": [
+    "kelajuan muzik",
+    "kekuatan bunyi",
+    "tinggi rendah nada",
+    "jenis alat muzik"
+   ],
+   "en": [
+    "the speed of music",
+    "how loud it is",
+    "how high the pitch is",
+    "the type of instrument"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "bb2fd5bde5"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Dinamik merujuk kepada...",
+   "en": "Dynamics means..."
+  },
+  "choices": {
+   "ms": [
+    "kuat atau lembut bunyi",
+    "laju atau perlahan",
+    "tinggi rendah nada",
+    "panjang not"
+   ],
+   "en": [
+    "how loud or soft",
+    "how fast or slow",
+    "how high or low",
+    "how long a note is"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "ecb192c662"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Lagu kebangsaan Malaysia ialah...",
+   "en": "Malaysia's national anthem is..."
+  },
+  "choices": {
+   "ms": [
+    "Negaraku",
+    "Malaysia Berjaya",
+    "Tanggal 31",
+    "Keranamu Malaysia"
+   ],
+   "en": [
+    "Negaraku",
+    "Malaysia Berjaya",
+    "Tanggal 31",
+    "Keranamu Malaysia"
+   ]
+  },
+  "answer": 0,
+  "image": "",
+  "id": "ad704498b9"
  }
 ]

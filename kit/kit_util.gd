@@ -1,5 +1,5 @@
-## Shared bits for the demo scenes: home button, full-screen background, doc screenshots.
-class_name DemoUtil
+## Shared scene helpers (demos + games): home button, full-screen background, doc screenshots.
+class_name KitUtil
 extends RefCounted
 
 
