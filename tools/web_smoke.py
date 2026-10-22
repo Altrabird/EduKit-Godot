@@ -1,4 +1,4 @@
-"""Serve a Godot web export locally and load it in headless Chromium.
+"""Serve a Godot web export locally (or open a live URL) and load it in headless Chromium.
 Fails on page errors, a missing canvas, or the engine not starting.
 Usage: python tools/web_smoke.py build/web/<game> <screenshot.png> [seconds] [click x,y ...]
 Clicks (in 1280x720 page pixels) run in order after start, ~1.5 s apart."""
@@ -9,11 +9,15 @@ folder, shot = sys.argv[1], sys.argv[2]
 wait = float(sys.argv[3]) if len(sys.argv) > 3 else 12
 clicks = [tuple(map(int, c.split(","))) for c in sys.argv[4:]]
 
-handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=folder)
-handler.log_message = lambda *a: None
-srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), handler)
-threading.Thread(target=srv.serve_forever, daemon=True).start()
-url = f"http://127.0.0.1:{srv.server_address[1]}/index.html"
+srv = None
+if folder.startswith("http"):
+    url = folder
+else:
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=folder)
+    handler.log_message = lambda *a: None
+    srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), handler)
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    url = f"http://127.0.0.1:{srv.server_address[1]}/index.html"
 
 errors, logs = [], []
 with sync_playwright() as p:
@@ -29,7 +33,8 @@ with sync_playwright() as p:
         time.sleep(1.5)
     page.screenshot(path=shot)
     b.close()
-srv.shutdown()
+if srv:
+    srv.shutdown()
 
 bad = [l for l in logs if l.startswith("error") or "SCRIPT ERROR" in l or "ERROR:" in l]
 started = any("Godot Engine" in l for l in logs)
