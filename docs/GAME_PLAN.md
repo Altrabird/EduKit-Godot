@@ -1,4 +1,17 @@
-# Five games built on EduKit — plan for approval
+# Five games built on EduKit
+
+**Status (2026-10-22): all five built, tested and live as HTML5 builds.**
+
+| Game | Play |
+|---|---|
+| 1 Juara Kuiz Sekolah | https://altrabird.github.io/Juara-Kuiz-Sekolah/ |
+| 2 Kancil & Suku Kata | https://altrabird.github.io/Kancil-Suku-Kata/ |
+| 3 Kedai Runcit Pak Ali | https://altrabird.github.io/Kedai-Runcit-Pak-Ali/ |
+| 4 Makmal Sains Ajaib 3D | https://altrabird.github.io/Makmal-Sains-Ajaib-3D/ |
+| 5 Kampungku Sihat | https://altrabird.github.io/Kampungku-Sihat/ |
+
+The original plan follows.
+
 
 Each game reuses the kit as-is; the "new work" lines are the only code each one needs.
 Order is by reuse (fastest first). Target: Godot 4.7, Compatibility renderer.

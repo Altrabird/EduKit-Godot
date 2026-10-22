@@ -7,16 +7,37 @@ Reusable art, audio, 3D props and GDScript components for Malaysian primary-scho
 Open the folder in Godot 4.7 and press **F5**: the gallery browses every asset and
 launches four playable demos (quiz, drag-and-match, platformer, 3D classroom).
 
+## Games built on EduKit (play in the browser)
+
+| Game | Play | Web build repo | Source |
+|---|---|---|---|
+| Juara Kuiz Sekolah — quiz show, 11 KSSR subjects, Tahun 1–6 | [play](https://altrabird.github.io/Juara-Kuiz-Sekolah/) | [Altrabird/Juara-Kuiz-Sekolah](https://github.com/Altrabird/Juara-Kuiz-Sekolah) | `games/juara_kuiz/` |
+| Kancil & Suku Kata — BM syllable platformer (+ English letters) | [play](https://altrabird.github.io/Kancil-Suku-Kata/) | [Altrabird/Kancil-Suku-Kata](https://github.com/Altrabird/Kancil-Suku-Kata) | `games/kancil/` |
+| Kedai Runcit Pak Ali — money, change, time, fractions | [play](https://altrabird.github.io/Kedai-Runcit-Pak-Ali/) | [Altrabird/Kedai-Runcit-Pak-Ali](https://github.com/Altrabird/Kedai-Runcit-Pak-Ali) | `games/kedai/` |
+| Makmal Sains Ajaib 3D — 3D science lab missions (Sains + RBT) | [play](https://altrabird.github.io/Makmal-Sains-Ajaib-3D/) | [Altrabird/Makmal-Sains-Ajaib-3D](https://github.com/Altrabird/Makmal-Sains-Ajaib-3D) | `games/makmal/` |
+| Kampungku Sihat — PJPK, Moral, PI, Seni & Muzik village | [play](https://altrabird.github.io/Kampungku-Sihat/) | [Altrabird/Kampungku-Sihat](https://github.com/Altrabird/Kampungku-Sihat) | `games/kampung/` |
+
+Each game is a feature tag of this one project (`run/main_scene.<tag>` in `project.godot`
+plus a Web export preset), so all five share the kit with no copies. Publish one with:
+
+```bash
+bash tools/deploy_web.sh "Web - Juara Kuiz Sekolah" juara_kuiz Juara-Kuiz-Sekolah "-"
+```
+
+It exports single-threaded HTML5 (works on GitHub Pages without special headers), loads
+it in headless Chromium, and pushes the build to the game's own repo. Each game has a
+headless play-through test: `godot --headless --path . res://games/<game>/test_<game>.tscn`.
+
 | | Count | Where |
 |---|---|---|
 | Vector art (SVG, crisp at any size) | 539 | `assets/art/` |
 | — per KSSR subject (11 folders) | 323 | `assets/art/subjects/<subject>/` |
 | — icons / characters / backgrounds / UI / FX / tiles | 68 / 77 / 18 / 40 / 12 / 1 atlas | `assets/art/<category>/` |
 | 3D props (GLB, low-poly, metres) | 64 | `assets/models/<group>/` |
-| Sound effects (WAV) | 39 | `assets/audio/sfx/` |
+| Sound effects (WAV) | 41 | `assets/audio/sfx/` |
 | Music loops + jingles (OGG) | 5 + 2 | `assets/audio/music/` |
-| Voice clips, ms-MY + English (MP3) | 983 | `assets/audio/voice/<ms\|en>/<group>/` |
-| Question banks (BM + EN) | 74 in 11 subjects | `data/questions/` |
+| Voice clips, ms-MY + English (MP3) | 1,421 | `assets/audio/voice/<ms\|en>/<group>/` |
+| Question banks (BM + EN, voiced) | 193 in 11 subjects | `data/questions/` |
 | GDScript components | 21 | `kit/` |
 
 Subject list follows KPM's *Senarai Mata Pelajaran KSSR (Semakan 2017)* — see
@@ -95,7 +116,7 @@ save/load round trip, and runs each component in the tree (8,851 checks).
 ## Licences and notes
 
 - Art, audio, models and code: generated for this project.
-- Fonts: Fredoka and Andika, SIL Open Font License (`assets/fonts/OFL-*.txt`).
+- Fonts: Fredoka, Andika and Noto Sans Symbols 2 (web glyph fallback), SIL Open Font License (`assets/fonts/OFL-*.txt`).
 - Voices: Microsoft neural voices via `edge-tts` (ms-MY Yasmin, en-SG Luna). Fine for
   classroom use; check Microsoft's terms before selling a game that ships these clips.
 - Money art is deliberately stylised (no real banknote designs).
