@@ -24,9 +24,20 @@ var coins := 0
 
 
 func _ready() -> void:
+	_font_fallbacks()
 	load_save()
 	for bus in volumes:
 		Audio.set_volume(bus, volumes[bus])
+
+
+## Browsers have no system-font fallback, so ★ ☆ ▶ ✓ ✗ → would render as boxes on the web.
+## Fonts are cached resources, so setting fallbacks once here reaches the theme and every preload.
+static func _font_fallbacks() -> void:
+	var symbols: FontFile = load("res://assets/fonts/NotoSansSymbols2-Regular.ttf")
+	var andika: FontFile = load("res://assets/fonts/Andika-Regular.ttf")
+	andika.fallbacks = [symbols]
+	(load("res://assets/fonts/Andika-Bold.ttf") as FontFile).fallbacks = [symbols]
+	(load("res://assets/fonts/Fredoka.ttf") as FontFile).fallbacks = [andika, symbols]
 
 
 ## Keeps the best result per level. Returns true if it is a new best.
