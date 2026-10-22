@@ -1,0 +1,117 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Alat muzik ini ialah...",
+   "en": "This instrument is a..."
+  },
+  "choices": {
+   "ms": [
+    "Kompang",
+    "Gitar",
+    "Piano",
+    "Rekoder"
+   ],
+   "en": [
+    "Kompang",
+    "Guitar",
+    "Piano",
+    "Recorder"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/kompang"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Alat muzik tradisional Sarawak ini ialah...",
+   "en": "This traditional Sarawak instrument is the..."
+  },
+  "choices": {
+   "ms": [
+    "Sape",
+    "Gitar",
+    "Biola",
+    "Seruling"
+   ],
+   "en": [
+    "Sape",
+    "Guitar",
+    "Violin",
+    "Flute"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/sape"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Not krocet bernilai ___ detik.",
+   "en": "A crotchet is worth ___ beat(s)."
+  },
+  "choices": {
+   "ms": [
+    "1",
+    "2",
+    "4",
+    "1/2"
+   ],
+   "en": [
+    "1",
+    "2",
+    "4",
+    "1/2"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/not_krocet"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Not minim bernilai ___ detik.",
+   "en": "A minim is worth ___ beats."
+  },
+  "choices": {
+   "ms": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ],
+   "en": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/not_minim"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Not semibrif bernilai ___ detik.",
+   "en": "A semibreve is worth ___ beats."
+  },
+  "choices": {
+   "ms": [
+    "4",
+    "2",
+    "1",
+    "3"
+   ],
+   "en": [
+    "4",
+    "2",
+    "1",
+    "3"
+   ]
+  },
+  "answer": 0,
+  "image": "muzik/not_semibreve"
+ }
+]

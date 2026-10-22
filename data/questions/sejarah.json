@@ -1,0 +1,140 @@
+[
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bendera Malaysia dikenali sebagai...",
+   "en": "Malaysia's flag is called..."
+  },
+  "choices": {
+   "ms": [
+    "Jalur Gemilang",
+    "Sang Saka",
+    "Union Jack",
+    "Merah Putih"
+   ],
+   "en": [
+    "Jalur Gemilang",
+    "Sang Saka",
+    "Union Jack",
+    "Merah Putih"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/jalur_gemilang"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Bunga kebangsaan Malaysia ialah...",
+   "en": "Malaysia's national flower is the..."
+  },
+  "choices": {
+   "ms": [
+    "Bunga raya",
+    "Orkid",
+    "Melur",
+    "Mawar"
+   ],
+   "en": [
+    "Hibiscus",
+    "Orchid",
+    "Jasmine",
+    "Rose"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/bunga_raya"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Jalur Gemilang mempunyai ___ jalur merah dan putih.",
+   "en": "The Jalur Gemilang has ___ red and white stripes."
+  },
+  "choices": {
+   "ms": [
+    "14",
+    "13",
+    "12",
+    "10"
+   ],
+   "en": [
+    "14",
+    "13",
+    "12",
+    "10"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/jalur_gemilang"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Malaysia (Persekutuan Tanah Melayu) mencapai kemerdekaan pada...",
+   "en": "Malaya gained independence on..."
+  },
+  "choices": {
+   "ms": [
+    "31 Ogos 1957",
+    "16 September 1963",
+    "1 Januari 1957",
+    "31 Ogos 1963"
+   ],
+   "en": [
+    "31 August 1957",
+    "16 September 1963",
+    "1 January 1957",
+    "31 August 1963"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Pada 16 September 1963, terbentuknya...",
+   "en": "On 16 September 1963, what was formed?"
+  },
+  "choices": {
+   "ms": [
+    "Malaysia",
+    "Kesultanan Melayu Melaka",
+    "Persekutuan Tanah Melayu",
+    "Negeri-negeri Selat"
+   ],
+   "en": [
+    "Malaysia",
+    "The Melaka Sultanate",
+    "The Federation of Malaya",
+    "The Straits Settlements"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Bijih timah didulang menggunakan alat ini.",
+   "en": "Tin ore was panned with this tool."
+  },
+  "choices": {
+   "ms": [
+    "Dulang",
+    "Cangkul",
+    "Canting",
+    "Kendi"
+   ],
+   "en": [
+    "Dulang (tray)",
+    "Hoe",
+    "Canting",
+    "Water jug"
+   ]
+  },
+  "answer": 0,
+  "image": "sejarah/dulang_bijih_timah"
+ }
+]

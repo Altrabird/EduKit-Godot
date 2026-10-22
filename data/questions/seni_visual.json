@@ -1,0 +1,117 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Warna primer ialah merah, biru dan...",
+   "en": "The primary colours are red, blue and..."
+  },
+  "choices": {
+   "ms": [
+    "kuning",
+    "hijau",
+    "ungu",
+    "oren"
+   ],
+   "en": [
+    "yellow",
+    "green",
+    "purple",
+    "orange"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/tiub_cat"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Biru + kuning menghasilkan warna...",
+   "en": "Blue + yellow makes..."
+  },
+  "choices": {
+   "ms": [
+    "hijau",
+    "oren",
+    "ungu",
+    "coklat"
+   ],
+   "en": [
+    "green",
+    "orange",
+    "purple",
+    "brown"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/roda_warna"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Merah + biru menghasilkan warna...",
+   "en": "Red + blue makes..."
+  },
+  "choices": {
+   "ms": [
+    "ungu",
+    "hijau",
+    "oren",
+    "kuning"
+   ],
+   "en": [
+    "purple",
+    "green",
+    "orange",
+    "yellow"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/roda_warna"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Alat ini digunakan untuk membuat batik.",
+   "en": "This tool is used to make batik."
+  },
+  "choices": {
+   "ms": [
+    "Canting",
+    "Berus",
+    "Gunting",
+    "Pensel"
+   ],
+   "en": [
+    "Canting",
+    "Brush",
+    "Scissors",
+    "Pencil"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/canting"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Seni melipat kertas dikenali sebagai...",
+   "en": "The art of folding paper is called..."
+  },
+  "choices": {
+   "ms": [
+    "origami",
+    "batik",
+    "arca",
+    "kolaj"
+   ],
+   "en": [
+    "origami",
+    "batik",
+    "sculpture",
+    "collage"
+   ]
+  },
+  "answer": 0,
+  "image": "seni_visual/origami"
+ }
+]

@@ -1,0 +1,186 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "What animal is this?",
+   "en": "What animal is this?"
+  },
+  "choices": {
+   "ms": [
+    "Kucing (cat)",
+    "Anjing (dog)",
+    "Arnab (rabbit)",
+    "Lembu (cow)"
+   ],
+   "en": [
+    "Cat",
+    "Dog",
+    "Rabbit",
+    "Cow"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/cat"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Which word starts with 'b'?",
+   "en": "Which word starts with 'b'?"
+  },
+  "choices": {
+   "ms": [
+    "bus",
+    "car",
+    "ship",
+    "train"
+   ],
+   "en": [
+    "bus",
+    "car",
+    "ship",
+    "train"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "This is a ___.",
+   "en": "This is a ___."
+  },
+  "choices": {
+   "ms": [
+    "bicycle",
+    "motorcycle",
+    "helicopter",
+    "boat"
+   ],
+   "en": [
+    "bicycle",
+    "motorcycle",
+    "helicopter",
+    "boat"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_inggeris/bicycle"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Choose the plural of 'apple'.",
+   "en": "Choose the plural of 'apple'."
+  },
+  "choices": {
+   "ms": [
+    "apples",
+    "appleses",
+    "appls",
+    "apple"
+   ],
+   "en": [
+    "apples",
+    "appleses",
+    "appls",
+    "apple"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "I ___ a student.",
+   "en": "I ___ a student."
+  },
+  "choices": {
+   "ms": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "en": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Which one can fly?",
+   "en": "Which one can fly?"
+  },
+  "choices": {
+   "ms": [
+    "bird",
+    "fish",
+    "snail",
+    "turtle"
+   ],
+   "en": [
+    "bird",
+    "fish",
+    "snail",
+    "turtle"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Yesterday, she ___ to school.",
+   "en": "Yesterday, she ___ to school."
+  },
+  "choices": {
+   "ms": [
+    "walked",
+    "walks",
+    "walking",
+    "walk"
+   ],
+   "en": [
+    "walked",
+    "walks",
+    "walking",
+    "walk"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "The opposite of 'brave' is...",
+   "en": "The opposite of 'brave' is..."
+  },
+  "choices": {
+   "ms": [
+    "afraid",
+    "strong",
+    "happy",
+    "quick"
+   ],
+   "en": [
+    "afraid",
+    "strong",
+    "happy",
+    "quick"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ }
+]

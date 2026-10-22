@@ -1,0 +1,209 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Planet tempat kita tinggal ialah...",
+   "en": "The planet we live on is..."
+  },
+  "choices": {
+   "ms": [
+    "Bumi",
+    "Marikh",
+    "Musytari",
+    "Zuhal"
+   ],
+   "en": [
+    "Earth",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/planet_earth"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Deria apakah yang digunakan untuk melihat?",
+   "en": "Which sense do we use to see?"
+  },
+  "choices": {
+   "ms": [
+    "Mata",
+    "Telinga",
+    "Hidung",
+    "Lidah"
+   ],
+   "en": [
+    "Eyes",
+    "Ears",
+    "Nose",
+    "Tongue"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Peringkat selepas telur dalam kitaran hidup katak ialah...",
+   "en": "After the egg, the frog's next life stage is..."
+  },
+  "choices": {
+   "ms": [
+    "Berudu",
+    "Anak katak",
+    "Katak dewasa",
+    "Rama-rama"
+   ],
+   "en": [
+    "Tadpole",
+    "Froglet",
+    "Adult frog",
+    "Butterfly"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/frog_eggs"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Tumbuhan memerlukan ___ untuk membuat makanan.",
+   "en": "Plants need ___ to make food."
+  },
+  "choices": {
+   "ms": [
+    "cahaya matahari",
+    "gula",
+    "garam",
+    "plastik"
+   ],
+   "en": [
+    "sunlight",
+    "sugar",
+    "salt",
+    "plastic"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/plant_young"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Magnet menarik objek yang diperbuat daripada...",
+   "en": "A magnet attracts objects made of..."
+  },
+  "choices": {
+   "ms": [
+    "besi",
+    "kayu",
+    "plastik",
+    "kertas"
+   ],
+   "en": [
+    "iron",
+    "wood",
+    "plastic",
+    "paper"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/magnet"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Alat ini digunakan untuk mengukur suhu.",
+   "en": "This tool measures temperature."
+  },
+  "choices": {
+   "ms": [
+    "Termometer",
+    "Pembaris",
+    "Penimbang",
+    "Bikar"
+   ],
+   "en": [
+    "Thermometer",
+    "Ruler",
+    "Scale",
+    "Beaker"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/thermometer"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Planet terbesar dalam Sistem Suria ialah...",
+   "en": "The largest planet in the Solar System is..."
+  },
+  "choices": {
+   "ms": [
+    "Musytari",
+    "Bumi",
+    "Zuhal",
+    "Utarid"
+   ],
+   "en": [
+    "Jupiter",
+    "Earth",
+    "Saturn",
+    "Mercury"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/planet_jupiter"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Air mendidih pada suhu...",
+   "en": "Water boils at..."
+  },
+  "choices": {
+   "ms": [
+    "100 °C",
+    "0 °C",
+    "50 °C",
+    "37 °C"
+   ],
+   "en": [
+    "100 °C",
+    "0 °C",
+    "50 °C",
+    "37 °C"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/beaker"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Bulan mengelilingi Bumi dalam masa kira-kira...",
+   "en": "The Moon orbits the Earth in about..."
+  },
+  "choices": {
+   "ms": [
+    "29.5 hari",
+    "24 jam",
+    "365 hari",
+    "7 hari"
+   ],
+   "en": [
+    "29.5 days",
+    "24 hours",
+    "365 days",
+    "7 days"
+   ]
+  },
+  "answer": 0,
+  "image": "sains/moon"
+ }
+]

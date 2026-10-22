@@ -1,0 +1,4008 @@
+{
+ "ms": {
+  "feedback": {
+   "correct": {
+    "text": "Betul!",
+    "path": "res://assets/audio/voice/ms/feedback/correct.mp3"
+   },
+   "great": {
+    "text": "Hebat!",
+    "path": "res://assets/audio/voice/ms/feedback/great.mp3"
+   },
+   "good": {
+    "text": "Bagus!",
+    "path": "res://assets/audio/voice/ms/feedback/good.mp3"
+   },
+   "well_done": {
+    "text": "Syabas!",
+    "path": "res://assets/audio/voice/ms/feedback/well_done.mp3"
+   },
+   "congrats": {
+    "text": "Tahniah!",
+    "path": "res://assets/audio/voice/ms/feedback/congrats.mp3"
+   },
+   "excellent": {
+    "text": "Cemerlang!",
+    "path": "res://assets/audio/voice/ms/feedback/excellent.mp3"
+   },
+   "try_again": {
+    "text": "Cuba lagi.",
+    "path": "res://assets/audio/voice/ms/feedback/try_again.mp3"
+   },
+   "almost": {
+    "text": "Hampir betul!",
+    "path": "res://assets/audio/voice/ms/feedback/almost.mp3"
+   },
+   "wrong": {
+    "text": "Salah.",
+    "path": "res://assets/audio/voice/ms/feedback/wrong.mp3"
+   },
+   "dont_give_up": {
+    "text": "Jangan putus asa!",
+    "path": "res://assets/audio/voice/ms/feedback/dont_give_up.mp3"
+   },
+   "times_up": {
+    "text": "Masa tamat!",
+    "path": "res://assets/audio/voice/ms/feedback/times_up.mp3"
+   },
+   "lets_start": {
+    "text": "Mari kita mulakan!",
+    "path": "res://assets/audio/voice/ms/feedback/lets_start.mp3"
+   },
+   "ready": {
+    "text": "Sedia...",
+    "path": "res://assets/audio/voice/ms/feedback/ready.mp3"
+   },
+   "go": {
+    "text": "Mula!",
+    "path": "res://assets/audio/voice/ms/feedback/go.mp3"
+   },
+   "next_level": {
+    "text": "Tahap seterusnya!",
+    "path": "res://assets/audio/voice/ms/feedback/next_level.mp3"
+   },
+   "level_complete": {
+    "text": "Tahap selesai!",
+    "path": "res://assets/audio/voice/ms/feedback/level_complete.mp3"
+   },
+   "game_over": {
+    "text": "Permainan tamat.",
+    "path": "res://assets/audio/voice/ms/feedback/game_over.mp3"
+   },
+   "choose_answer": {
+    "text": "Pilih jawapan yang betul.",
+    "path": "res://assets/audio/voice/ms/feedback/choose_answer.mp3"
+   },
+   "listen_choose": {
+    "text": "Dengar dan pilih.",
+    "path": "res://assets/audio/voice/ms/feedback/listen_choose.mp3"
+   },
+   "drag_place": {
+    "text": "Seret ke tempat yang betul.",
+    "path": "res://assets/audio/voice/ms/feedback/drag_place.mp3"
+   },
+   "match": {
+    "text": "Padankan gambar dengan perkataan.",
+    "path": "res://assets/audio/voice/ms/feedback/match.mp3"
+   },
+   "count": {
+    "text": "Kira objek ini.",
+    "path": "res://assets/audio/voice/ms/feedback/count.mp3"
+   },
+   "say_word": {
+    "text": "Sebut perkataan ini.",
+    "path": "res://assets/audio/voice/ms/feedback/say_word.mp3"
+   },
+   "welcome": {
+    "text": "Selamat datang!",
+    "path": "res://assets/audio/voice/ms/feedback/welcome.mp3"
+   },
+   "thanks": {
+    "text": "Terima kasih kerana bermain!",
+    "path": "res://assets/audio/voice/ms/feedback/thanks.mp3"
+   },
+   "three_stars": {
+    "text": "Tiga bintang! Hebatnya!",
+    "path": "res://assets/audio/voice/ms/feedback/three_stars.mp3"
+   },
+   "your_score": {
+    "text": "Markah anda.",
+    "path": "res://assets/audio/voice/ms/feedback/your_score.mp3"
+   },
+   "question": {
+    "text": "Soalan.",
+    "path": "res://assets/audio/voice/ms/feedback/question.mp3"
+   },
+   "paused": {
+    "text": "Permainan dijeda.",
+    "path": "res://assets/audio/voice/ms/feedback/paused.mp3"
+   },
+   "new_record": {
+    "text": "Rekod baharu!",
+    "path": "res://assets/audio/voice/ms/feedback/new_record.mp3"
+   },
+   "unlocked": {
+    "text": "Tahap baharu dibuka!",
+    "path": "res://assets/audio/voice/ms/feedback/unlocked.mp3"
+   },
+   "hint": {
+    "text": "Ini petunjuk.",
+    "path": "res://assets/audio/voice/ms/feedback/hint.mp3"
+   },
+   "spell": {
+    "text": "Eja perkataan ini.",
+    "path": "res://assets/audio/voice/ms/feedback/spell.mp3"
+   },
+   "find": {
+    "text": "Cari objek ini.",
+    "path": "res://assets/audio/voice/ms/feedback/find.mp3"
+   },
+   "sort": {
+    "text": "Susun mengikut urutan.",
+    "path": "res://assets/audio/voice/ms/feedback/sort.mp3"
+   }
+  },
+  "numbers": {
+   "0": {
+    "text": "sifar",
+    "path": "res://assets/audio/voice/ms/numbers/0.mp3"
+   },
+   "1": {
+    "text": "satu",
+    "path": "res://assets/audio/voice/ms/numbers/1.mp3"
+   },
+   "2": {
+    "text": "dua",
+    "path": "res://assets/audio/voice/ms/numbers/2.mp3"
+   },
+   "3": {
+    "text": "tiga",
+    "path": "res://assets/audio/voice/ms/numbers/3.mp3"
+   },
+   "4": {
+    "text": "empat",
+    "path": "res://assets/audio/voice/ms/numbers/4.mp3"
+   },
+   "5": {
+    "text": "lima",
+    "path": "res://assets/audio/voice/ms/numbers/5.mp3"
+   },
+   "6": {
+    "text": "enam",
+    "path": "res://assets/audio/voice/ms/numbers/6.mp3"
+   },
+   "7": {
+    "text": "tujuh",
+    "path": "res://assets/audio/voice/ms/numbers/7.mp3"
+   },
+   "8": {
+    "text": "lapan",
+    "path": "res://assets/audio/voice/ms/numbers/8.mp3"
+   },
+   "9": {
+    "text": "sembilan",
+    "path": "res://assets/audio/voice/ms/numbers/9.mp3"
+   },
+   "10": {
+    "text": "sepuluh",
+    "path": "res://assets/audio/voice/ms/numbers/10.mp3"
+   },
+   "11": {
+    "text": "sebelas",
+    "path": "res://assets/audio/voice/ms/numbers/11.mp3"
+   },
+   "12": {
+    "text": "dua belas",
+    "path": "res://assets/audio/voice/ms/numbers/12.mp3"
+   },
+   "13": {
+    "text": "tiga belas",
+    "path": "res://assets/audio/voice/ms/numbers/13.mp3"
+   },
+   "14": {
+    "text": "empat belas",
+    "path": "res://assets/audio/voice/ms/numbers/14.mp3"
+   },
+   "15": {
+    "text": "lima belas",
+    "path": "res://assets/audio/voice/ms/numbers/15.mp3"
+   },
+   "16": {
+    "text": "enam belas",
+    "path": "res://assets/audio/voice/ms/numbers/16.mp3"
+   },
+   "17": {
+    "text": "tujuh belas",
+    "path": "res://assets/audio/voice/ms/numbers/17.mp3"
+   },
+   "18": {
+    "text": "lapan belas",
+    "path": "res://assets/audio/voice/ms/numbers/18.mp3"
+   },
+   "19": {
+    "text": "sembilan belas",
+    "path": "res://assets/audio/voice/ms/numbers/19.mp3"
+   },
+   "20": {
+    "text": "dua puluh",
+    "path": "res://assets/audio/voice/ms/numbers/20.mp3"
+   },
+   "30": {
+    "text": "tiga puluh",
+    "path": "res://assets/audio/voice/ms/numbers/30.mp3"
+   },
+   "40": {
+    "text": "empat puluh",
+    "path": "res://assets/audio/voice/ms/numbers/40.mp3"
+   },
+   "50": {
+    "text": "lima puluh",
+    "path": "res://assets/audio/voice/ms/numbers/50.mp3"
+   },
+   "60": {
+    "text": "enam puluh",
+    "path": "res://assets/audio/voice/ms/numbers/60.mp3"
+   },
+   "70": {
+    "text": "tujuh puluh",
+    "path": "res://assets/audio/voice/ms/numbers/70.mp3"
+   },
+   "80": {
+    "text": "lapan puluh",
+    "path": "res://assets/audio/voice/ms/numbers/80.mp3"
+   },
+   "90": {
+    "text": "sembilan puluh",
+    "path": "res://assets/audio/voice/ms/numbers/90.mp3"
+   },
+   "100": {
+    "text": "seratus",
+    "path": "res://assets/audio/voice/ms/numbers/100.mp3"
+   },
+   "1000": {
+    "text": "seribu",
+    "path": "res://assets/audio/voice/ms/numbers/1000.mp3"
+   }
+  },
+  "letters": {
+   "a": {
+    "text": "ei",
+    "path": "res://assets/audio/voice/ms/letters/a.mp3"
+   },
+   "b": {
+    "text": "bi",
+    "path": "res://assets/audio/voice/ms/letters/b.mp3"
+   },
+   "c": {
+    "text": "si",
+    "path": "res://assets/audio/voice/ms/letters/c.mp3"
+   },
+   "d": {
+    "text": "di",
+    "path": "res://assets/audio/voice/ms/letters/d.mp3"
+   },
+   "e": {
+    "text": "i",
+    "path": "res://assets/audio/voice/ms/letters/e.mp3"
+   },
+   "f": {
+    "text": "ef",
+    "path": "res://assets/audio/voice/ms/letters/f.mp3"
+   },
+   "g": {
+    "text": "ji",
+    "path": "res://assets/audio/voice/ms/letters/g.mp3"
+   },
+   "h": {
+    "text": "hec",
+    "path": "res://assets/audio/voice/ms/letters/h.mp3"
+   },
+   "i": {
+    "text": "ai",
+    "path": "res://assets/audio/voice/ms/letters/i.mp3"
+   },
+   "j": {
+    "text": "je",
+    "path": "res://assets/audio/voice/ms/letters/j.mp3"
+   },
+   "k": {
+    "text": "ke",
+    "path": "res://assets/audio/voice/ms/letters/k.mp3"
+   },
+   "l": {
+    "text": "el",
+    "path": "res://assets/audio/voice/ms/letters/l.mp3"
+   },
+   "m": {
+    "text": "em",
+    "path": "res://assets/audio/voice/ms/letters/m.mp3"
+   },
+   "n": {
+    "text": "en",
+    "path": "res://assets/audio/voice/ms/letters/n.mp3"
+   },
+   "o": {
+    "text": "o",
+    "path": "res://assets/audio/voice/ms/letters/o.mp3"
+   },
+   "p": {
+    "text": "pi",
+    "path": "res://assets/audio/voice/ms/letters/p.mp3"
+   },
+   "q": {
+    "text": "kiu",
+    "path": "res://assets/audio/voice/ms/letters/q.mp3"
+   },
+   "r": {
+    "text": "ar",
+    "path": "res://assets/audio/voice/ms/letters/r.mp3"
+   },
+   "s": {
+    "text": "es",
+    "path": "res://assets/audio/voice/ms/letters/s.mp3"
+   },
+   "t": {
+    "text": "ti",
+    "path": "res://assets/audio/voice/ms/letters/t.mp3"
+   },
+   "u": {
+    "text": "yu",
+    "path": "res://assets/audio/voice/ms/letters/u.mp3"
+   },
+   "v": {
+    "text": "vi",
+    "path": "res://assets/audio/voice/ms/letters/v.mp3"
+   },
+   "w": {
+    "text": "dabel yu",
+    "path": "res://assets/audio/voice/ms/letters/w.mp3"
+   },
+   "x": {
+    "text": "eks",
+    "path": "res://assets/audio/voice/ms/letters/x.mp3"
+   },
+   "y": {
+    "text": "wai",
+    "path": "res://assets/audio/voice/ms/letters/y.mp3"
+   },
+   "z": {
+    "text": "zed",
+    "path": "res://assets/audio/voice/ms/letters/z.mp3"
+   }
+  },
+  "syllables": {
+   "a": {
+    "text": "a",
+    "path": "res://assets/audio/voice/ms/syllables/a.mp3"
+   },
+   "ba": {
+    "text": "ba",
+    "path": "res://assets/audio/voice/ms/syllables/ba.mp3"
+   },
+   "ca": {
+    "text": "ca",
+    "path": "res://assets/audio/voice/ms/syllables/ca.mp3"
+   },
+   "da": {
+    "text": "da",
+    "path": "res://assets/audio/voice/ms/syllables/da.mp3"
+   },
+   "fa": {
+    "text": "fa",
+    "path": "res://assets/audio/voice/ms/syllables/fa.mp3"
+   },
+   "ga": {
+    "text": "ga",
+    "path": "res://assets/audio/voice/ms/syllables/ga.mp3"
+   },
+   "ha": {
+    "text": "ha",
+    "path": "res://assets/audio/voice/ms/syllables/ha.mp3"
+   },
+   "ja": {
+    "text": "ja",
+    "path": "res://assets/audio/voice/ms/syllables/ja.mp3"
+   },
+   "ka": {
+    "text": "ka",
+    "path": "res://assets/audio/voice/ms/syllables/ka.mp3"
+   },
+   "la": {
+    "text": "la",
+    "path": "res://assets/audio/voice/ms/syllables/la.mp3"
+   },
+   "ma": {
+    "text": "ma",
+    "path": "res://assets/audio/voice/ms/syllables/ma.mp3"
+   },
+   "na": {
+    "text": "na",
+    "path": "res://assets/audio/voice/ms/syllables/na.mp3"
+   },
+   "pa": {
+    "text": "pa",
+    "path": "res://assets/audio/voice/ms/syllables/pa.mp3"
+   },
+   "ra": {
+    "text": "ra",
+    "path": "res://assets/audio/voice/ms/syllables/ra.mp3"
+   },
+   "sa": {
+    "text": "sa",
+    "path": "res://assets/audio/voice/ms/syllables/sa.mp3"
+   },
+   "ta": {
+    "text": "ta",
+    "path": "res://assets/audio/voice/ms/syllables/ta.mp3"
+   },
+   "wa": {
+    "text": "wa",
+    "path": "res://assets/audio/voice/ms/syllables/wa.mp3"
+   },
+   "ya": {
+    "text": "ya",
+    "path": "res://assets/audio/voice/ms/syllables/ya.mp3"
+   },
+   "za": {
+    "text": "za",
+    "path": "res://assets/audio/voice/ms/syllables/za.mp3"
+   },
+   "i": {
+    "text": "i",
+    "path": "res://assets/audio/voice/ms/syllables/i.mp3"
+   },
+   "bi": {
+    "text": "bi",
+    "path": "res://assets/audio/voice/ms/syllables/bi.mp3"
+   },
+   "ci": {
+    "text": "ci",
+    "path": "res://assets/audio/voice/ms/syllables/ci.mp3"
+   },
+   "di": {
+    "text": "di",
+    "path": "res://assets/audio/voice/ms/syllables/di.mp3"
+   },
+   "fi": {
+    "text": "fi",
+    "path": "res://assets/audio/voice/ms/syllables/fi.mp3"
+   },
+   "gi": {
+    "text": "gi",
+    "path": "res://assets/audio/voice/ms/syllables/gi.mp3"
+   },
+   "hi": {
+    "text": "hi",
+    "path": "res://assets/audio/voice/ms/syllables/hi.mp3"
+   },
+   "ji": {
+    "text": "ji",
+    "path": "res://assets/audio/voice/ms/syllables/ji.mp3"
+   },
+   "ki": {
+    "text": "ki",
+    "path": "res://assets/audio/voice/ms/syllables/ki.mp3"
+   },
+   "li": {
+    "text": "li",
+    "path": "res://assets/audio/voice/ms/syllables/li.mp3"
+   },
+   "mi": {
+    "text": "mi",
+    "path": "res://assets/audio/voice/ms/syllables/mi.mp3"
+   },
+   "ni": {
+    "text": "ni",
+    "path": "res://assets/audio/voice/ms/syllables/ni.mp3"
+   },
+   "pi": {
+    "text": "pi",
+    "path": "res://assets/audio/voice/ms/syllables/pi.mp3"
+   },
+   "ri": {
+    "text": "ri",
+    "path": "res://assets/audio/voice/ms/syllables/ri.mp3"
+   },
+   "si": {
+    "text": "si",
+    "path": "res://assets/audio/voice/ms/syllables/si.mp3"
+   },
+   "ti": {
+    "text": "ti",
+    "path": "res://assets/audio/voice/ms/syllables/ti.mp3"
+   },
+   "wi": {
+    "text": "wi",
+    "path": "res://assets/audio/voice/ms/syllables/wi.mp3"
+   },
+   "yi": {
+    "text": "yi",
+    "path": "res://assets/audio/voice/ms/syllables/yi.mp3"
+   },
+   "zi": {
+    "text": "zi",
+    "path": "res://assets/audio/voice/ms/syllables/zi.mp3"
+   },
+   "u": {
+    "text": "u",
+    "path": "res://assets/audio/voice/ms/syllables/u.mp3"
+   },
+   "bu": {
+    "text": "bu",
+    "path": "res://assets/audio/voice/ms/syllables/bu.mp3"
+   },
+   "cu": {
+    "text": "cu",
+    "path": "res://assets/audio/voice/ms/syllables/cu.mp3"
+   },
+   "du": {
+    "text": "du",
+    "path": "res://assets/audio/voice/ms/syllables/du.mp3"
+   },
+   "fu": {
+    "text": "fu",
+    "path": "res://assets/audio/voice/ms/syllables/fu.mp3"
+   },
+   "gu": {
+    "text": "gu",
+    "path": "res://assets/audio/voice/ms/syllables/gu.mp3"
+   },
+   "hu": {
+    "text": "hu",
+    "path": "res://assets/audio/voice/ms/syllables/hu.mp3"
+   },
+   "ju": {
+    "text": "ju",
+    "path": "res://assets/audio/voice/ms/syllables/ju.mp3"
+   },
+   "ku": {
+    "text": "ku",
+    "path": "res://assets/audio/voice/ms/syllables/ku.mp3"
+   },
+   "lu": {
+    "text": "lu",
+    "path": "res://assets/audio/voice/ms/syllables/lu.mp3"
+   },
+   "mu": {
+    "text": "mu",
+    "path": "res://assets/audio/voice/ms/syllables/mu.mp3"
+   },
+   "nu": {
+    "text": "nu",
+    "path": "res://assets/audio/voice/ms/syllables/nu.mp3"
+   },
+   "pu": {
+    "text": "pu",
+    "path": "res://assets/audio/voice/ms/syllables/pu.mp3"
+   },
+   "ru": {
+    "text": "ru",
+    "path": "res://assets/audio/voice/ms/syllables/ru.mp3"
+   },
+   "su": {
+    "text": "su",
+    "path": "res://assets/audio/voice/ms/syllables/su.mp3"
+   },
+   "tu": {
+    "text": "tu",
+    "path": "res://assets/audio/voice/ms/syllables/tu.mp3"
+   },
+   "wu": {
+    "text": "wu",
+    "path": "res://assets/audio/voice/ms/syllables/wu.mp3"
+   },
+   "yu": {
+    "text": "yu",
+    "path": "res://assets/audio/voice/ms/syllables/yu.mp3"
+   },
+   "zu": {
+    "text": "zu",
+    "path": "res://assets/audio/voice/ms/syllables/zu.mp3"
+   },
+   "e": {
+    "text": "e",
+    "path": "res://assets/audio/voice/ms/syllables/e.mp3"
+   },
+   "be": {
+    "text": "be",
+    "path": "res://assets/audio/voice/ms/syllables/be.mp3"
+   },
+   "ce": {
+    "text": "ce",
+    "path": "res://assets/audio/voice/ms/syllables/ce.mp3"
+   },
+   "de": {
+    "text": "de",
+    "path": "res://assets/audio/voice/ms/syllables/de.mp3"
+   },
+   "fe": {
+    "text": "fe",
+    "path": "res://assets/audio/voice/ms/syllables/fe.mp3"
+   },
+   "ge": {
+    "text": "ge",
+    "path": "res://assets/audio/voice/ms/syllables/ge.mp3"
+   },
+   "he": {
+    "text": "he",
+    "path": "res://assets/audio/voice/ms/syllables/he.mp3"
+   },
+   "je": {
+    "text": "je",
+    "path": "res://assets/audio/voice/ms/syllables/je.mp3"
+   },
+   "ke": {
+    "text": "ke",
+    "path": "res://assets/audio/voice/ms/syllables/ke.mp3"
+   },
+   "le": {
+    "text": "le",
+    "path": "res://assets/audio/voice/ms/syllables/le.mp3"
+   },
+   "me": {
+    "text": "me",
+    "path": "res://assets/audio/voice/ms/syllables/me.mp3"
+   },
+   "ne": {
+    "text": "ne",
+    "path": "res://assets/audio/voice/ms/syllables/ne.mp3"
+   },
+   "pe": {
+    "text": "pe",
+    "path": "res://assets/audio/voice/ms/syllables/pe.mp3"
+   },
+   "re": {
+    "text": "re",
+    "path": "res://assets/audio/voice/ms/syllables/re.mp3"
+   },
+   "se": {
+    "text": "se",
+    "path": "res://assets/audio/voice/ms/syllables/se.mp3"
+   },
+   "te": {
+    "text": "te",
+    "path": "res://assets/audio/voice/ms/syllables/te.mp3"
+   },
+   "we": {
+    "text": "we",
+    "path": "res://assets/audio/voice/ms/syllables/we.mp3"
+   },
+   "ye": {
+    "text": "ye",
+    "path": "res://assets/audio/voice/ms/syllables/ye.mp3"
+   },
+   "ze": {
+    "text": "ze",
+    "path": "res://assets/audio/voice/ms/syllables/ze.mp3"
+   },
+   "o": {
+    "text": "o",
+    "path": "res://assets/audio/voice/ms/syllables/o.mp3"
+   },
+   "bo": {
+    "text": "bo",
+    "path": "res://assets/audio/voice/ms/syllables/bo.mp3"
+   },
+   "co": {
+    "text": "co",
+    "path": "res://assets/audio/voice/ms/syllables/co.mp3"
+   },
+   "do": {
+    "text": "do",
+    "path": "res://assets/audio/voice/ms/syllables/do.mp3"
+   },
+   "fo": {
+    "text": "fo",
+    "path": "res://assets/audio/voice/ms/syllables/fo.mp3"
+   },
+   "go": {
+    "text": "go",
+    "path": "res://assets/audio/voice/ms/syllables/go.mp3"
+   },
+   "ho": {
+    "text": "ho",
+    "path": "res://assets/audio/voice/ms/syllables/ho.mp3"
+   },
+   "jo": {
+    "text": "jo",
+    "path": "res://assets/audio/voice/ms/syllables/jo.mp3"
+   },
+   "ko": {
+    "text": "ko",
+    "path": "res://assets/audio/voice/ms/syllables/ko.mp3"
+   },
+   "lo": {
+    "text": "lo",
+    "path": "res://assets/audio/voice/ms/syllables/lo.mp3"
+   },
+   "mo": {
+    "text": "mo",
+    "path": "res://assets/audio/voice/ms/syllables/mo.mp3"
+   },
+   "no": {
+    "text": "no",
+    "path": "res://assets/audio/voice/ms/syllables/no.mp3"
+   },
+   "po": {
+    "text": "po",
+    "path": "res://assets/audio/voice/ms/syllables/po.mp3"
+   },
+   "ro": {
+    "text": "ro",
+    "path": "res://assets/audio/voice/ms/syllables/ro.mp3"
+   },
+   "so": {
+    "text": "so",
+    "path": "res://assets/audio/voice/ms/syllables/so.mp3"
+   },
+   "to": {
+    "text": "to",
+    "path": "res://assets/audio/voice/ms/syllables/to.mp3"
+   },
+   "wo": {
+    "text": "wo",
+    "path": "res://assets/audio/voice/ms/syllables/wo.mp3"
+   },
+   "yo": {
+    "text": "yo",
+    "path": "res://assets/audio/voice/ms/syllables/yo.mp3"
+   },
+   "zo": {
+    "text": "zo",
+    "path": "res://assets/audio/voice/ms/syllables/zo.mp3"
+   }
+  },
+  "colours": {
+   "merah": {
+    "text": "merah",
+    "path": "res://assets/audio/voice/ms/colours/merah.mp3"
+   },
+   "biru": {
+    "text": "biru",
+    "path": "res://assets/audio/voice/ms/colours/biru.mp3"
+   },
+   "hijau": {
+    "text": "hijau",
+    "path": "res://assets/audio/voice/ms/colours/hijau.mp3"
+   },
+   "kuning": {
+    "text": "kuning",
+    "path": "res://assets/audio/voice/ms/colours/kuning.mp3"
+   },
+   "oren": {
+    "text": "oren",
+    "path": "res://assets/audio/voice/ms/colours/oren.mp3"
+   },
+   "ungu": {
+    "text": "ungu",
+    "path": "res://assets/audio/voice/ms/colours/ungu.mp3"
+   },
+   "merah_jambu": {
+    "text": "merah jambu",
+    "path": "res://assets/audio/voice/ms/colours/merah_jambu.mp3"
+   },
+   "hitam": {
+    "text": "hitam",
+    "path": "res://assets/audio/voice/ms/colours/hitam.mp3"
+   },
+   "putih": {
+    "text": "putih",
+    "path": "res://assets/audio/voice/ms/colours/putih.mp3"
+   },
+   "coklat": {
+    "text": "coklat",
+    "path": "res://assets/audio/voice/ms/colours/coklat.mp3"
+   },
+   "kelabu": {
+    "text": "kelabu",
+    "path": "res://assets/audio/voice/ms/colours/kelabu.mp3"
+   }
+  },
+  "days": {
+   "isnin": {
+    "text": "Isnin",
+    "path": "res://assets/audio/voice/ms/days/isnin.mp3"
+   },
+   "selasa": {
+    "text": "Selasa",
+    "path": "res://assets/audio/voice/ms/days/selasa.mp3"
+   },
+   "rabu": {
+    "text": "Rabu",
+    "path": "res://assets/audio/voice/ms/days/rabu.mp3"
+   },
+   "khamis": {
+    "text": "Khamis",
+    "path": "res://assets/audio/voice/ms/days/khamis.mp3"
+   },
+   "jumaat": {
+    "text": "Jumaat",
+    "path": "res://assets/audio/voice/ms/days/jumaat.mp3"
+   },
+   "sabtu": {
+    "text": "Sabtu",
+    "path": "res://assets/audio/voice/ms/days/sabtu.mp3"
+   },
+   "ahad": {
+    "text": "Ahad",
+    "path": "res://assets/audio/voice/ms/days/ahad.mp3"
+   }
+  },
+  "months": {
+   "1": {
+    "text": "Januari",
+    "path": "res://assets/audio/voice/ms/months/1.mp3"
+   },
+   "2": {
+    "text": "Februari",
+    "path": "res://assets/audio/voice/ms/months/2.mp3"
+   },
+   "3": {
+    "text": "Mac",
+    "path": "res://assets/audio/voice/ms/months/3.mp3"
+   },
+   "4": {
+    "text": "April",
+    "path": "res://assets/audio/voice/ms/months/4.mp3"
+   },
+   "5": {
+    "text": "Mei",
+    "path": "res://assets/audio/voice/ms/months/5.mp3"
+   },
+   "6": {
+    "text": "Jun",
+    "path": "res://assets/audio/voice/ms/months/6.mp3"
+   },
+   "7": {
+    "text": "Julai",
+    "path": "res://assets/audio/voice/ms/months/7.mp3"
+   },
+   "8": {
+    "text": "Ogos",
+    "path": "res://assets/audio/voice/ms/months/8.mp3"
+   },
+   "9": {
+    "text": "September",
+    "path": "res://assets/audio/voice/ms/months/9.mp3"
+   },
+   "10": {
+    "text": "Oktober",
+    "path": "res://assets/audio/voice/ms/months/10.mp3"
+   },
+   "11": {
+    "text": "November",
+    "path": "res://assets/audio/voice/ms/months/11.mp3"
+   },
+   "12": {
+    "text": "Disember",
+    "path": "res://assets/audio/voice/ms/months/12.mp3"
+   }
+  },
+  "vocab/bahasa_inggeris": {
+   "aeroplane": {
+    "text": "Kapal terbang",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/aeroplane.mp3"
+   },
+   "ant": {
+    "text": "Semut",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/ant.mp3"
+   },
+   "ball": {
+    "text": "Bola",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/ball.mp3"
+   },
+   "bed": {
+    "text": "Katil",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/bed.mp3"
+   },
+   "bee": {
+    "text": "Lebah",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/bee.mp3"
+   },
+   "bicycle": {
+    "text": "Basikal",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/bicycle.mp3"
+   },
+   "bird": {
+    "text": "Burung",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/bird.mp3"
+   },
+   "bus": {
+    "text": "Bas sekolah",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/bus.mp3"
+   },
+   "butterfly": {
+    "text": "Rama-rama",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/butterfly.mp3"
+   },
+   "butterfly_eggs": {
+    "text": "Telur rama-rama",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/butterfly_eggs.mp3"
+   },
+   "car": {
+    "text": "Kereta",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/car.mp3"
+   },
+   "cat": {
+    "text": "Kucing",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/cat.mp3"
+   },
+   "caterpillar": {
+    "text": "Beluncas",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/caterpillar.mp3"
+   },
+   "chicken": {
+    "text": "Ayam",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/chicken.mp3"
+   },
+   "chrysalis": {
+    "text": "Kepompong",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/chrysalis.mp3"
+   },
+   "cow": {
+    "text": "Lembu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/cow.mp3"
+   },
+   "cup": {
+    "text": "Cawan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/cup.mp3"
+   },
+   "dog": {
+    "text": "Anjing",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/dog.mp3"
+   },
+   "door": {
+    "text": "Pintu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/door.mp3"
+   },
+   "duck": {
+    "text": "Itik",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/duck.mp3"
+   },
+   "fish": {
+    "text": "Ikan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/fish.mp3"
+   },
+   "frog": {
+    "text": "Katak",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/frog.mp3"
+   },
+   "goat": {
+    "text": "Kambing",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/goat.mp3"
+   },
+   "hat": {
+    "text": "Topi",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/hat.mp3"
+   },
+   "helicopter": {
+    "text": "Helikopter",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/helicopter.mp3"
+   },
+   "kite": {
+    "text": "Layang-layang",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/kite.mp3"
+   },
+   "monkey": {
+    "text": "Monyet",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/monkey.mp3"
+   },
+   "motorcycle": {
+    "text": "Motosikal",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/motorcycle.mp3"
+   },
+   "owl": {
+    "text": "Burung hantu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/owl.mp3"
+   },
+   "plate": {
+    "text": "Pinggan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/plate.mp3"
+   },
+   "rabbit": {
+    "text": "Arnab",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/rabbit.mp3"
+   },
+   "ship": {
+    "text": "Kapal",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/ship.mp3"
+   },
+   "shirt": {
+    "text": "Baju",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/shirt.mp3"
+   },
+   "shoes": {
+    "text": "Kasut",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/shoes.mp3"
+   },
+   "snail": {
+    "text": "Siput",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/snail.mp3"
+   },
+   "socks": {
+    "text": "Stoking",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/socks.mp3"
+   },
+   "spoon": {
+    "text": "Sudu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/spoon.mp3"
+   },
+   "teddy_bear": {
+    "text": "Anak patung beruang",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/teddy_bear.mp3"
+   },
+   "train": {
+    "text": "Kereta api",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/train.mp3"
+   },
+   "umbrella": {
+    "text": "Payung",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/umbrella.mp3"
+   },
+   "window": {
+    "text": "Tingkap",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_inggeris/window.mp3"
+   }
+  },
+  "vocab/bahasa_melayu": {
+   "anggur": {
+    "text": "Anggur",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/anggur.mp3"
+   },
+   "belimbing": {
+    "text": "Belimbing",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/belimbing.mp3"
+   },
+   "betik": {
+    "text": "Betik",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/betik.mp3"
+   },
+   "buaya": {
+    "text": "Buaya",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/buaya.mp3"
+   },
+   "congkak": {
+    "text": "Congkak",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/congkak.mp3"
+   },
+   "durian": {
+    "text": "Durian",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/durian.mp3"
+   },
+   "epal": {
+    "text": "Epal",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/epal.mp3"
+   },
+   "gajah": {
+    "text": "Gajah",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/gajah.mp3"
+   },
+   "gasing": {
+    "text": "Gasing",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/gasing.mp3"
+   },
+   "harimau": {
+    "text": "Harimau",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/harimau.mp3"
+   },
+   "jambu_air": {
+    "text": "Jambu air",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/jambu_air.mp3"
+   },
+   "kelapa": {
+    "text": "Kelapa",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/kelapa.mp3"
+   },
+   "kenyalang": {
+    "text": "Burung kenyalang",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/kenyalang.mp3"
+   },
+   "ketupat": {
+    "text": "Ketupat",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/ketupat.mp3"
+   },
+   "kuih_lapis": {
+    "text": "Kuih lapis",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/kuih_lapis.mp3"
+   },
+   "kura_kura": {
+    "text": "Penyu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/kura_kura.mp3"
+   },
+   "mangga": {
+    "text": "Mangga",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/mangga.mp3"
+   },
+   "manggis": {
+    "text": "Manggis",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/manggis.mp3"
+   },
+   "nanas": {
+    "text": "Nanas",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/nanas.mp3"
+   },
+   "nasi_lemak": {
+    "text": "Nasi lemak",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/nasi_lemak.mp3"
+   },
+   "orang_utan": {
+    "text": "Orang utan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/orang_utan.mp3"
+   },
+   "oren": {
+    "text": "Oren",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/oren.mp3"
+   },
+   "perahu": {
+    "text": "Perahu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/perahu.mp3"
+   },
+   "pisang": {
+    "text": "Pisang",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/pisang.mp3"
+   },
+   "rambutan": {
+    "text": "Rambutan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/rambutan.mp3"
+   },
+   "roti": {
+    "text": "Roti",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/roti.mp3"
+   },
+   "roti_canai": {
+    "text": "Roti canai",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/roti_canai.mp3"
+   },
+   "rumah_kampung": {
+    "text": "Rumah kampung",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/rumah_kampung.mp3"
+   },
+   "sang_kancil": {
+    "text": "Sang Kancil",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/sang_kancil.mp3"
+   },
+   "satay": {
+    "text": "Sate",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/satay.mp3"
+   },
+   "strawberi": {
+    "text": "Strawberi",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/strawberi.mp3"
+   },
+   "susu": {
+    "text": "Susu",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/susu.mp3"
+   },
+   "teh_tarik": {
+    "text": "Teh tarik",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/teh_tarik.mp3"
+   },
+   "telur": {
+    "text": "Telur",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/telur.mp3"
+   },
+   "tembikai": {
+    "text": "Tembikai",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/tembikai.mp3"
+   },
+   "wau": {
+    "text": "Wau bulan",
+    "path": "res://assets/audio/voice/ms/vocab/bahasa_melayu/wau.mp3"
+   }
+  },
+  "vocab/matematik": {
+   "balance_scale": {
+    "text": "Neraca",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/balance_scale.mp3"
+   },
+   "base10_block": {
+    "text": "Blok ribu",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/base10_block.mp3"
+   },
+   "base10_flat": {
+    "text": "Kepingan ratus",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/base10_flat.mp3"
+   },
+   "base10_rod": {
+    "text": "Rod puluh",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/base10_rod.mp3"
+   },
+   "base10_unit": {
+    "text": "Kubus sa",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/base10_unit.mp3"
+   },
+   "chart_bar": {
+    "text": "Carta palang",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/chart_bar.mp3"
+   },
+   "chart_pie": {
+    "text": "Carta pai",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/chart_pie.mp3"
+   },
+   "clock_face": {
+    "text": "Muka jam",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/clock_face.mp3"
+   },
+   "clock_hand_hour": {
+    "text": "Jarum jam",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/clock_hand_hour.mp3"
+   },
+   "clock_hand_minute": {
+    "text": "Jarum minit",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/clock_hand_minute.mp3"
+   },
+   "coin_10sen": {
+    "text": "Syiling 10sen",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/coin_10sen.mp3"
+   },
+   "coin_20sen": {
+    "text": "Syiling 20sen",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/coin_20sen.mp3"
+   },
+   "coin_50sen": {
+    "text": "Syiling 50sen",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/coin_50sen.mp3"
+   },
+   "coin_5sen": {
+    "text": "Syiling 5sen",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/coin_5sen.mp3"
+   },
+   "compasses": {
+    "text": "Jangka lukis",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/compasses.mp3"
+   },
+   "counter_red": {
+    "text": "Pembilang merah",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/counter_red.mp3"
+   },
+   "counter_yellow": {
+    "text": "Pembilang kuning",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/counter_yellow.mp3"
+   },
+   "dice_1": {
+    "text": "Dadu 1",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_1.mp3"
+   },
+   "dice_2": {
+    "text": "Dadu 2",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_2.mp3"
+   },
+   "dice_3": {
+    "text": "Dadu 3",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_3.mp3"
+   },
+   "dice_4": {
+    "text": "Dadu 4",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_4.mp3"
+   },
+   "dice_5": {
+    "text": "Dadu 5",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_5.mp3"
+   },
+   "dice_6": {
+    "text": "Dadu 6",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/dice_6.mp3"
+   },
+   "link_cube_blue": {
+    "text": "Kiub bercantum",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/link_cube_blue.mp3"
+   },
+   "link_cube_green": {
+    "text": "Kiub bercantum",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/link_cube_green.mp3"
+   },
+   "link_cube_red": {
+    "text": "Kiub bercantum",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/link_cube_red.mp3"
+   },
+   "link_cube_yellow": {
+    "text": "Kiub bercantum",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/link_cube_yellow.mp3"
+   },
+   "measuring_jug": {
+    "text": "Jag penyukat",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/measuring_jug.mp3"
+   },
+   "note_rm1": {
+    "text": "Wang kertas RM1",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm1.mp3"
+   },
+   "note_rm10": {
+    "text": "Wang kertas RM10",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm10.mp3"
+   },
+   "note_rm100": {
+    "text": "Wang kertas RM100",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm100.mp3"
+   },
+   "note_rm20": {
+    "text": "Wang kertas RM20",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm20.mp3"
+   },
+   "note_rm5": {
+    "text": "Wang kertas RM5",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm5.mp3"
+   },
+   "note_rm50": {
+    "text": "Wang kertas RM50",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/note_rm50.mp3"
+   },
+   "op_decimal": {
+    "text": "Titik perpuluhan",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_decimal.mp3"
+   },
+   "op_divide": {
+    "text": "Bahagi",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_divide.mp3"
+   },
+   "op_equals": {
+    "text": "Sama dengan",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_equals.mp3"
+   },
+   "op_greater": {
+    "text": "Lebih daripada",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_greater.mp3"
+   },
+   "op_less": {
+    "text": "Kurang daripada",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_less.mp3"
+   },
+   "op_minus": {
+    "text": "Tolak",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_minus.mp3"
+   },
+   "op_percent": {
+    "text": "Peratus",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_percent.mp3"
+   },
+   "op_plus": {
+    "text": "Tambah",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_plus.mp3"
+   },
+   "op_times": {
+    "text": "Darab",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/op_times.mp3"
+   },
+   "pictograph": {
+    "text": "Piktograf",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/pictograph.mp3"
+   },
+   "protractor": {
+    "text": "Protraktor",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/protractor.mp3"
+   },
+   "ruler_long": {
+    "text": "Pembaris",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/ruler_long.mp3"
+   },
+   "sempoa": {
+    "text": "Sempoa",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/sempoa.mp3"
+   },
+   "set_square": {
+    "text": "Sesiku",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/set_square.mp3"
+   },
+   "shape_circle": {
+    "text": "Bulatan",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_circle.mp3"
+   },
+   "shape_heart": {
+    "text": "Hati",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_heart.mp3"
+   },
+   "shape_hexagon": {
+    "text": "Heksagon",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_hexagon.mp3"
+   },
+   "shape_octagon": {
+    "text": "Oktagon",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_octagon.mp3"
+   },
+   "shape_oval": {
+    "text": "Bujur",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_oval.mp3"
+   },
+   "shape_parallelogram": {
+    "text": "Segi empat selari",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_parallelogram.mp3"
+   },
+   "shape_pentagon": {
+    "text": "Pentagon",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_pentagon.mp3"
+   },
+   "shape_rectangle": {
+    "text": "Segi empat tepat",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_rectangle.mp3"
+   },
+   "shape_rhombus": {
+    "text": "Rombus",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_rhombus.mp3"
+   },
+   "shape_semicircle": {
+    "text": "Semibulatan",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_semicircle.mp3"
+   },
+   "shape_square": {
+    "text": "Segi empat sama",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_square.mp3"
+   },
+   "shape_star": {
+    "text": "Bintang",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_star.mp3"
+   },
+   "shape_trapezium": {
+    "text": "Trapezium",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_trapezium.mp3"
+   },
+   "shape_triangle": {
+    "text": "Segi tiga",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/shape_triangle.mp3"
+   },
+   "solid_cone": {
+    "text": "Kon",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_cone.mp3"
+   },
+   "solid_cube": {
+    "text": "Kubus",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_cube.mp3"
+   },
+   "solid_cuboid": {
+    "text": "Kuboid",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_cuboid.mp3"
+   },
+   "solid_cylinder": {
+    "text": "Silinder",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_cylinder.mp3"
+   },
+   "solid_hemisphere": {
+    "text": "Hemisfera",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_hemisphere.mp3"
+   },
+   "solid_prism": {
+    "text": "Prisma segi tiga",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_prism.mp3"
+   },
+   "solid_pyramid": {
+    "text": "Piramid",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_pyramid.mp3"
+   },
+   "solid_sphere": {
+    "text": "Sfera",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/solid_sphere.mp3"
+   },
+   "tape_measure": {
+    "text": "Pita ukur",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/tape_measure.mp3"
+   },
+   "weighing_scale": {
+    "text": "Penimbang",
+    "path": "res://assets/audio/voice/ms/vocab/matematik/weighing_scale.mp3"
+   }
+  },
+  "vocab/muzik": {
+   "angklung": {
+    "text": "Angklung",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/angklung.mp3"
+   },
+   "baluk_krocet": {
+    "text": "Tanda rehat krocet",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/baluk_krocet.mp3"
+   },
+   "gendang": {
+    "text": "Gendang",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/gendang.mp3"
+   },
+   "gitar": {
+    "text": "Gitar",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/gitar.mp3"
+   },
+   "klef_trebel": {
+    "text": "Klef trebel",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/klef_trebel.mp3"
+   },
+   "kompang": {
+    "text": "Kompang",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/kompang.mp3"
+   },
+   "marakas": {
+    "text": "Marakas",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/marakas.mp3"
+   },
+   "not_krocet": {
+    "text": "Krocet",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_krocet.mp3"
+   },
+   "not_kuaver": {
+    "text": "Kuaver",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_kuaver.mp3"
+   },
+   "not_kuaver_berpasangan": {
+    "text": "Kuaver berpasangan",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_kuaver_berpasangan.mp3"
+   },
+   "not_minim": {
+    "text": "Minim",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_minim.mp3"
+   },
+   "not_semibreve": {
+    "text": "Semibrif",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_semibreve.mp3"
+   },
+   "not_semikuaver": {
+    "text": "Semikuaver",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/not_semikuaver.mp3"
+   },
+   "piano": {
+    "text": "Kekunci piano",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/piano.mp3"
+   },
+   "rekoder": {
+    "text": "Rekoder",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/rekoder.mp3"
+   },
+   "sape": {
+    "text": "Sape",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/sape.mp3"
+   },
+   "segi_tiga": {
+    "text": "Segi tiga (alat muzik)",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/segi_tiga.mp3"
+   },
+   "tamborin": {
+    "text": "Tamborin",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/tamborin.mp3"
+   },
+   "zilofon": {
+    "text": "Zilofon",
+    "path": "res://assets/audio/voice/ms/vocab/muzik/zilofon.mp3"
+   }
+  },
+  "vocab/pendidikan_islam": {
+   "al_quran_rehal": {
+    "text": "Al-Quran dan rehal",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/al_quran_rehal.mp3"
+   },
+   "bulan_bintang": {
+    "text": "Bulan dan bintang",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/bulan_bintang.mp3"
+   },
+   "kaabah": {
+    "text": "Kaabah",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/kaabah.mp3"
+   },
+   "kendi": {
+    "text": "Kendi",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/kendi.mp3"
+   },
+   "kompas_kiblat": {
+    "text": "Kompas kiblat",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/kompas_kiblat.mp3"
+   },
+   "kopiah": {
+    "text": "Kopiah",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/kopiah.mp3"
+   },
+   "kurma": {
+    "text": "Kurma",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/kurma.mp3"
+   },
+   "masjid": {
+    "text": "Masjid",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/masjid.mp3"
+   },
+   "paip_air_wuduk": {
+    "text": "Paip air wuduk",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/paip_air_wuduk.mp3"
+   },
+   "pelita": {
+    "text": "Pelita",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/pelita.mp3"
+   },
+   "sampul_duit_raya": {
+    "text": "Sampul duit raya",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/sampul_duit_raya.mp3"
+   },
+   "sejadah": {
+    "text": "Sejadah",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/sejadah.mp3"
+   },
+   "songkok": {
+    "text": "Songkok",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/songkok.mp3"
+   },
+   "tanglung": {
+    "text": "Tanglung",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/tanglung.mp3"
+   },
+   "tasbih": {
+    "text": "Tasbih",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_islam/tasbih.mp3"
+   }
+  },
+  "vocab/pendidikan_moral": {
+   "berjabat_tangan": {
+    "text": "Berjabat tangan",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/berjabat_tangan.mp3"
+   },
+   "berkongsi": {
+    "text": "Berkongsi",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/berkongsi.mp3"
+   },
+   "dompet": {
+    "text": "Dompet (amanah)",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/dompet.mp3"
+   },
+   "ibu_jari": {
+    "text": "Bagus",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/ibu_jari.mp3"
+   },
+   "kad_terima_kasih": {
+    "text": "Kad terima kasih",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/kad_terima_kasih.mp3"
+   },
+   "keluarga": {
+    "text": "Keluarga",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/keluarga.mp3"
+   },
+   "lampu_isyarat": {
+    "text": "Lampu isyarat",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/lampu_isyarat.mp3"
+   },
+   "lintasan_zebra": {
+    "text": "Lintasan belang",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/lintasan_zebra.mp3"
+   },
+   "tabung": {
+    "text": "Tabung",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tabung.mp3"
+   },
+   "tolong_menolong": {
+    "text": "Tolong-menolong",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tolong_menolong.mp3"
+   },
+   "tong_kitar_biru": {
+    "text": "Tong kitar semula biru (kertas)",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tong_kitar_biru.mp3"
+   },
+   "tong_kitar_coklat": {
+    "text": "Tong kitar semula coklat (kaca)",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tong_kitar_coklat.mp3"
+   },
+   "tong_kitar_oren": {
+    "text": "Tong kitar semula oren (plastik & tin)",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tong_kitar_oren.mp3"
+   },
+   "tong_sampah": {
+    "text": "Tong sampah",
+    "path": "res://assets/audio/voice/ms/vocab/pendidikan_moral/tong_sampah.mp3"
+   }
+  },
+  "vocab/pjpk": {
+   "ayam_goreng": {
+    "text": "Ayam goreng",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/ayam_goreng.mp3"
+   },
+   "badminton": {
+    "text": "Raket dan bulu tangkis",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/badminton.mp3"
+   },
+   "basuh_tangan": {
+    "text": "Basuh tangan",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/basuh_tangan.mp3"
+   },
+   "berus_gigi": {
+    "text": "Berus gigi dan ubat gigi",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/berus_gigi.mp3"
+   },
+   "bola_jaring": {
+    "text": "Bola jaring",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/bola_jaring.mp3"
+   },
+   "bola_keranjang": {
+    "text": "Bola keranjang",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/bola_keranjang.mp3"
+   },
+   "bola_sepak": {
+    "text": "Bola sepak",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/bola_sepak.mp3"
+   },
+   "bola_takraw": {
+    "text": "Bola sepak takraw",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/bola_takraw.mp3"
+   },
+   "brokoli": {
+    "text": "Brokoli",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/brokoli.mp3"
+   },
+   "burger": {
+    "text": "Burger (kurangkan)",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/burger.mp3"
+   },
+   "hula_hoop": {
+    "text": "Gelung rotan",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/hula_hoop.mp3"
+   },
+   "kit_pertolongan_cemas": {
+    "text": "Kit pertolongan cemas",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/kit_pertolongan_cemas.mp3"
+   },
+   "kon": {
+    "text": "Kon",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/kon.mp3"
+   },
+   "lobak_merah": {
+    "text": "Lobak merah",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/lobak_merah.mp3"
+   },
+   "minuman_bergas": {
+    "text": "Minuman bergas (kurangkan)",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/minuman_bergas.mp3"
+   },
+   "nasi": {
+    "text": "Nasi",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/nasi.mp3"
+   },
+   "ping_pong": {
+    "text": "Ping pong",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/ping_pong.mp3"
+   },
+   "pinggan_sihat": {
+    "text": "Pinggan Sihat Malaysia (suku-suku separuh)",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/pinggan_sihat.mp3"
+   },
+   "sabun": {
+    "text": "Sabun",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/sabun.mp3"
+   },
+   "tali_lompat": {
+    "text": "Tali lompat",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/tali_lompat.mp3"
+   },
+   "tomato": {
+    "text": "Tomato",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/tomato.mp3"
+   },
+   "tuala": {
+    "text": "Tuala",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/tuala.mp3"
+   },
+   "wisel": {
+    "text": "Wisel",
+    "path": "res://assets/audio/voice/ms/vocab/pjpk/wisel.mp3"
+   }
+  },
+  "vocab/rbt": {
+   "butang_baju": {
+    "text": "Butang",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/butang_baju.mp3"
+   },
+   "cangkul": {
+    "text": "Cangkul",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/cangkul.mp3"
+   },
+   "gear": {
+    "text": "Gear",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/gear.mp3"
+   },
+   "gergaji": {
+    "text": "Gergaji",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/gergaji.mp3"
+   },
+   "jarum_benang": {
+    "text": "Jarum dan benang",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/jarum_benang.mp3"
+   },
+   "kod_blok": {
+    "text": "Kod blok",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/kod_blok.mp3"
+   },
+   "komputer_riba": {
+    "text": "Komputer riba",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/komputer_riba.mp3"
+   },
+   "lakaran_reka_bentuk": {
+    "text": "Lakaran reka bentuk",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/lakaran_reka_bentuk.mp3"
+   },
+   "led": {
+    "text": "LED",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/led.mp3"
+   },
+   "litar": {
+    "text": "Litar ringkas",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/litar.mp3"
+   },
+   "motor": {
+    "text": "Motor elektrik",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/motor.mp3"
+   },
+   "papan_mikropengawal": {
+    "text": "Papan mikropengawal",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/papan_mikropengawal.mp3"
+   },
+   "pemutar_skru": {
+    "text": "Pemutar skru",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/pemutar_skru.mp3"
+   },
+   "penyiram": {
+    "text": "Penyiram",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/penyiram.mp3"
+   },
+   "penyodok": {
+    "text": "Penyodok",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/penyodok.mp3"
+   },
+   "perintang": {
+    "text": "Perintang",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/perintang.mp3"
+   },
+   "playar": {
+    "text": "Playar",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/playar.mp3"
+   },
+   "polibeg_anak_benih": {
+    "text": "Anak benih dalam polibeg",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/polibeg_anak_benih.mp3"
+   },
+   "robot": {
+    "text": "Robot",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/robot.mp3"
+   },
+   "sepana": {
+    "text": "Sepana",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/sepana.mp3"
+   },
+   "suis": {
+    "text": "Suis",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/suis.mp3"
+   },
+   "tukul": {
+    "text": "Tukul",
+    "path": "res://assets/audio/voice/ms/vocab/rbt/tukul.mp3"
+   }
+  },
+  "vocab/sains": {
+   "atom": {
+    "text": "Atom",
+    "path": "res://assets/audio/voice/ms/vocab/sains/atom.mp3"
+   },
+   "battery": {
+    "text": "Bateri",
+    "path": "res://assets/audio/voice/ms/vocab/sains/battery.mp3"
+   },
+   "beaker": {
+    "text": "Bikar",
+    "path": "res://assets/audio/voice/ms/vocab/sains/beaker.mp3"
+   },
+   "cactus": {
+    "text": "Kaktus",
+    "path": "res://assets/audio/voice/ms/vocab/sains/cactus.mp3"
+   },
+   "cloud": {
+    "text": "Awan",
+    "path": "res://assets/audio/voice/ms/vocab/sains/cloud.mp3"
+   },
+   "cloud_rain": {
+    "text": "Hujan",
+    "path": "res://assets/audio/voice/ms/vocab/sains/cloud_rain.mp3"
+   },
+   "cloud_storm": {
+    "text": "Ribut petir",
+    "path": "res://assets/audio/voice/ms/vocab/sains/cloud_storm.mp3"
+   },
+   "comet": {
+    "text": "Komet",
+    "path": "res://assets/audio/voice/ms/vocab/sains/comet.mp3"
+   },
+   "compass_rose": {
+    "text": "Kompas",
+    "path": "res://assets/audio/voice/ms/vocab/sains/compass_rose.mp3"
+   },
+   "dna": {
+    "text": "DNA",
+    "path": "res://assets/audio/voice/ms/vocab/sains/dna.mp3"
+   },
+   "fire": {
+    "text": "Api",
+    "path": "res://assets/audio/voice/ms/vocab/sains/fire.mp3"
+   },
+   "flask_conical": {
+    "text": "Kelalang kon",
+    "path": "res://assets/audio/voice/ms/vocab/sains/flask_conical.mp3"
+   },
+   "flask_round": {
+    "text": "Kelalang dasar bulat",
+    "path": "res://assets/audio/voice/ms/vocab/sains/flask_round.mp3"
+   },
+   "frog_eggs": {
+    "text": "Telur katak",
+    "path": "res://assets/audio/voice/ms/vocab/sains/frog_eggs.mp3"
+   },
+   "froglet": {
+    "text": "Anak katak",
+    "path": "res://assets/audio/voice/ms/vocab/sains/froglet.mp3"
+   },
+   "leaf": {
+    "text": "Daun",
+    "path": "res://assets/audio/voice/ms/vocab/sains/leaf.mp3"
+   },
+   "light_bulb": {
+    "text": "Mentol",
+    "path": "res://assets/audio/voice/ms/vocab/sains/light_bulb.mp3"
+   },
+   "magnet": {
+    "text": "Magnet",
+    "path": "res://assets/audio/voice/ms/vocab/sains/magnet.mp3"
+   },
+   "magnifier": {
+    "text": "Kanta pembesar",
+    "path": "res://assets/audio/voice/ms/vocab/sains/magnifier.mp3"
+   },
+   "microscope": {
+    "text": "Mikroskop",
+    "path": "res://assets/audio/voice/ms/vocab/sains/microscope.mp3"
+   },
+   "molecule": {
+    "text": "Molekul air",
+    "path": "res://assets/audio/voice/ms/vocab/sains/molecule.mp3"
+   },
+   "moon": {
+    "text": "Bulan",
+    "path": "res://assets/audio/voice/ms/vocab/sains/moon.mp3"
+   },
+   "mountain": {
+    "text": "Gunung",
+    "path": "res://assets/audio/voice/ms/vocab/sains/mountain.mp3"
+   },
+   "mushroom": {
+    "text": "Cendawan",
+    "path": "res://assets/audio/voice/ms/vocab/sains/mushroom.mp3"
+   },
+   "planet_earth": {
+    "text": "Bumi",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_earth.mp3"
+   },
+   "planet_jupiter": {
+    "text": "Musytari",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_jupiter.mp3"
+   },
+   "planet_mars": {
+    "text": "Marikh",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_mars.mp3"
+   },
+   "planet_mercury": {
+    "text": "Utarid",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_mercury.mp3"
+   },
+   "planet_neptune": {
+    "text": "Neptun",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_neptune.mp3"
+   },
+   "planet_saturn": {
+    "text": "Zuhal",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_saturn.mp3"
+   },
+   "planet_uranus": {
+    "text": "Uranus",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_uranus.mp3"
+   },
+   "planet_venus": {
+    "text": "Zuhrah",
+    "path": "res://assets/audio/voice/ms/vocab/sains/planet_venus.mp3"
+   },
+   "plant_flower": {
+    "text": "Pokok berbunga",
+    "path": "res://assets/audio/voice/ms/vocab/sains/plant_flower.mp3"
+   },
+   "plant_fruit": {
+    "text": "Pokok berbuah",
+    "path": "res://assets/audio/voice/ms/vocab/sains/plant_fruit.mp3"
+   },
+   "plant_seed": {
+    "text": "Biji benih",
+    "path": "res://assets/audio/voice/ms/vocab/sains/plant_seed.mp3"
+   },
+   "plant_sprout": {
+    "text": "Anak benih",
+    "path": "res://assets/audio/voice/ms/vocab/sains/plant_sprout.mp3"
+   },
+   "plant_young": {
+    "text": "Pokok muda",
+    "path": "res://assets/audio/voice/ms/vocab/sains/plant_young.mp3"
+   },
+   "rainbow": {
+    "text": "Pelangi",
+    "path": "res://assets/audio/voice/ms/vocab/sains/rainbow.mp3"
+   },
+   "rock": {
+    "text": "Batu",
+    "path": "res://assets/audio/voice/ms/vocab/sains/rock.mp3"
+   },
+   "rocket": {
+    "text": "Roket",
+    "path": "res://assets/audio/voice/ms/vocab/sains/rocket.mp3"
+   },
+   "snowflake": {
+    "text": "Kepingan salji",
+    "path": "res://assets/audio/voice/ms/vocab/sains/snowflake.mp3"
+   },
+   "star_space": {
+    "text": "Bintang",
+    "path": "res://assets/audio/voice/ms/vocab/sains/star_space.mp3"
+   },
+   "sun": {
+    "text": "Matahari",
+    "path": "res://assets/audio/voice/ms/vocab/sains/sun.mp3"
+   },
+   "tadpole": {
+    "text": "Berudu",
+    "path": "res://assets/audio/voice/ms/vocab/sains/tadpole.mp3"
+   },
+   "telescope": {
+    "text": "Teleskop",
+    "path": "res://assets/audio/voice/ms/vocab/sains/telescope.mp3"
+   },
+   "test_tube_blue": {
+    "text": "Tabung uji",
+    "path": "res://assets/audio/voice/ms/vocab/sains/test_tube_blue.mp3"
+   },
+   "test_tube_green": {
+    "text": "Tabung uji",
+    "path": "res://assets/audio/voice/ms/vocab/sains/test_tube_green.mp3"
+   },
+   "test_tube_rack": {
+    "text": "Rak tabung uji",
+    "path": "res://assets/audio/voice/ms/vocab/sains/test_tube_rack.mp3"
+   },
+   "test_tube_red": {
+    "text": "Tabung uji",
+    "path": "res://assets/audio/voice/ms/vocab/sains/test_tube_red.mp3"
+   },
+   "thermometer": {
+    "text": "Termometer",
+    "path": "res://assets/audio/voice/ms/vocab/sains/thermometer.mp3"
+   },
+   "tooth": {
+    "text": "Gigi",
+    "path": "res://assets/audio/voice/ms/vocab/sains/tooth.mp3"
+   },
+   "tree": {
+    "text": "Pokok",
+    "path": "res://assets/audio/voice/ms/vocab/sains/tree.mp3"
+   },
+   "ufo": {
+    "text": "UFO",
+    "path": "res://assets/audio/voice/ms/vocab/sains/ufo.mp3"
+   },
+   "volcano": {
+    "text": "Gunung berapi",
+    "path": "res://assets/audio/voice/ms/vocab/sains/volcano.mp3"
+   },
+   "water_drop": {
+    "text": "Titisan air",
+    "path": "res://assets/audio/voice/ms/vocab/sains/water_drop.mp3"
+   },
+   "wind": {
+    "text": "Angin",
+    "path": "res://assets/audio/voice/ms/vocab/sains/wind.mp3"
+   }
+  },
+  "vocab/sejarah": {
+   "bunga_raya": {
+    "text": "Bunga raya",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/bunga_raya.mp3"
+   },
+   "dulang_bijih_timah": {
+    "text": "Dulang bijih timah",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/dulang_bijih_timah.mp3"
+   },
+   "jalur_gemilang": {
+    "text": "Jalur Gemilang",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/jalur_gemilang.mp3"
+   },
+   "kapal_layar": {
+    "text": "Kapal layar",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/kapal_layar.mp3"
+   },
+   "keris": {
+    "text": "Keris",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/keris.mp3"
+   },
+   "kota_lama": {
+    "text": "Pintu kota lama",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/kota_lama.mp3"
+   },
+   "mahkota": {
+    "text": "Mahkota",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/mahkota.mp3"
+   },
+   "manuskrip": {
+    "text": "Manuskrip",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/manuskrip.mp3"
+   },
+   "meriam": {
+    "text": "Meriam",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/meriam.mp3"
+   },
+   "peta_lama": {
+    "text": "Peta lama",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/peta_lama.mp3"
+   },
+   "pokok_getah": {
+    "text": "Menoreh getah",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/pokok_getah.mp3"
+   },
+   "tengkolok": {
+    "text": "Tengkolok",
+    "path": "res://assets/audio/voice/ms/vocab/sejarah/tengkolok.mp3"
+   }
+  },
+  "vocab/seni_visual": {
+   "berus_cat": {
+    "text": "Berus cat",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/berus_cat.mp3"
+   },
+   "canting": {
+    "text": "Canting batik",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/canting.mp3"
+   },
+   "gam": {
+    "text": "Gam",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/gam.mp3"
+   },
+   "gunting": {
+    "text": "Gunting",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/gunting.mp3"
+   },
+   "kain_batik": {
+    "text": "Kain batik",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/kain_batik.mp3"
+   },
+   "kanvas_easel": {
+    "text": "Kekuda dan kanvas",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/kanvas_easel.mp3"
+   },
+   "kertas_warna": {
+    "text": "Kertas warna",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/kertas_warna.mp3"
+   },
+   "krayon": {
+    "text": "Krayon",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/krayon.mp3"
+   },
+   "origami": {
+    "text": "Origami burung",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/origami.mp3"
+   },
+   "pensel_warna": {
+    "text": "Pensel warna",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/pensel_warna.mp3"
+   },
+   "roda_warna": {
+    "text": "Roda warna",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/roda_warna.mp3"
+   },
+   "tanah_liat": {
+    "text": "Tanah liat",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/tanah_liat.mp3"
+   },
+   "tiub_cat": {
+    "text": "Tiub cat",
+    "path": "res://assets/audio/voice/ms/vocab/seni_visual/tiub_cat.mp3"
+   }
+  }
+ },
+ "en": {
+  "feedback": {
+   "correct": {
+    "text": "Correct!",
+    "path": "res://assets/audio/voice/en/feedback/correct.mp3"
+   },
+   "great": {
+    "text": "Great!",
+    "path": "res://assets/audio/voice/en/feedback/great.mp3"
+   },
+   "good": {
+    "text": "Good job!",
+    "path": "res://assets/audio/voice/en/feedback/good.mp3"
+   },
+   "well_done": {
+    "text": "Well done!",
+    "path": "res://assets/audio/voice/en/feedback/well_done.mp3"
+   },
+   "congrats": {
+    "text": "Congratulations!",
+    "path": "res://assets/audio/voice/en/feedback/congrats.mp3"
+   },
+   "excellent": {
+    "text": "Excellent!",
+    "path": "res://assets/audio/voice/en/feedback/excellent.mp3"
+   },
+   "try_again": {
+    "text": "Try again.",
+    "path": "res://assets/audio/voice/en/feedback/try_again.mp3"
+   },
+   "almost": {
+    "text": "Almost!",
+    "path": "res://assets/audio/voice/en/feedback/almost.mp3"
+   },
+   "wrong": {
+    "text": "Wrong.",
+    "path": "res://assets/audio/voice/en/feedback/wrong.mp3"
+   },
+   "dont_give_up": {
+    "text": "Don't give up!",
+    "path": "res://assets/audio/voice/en/feedback/dont_give_up.mp3"
+   },
+   "times_up": {
+    "text": "Time's up!",
+    "path": "res://assets/audio/voice/en/feedback/times_up.mp3"
+   },
+   "lets_start": {
+    "text": "Let's start!",
+    "path": "res://assets/audio/voice/en/feedback/lets_start.mp3"
+   },
+   "ready": {
+    "text": "Ready...",
+    "path": "res://assets/audio/voice/en/feedback/ready.mp3"
+   },
+   "go": {
+    "text": "Go!",
+    "path": "res://assets/audio/voice/en/feedback/go.mp3"
+   },
+   "next_level": {
+    "text": "Next level!",
+    "path": "res://assets/audio/voice/en/feedback/next_level.mp3"
+   },
+   "level_complete": {
+    "text": "Level complete!",
+    "path": "res://assets/audio/voice/en/feedback/level_complete.mp3"
+   },
+   "game_over": {
+    "text": "Game over.",
+    "path": "res://assets/audio/voice/en/feedback/game_over.mp3"
+   },
+   "choose_answer": {
+    "text": "Choose the correct answer.",
+    "path": "res://assets/audio/voice/en/feedback/choose_answer.mp3"
+   },
+   "listen_choose": {
+    "text": "Listen and choose.",
+    "path": "res://assets/audio/voice/en/feedback/listen_choose.mp3"
+   },
+   "drag_place": {
+    "text": "Drag it to the right place.",
+    "path": "res://assets/audio/voice/en/feedback/drag_place.mp3"
+   },
+   "match": {
+    "text": "Match the picture with the word.",
+    "path": "res://assets/audio/voice/en/feedback/match.mp3"
+   },
+   "count": {
+    "text": "Count these objects.",
+    "path": "res://assets/audio/voice/en/feedback/count.mp3"
+   },
+   "say_word": {
+    "text": "Say this word.",
+    "path": "res://assets/audio/voice/en/feedback/say_word.mp3"
+   },
+   "welcome": {
+    "text": "Welcome!",
+    "path": "res://assets/audio/voice/en/feedback/welcome.mp3"
+   },
+   "thanks": {
+    "text": "Thank you for playing!",
+    "path": "res://assets/audio/voice/en/feedback/thanks.mp3"
+   },
+   "three_stars": {
+    "text": "Three stars! Amazing!",
+    "path": "res://assets/audio/voice/en/feedback/three_stars.mp3"
+   },
+   "your_score": {
+    "text": "Your score.",
+    "path": "res://assets/audio/voice/en/feedback/your_score.mp3"
+   },
+   "question": {
+    "text": "Question.",
+    "path": "res://assets/audio/voice/en/feedback/question.mp3"
+   },
+   "paused": {
+    "text": "Game paused.",
+    "path": "res://assets/audio/voice/en/feedback/paused.mp3"
+   },
+   "new_record": {
+    "text": "New record!",
+    "path": "res://assets/audio/voice/en/feedback/new_record.mp3"
+   },
+   "unlocked": {
+    "text": "New level unlocked!",
+    "path": "res://assets/audio/voice/en/feedback/unlocked.mp3"
+   },
+   "hint": {
+    "text": "Here is a hint.",
+    "path": "res://assets/audio/voice/en/feedback/hint.mp3"
+   },
+   "spell": {
+    "text": "Spell this word.",
+    "path": "res://assets/audio/voice/en/feedback/spell.mp3"
+   },
+   "find": {
+    "text": "Find this object.",
+    "path": "res://assets/audio/voice/en/feedback/find.mp3"
+   },
+   "sort": {
+    "text": "Put them in order.",
+    "path": "res://assets/audio/voice/en/feedback/sort.mp3"
+   }
+  },
+  "numbers": {
+   "0": {
+    "text": "zero",
+    "path": "res://assets/audio/voice/en/numbers/0.mp3"
+   },
+   "1": {
+    "text": "one",
+    "path": "res://assets/audio/voice/en/numbers/1.mp3"
+   },
+   "2": {
+    "text": "two",
+    "path": "res://assets/audio/voice/en/numbers/2.mp3"
+   },
+   "3": {
+    "text": "three",
+    "path": "res://assets/audio/voice/en/numbers/3.mp3"
+   },
+   "4": {
+    "text": "four",
+    "path": "res://assets/audio/voice/en/numbers/4.mp3"
+   },
+   "5": {
+    "text": "five",
+    "path": "res://assets/audio/voice/en/numbers/5.mp3"
+   },
+   "6": {
+    "text": "six",
+    "path": "res://assets/audio/voice/en/numbers/6.mp3"
+   },
+   "7": {
+    "text": "seven",
+    "path": "res://assets/audio/voice/en/numbers/7.mp3"
+   },
+   "8": {
+    "text": "eight",
+    "path": "res://assets/audio/voice/en/numbers/8.mp3"
+   },
+   "9": {
+    "text": "nine",
+    "path": "res://assets/audio/voice/en/numbers/9.mp3"
+   },
+   "10": {
+    "text": "ten",
+    "path": "res://assets/audio/voice/en/numbers/10.mp3"
+   },
+   "11": {
+    "text": "eleven",
+    "path": "res://assets/audio/voice/en/numbers/11.mp3"
+   },
+   "12": {
+    "text": "twelve",
+    "path": "res://assets/audio/voice/en/numbers/12.mp3"
+   },
+   "13": {
+    "text": "thirteen",
+    "path": "res://assets/audio/voice/en/numbers/13.mp3"
+   },
+   "14": {
+    "text": "fourteen",
+    "path": "res://assets/audio/voice/en/numbers/14.mp3"
+   },
+   "15": {
+    "text": "fifteen",
+    "path": "res://assets/audio/voice/en/numbers/15.mp3"
+   },
+   "16": {
+    "text": "sixteen",
+    "path": "res://assets/audio/voice/en/numbers/16.mp3"
+   },
+   "17": {
+    "text": "seventeen",
+    "path": "res://assets/audio/voice/en/numbers/17.mp3"
+   },
+   "18": {
+    "text": "eighteen",
+    "path": "res://assets/audio/voice/en/numbers/18.mp3"
+   },
+   "19": {
+    "text": "nineteen",
+    "path": "res://assets/audio/voice/en/numbers/19.mp3"
+   },
+   "20": {
+    "text": "twenty",
+    "path": "res://assets/audio/voice/en/numbers/20.mp3"
+   },
+   "30": {
+    "text": "thirty",
+    "path": "res://assets/audio/voice/en/numbers/30.mp3"
+   },
+   "40": {
+    "text": "forty",
+    "path": "res://assets/audio/voice/en/numbers/40.mp3"
+   },
+   "50": {
+    "text": "fifty",
+    "path": "res://assets/audio/voice/en/numbers/50.mp3"
+   },
+   "60": {
+    "text": "sixty",
+    "path": "res://assets/audio/voice/en/numbers/60.mp3"
+   },
+   "70": {
+    "text": "seventy",
+    "path": "res://assets/audio/voice/en/numbers/70.mp3"
+   },
+   "80": {
+    "text": "eighty",
+    "path": "res://assets/audio/voice/en/numbers/80.mp3"
+   },
+   "90": {
+    "text": "ninety",
+    "path": "res://assets/audio/voice/en/numbers/90.mp3"
+   },
+   "100": {
+    "text": "one hundred",
+    "path": "res://assets/audio/voice/en/numbers/100.mp3"
+   },
+   "1000": {
+    "text": "one thousand",
+    "path": "res://assets/audio/voice/en/numbers/1000.mp3"
+   }
+  },
+  "letters": {
+   "a": {
+    "text": "ay",
+    "path": "res://assets/audio/voice/en/letters/a.mp3"
+   },
+   "b": {
+    "text": "bee",
+    "path": "res://assets/audio/voice/en/letters/b.mp3"
+   },
+   "c": {
+    "text": "see",
+    "path": "res://assets/audio/voice/en/letters/c.mp3"
+   },
+   "d": {
+    "text": "dee",
+    "path": "res://assets/audio/voice/en/letters/d.mp3"
+   },
+   "e": {
+    "text": "ee",
+    "path": "res://assets/audio/voice/en/letters/e.mp3"
+   },
+   "f": {
+    "text": "eff",
+    "path": "res://assets/audio/voice/en/letters/f.mp3"
+   },
+   "g": {
+    "text": "gee",
+    "path": "res://assets/audio/voice/en/letters/g.mp3"
+   },
+   "h": {
+    "text": "aitch",
+    "path": "res://assets/audio/voice/en/letters/h.mp3"
+   },
+   "i": {
+    "text": "eye",
+    "path": "res://assets/audio/voice/en/letters/i.mp3"
+   },
+   "j": {
+    "text": "jay",
+    "path": "res://assets/audio/voice/en/letters/j.mp3"
+   },
+   "k": {
+    "text": "kay",
+    "path": "res://assets/audio/voice/en/letters/k.mp3"
+   },
+   "l": {
+    "text": "el",
+    "path": "res://assets/audio/voice/en/letters/l.mp3"
+   },
+   "m": {
+    "text": "em",
+    "path": "res://assets/audio/voice/en/letters/m.mp3"
+   },
+   "n": {
+    "text": "en",
+    "path": "res://assets/audio/voice/en/letters/n.mp3"
+   },
+   "o": {
+    "text": "oh",
+    "path": "res://assets/audio/voice/en/letters/o.mp3"
+   },
+   "p": {
+    "text": "pee",
+    "path": "res://assets/audio/voice/en/letters/p.mp3"
+   },
+   "q": {
+    "text": "cue",
+    "path": "res://assets/audio/voice/en/letters/q.mp3"
+   },
+   "r": {
+    "text": "ar",
+    "path": "res://assets/audio/voice/en/letters/r.mp3"
+   },
+   "s": {
+    "text": "ess",
+    "path": "res://assets/audio/voice/en/letters/s.mp3"
+   },
+   "t": {
+    "text": "tee",
+    "path": "res://assets/audio/voice/en/letters/t.mp3"
+   },
+   "u": {
+    "text": "you",
+    "path": "res://assets/audio/voice/en/letters/u.mp3"
+   },
+   "v": {
+    "text": "vee",
+    "path": "res://assets/audio/voice/en/letters/v.mp3"
+   },
+   "w": {
+    "text": "double you",
+    "path": "res://assets/audio/voice/en/letters/w.mp3"
+   },
+   "x": {
+    "text": "ex",
+    "path": "res://assets/audio/voice/en/letters/x.mp3"
+   },
+   "y": {
+    "text": "why",
+    "path": "res://assets/audio/voice/en/letters/y.mp3"
+   },
+   "z": {
+    "text": "zed",
+    "path": "res://assets/audio/voice/en/letters/z.mp3"
+   }
+  },
+  "colours": {
+   "merah": {
+    "text": "red",
+    "path": "res://assets/audio/voice/en/colours/merah.mp3"
+   },
+   "biru": {
+    "text": "blue",
+    "path": "res://assets/audio/voice/en/colours/biru.mp3"
+   },
+   "hijau": {
+    "text": "green",
+    "path": "res://assets/audio/voice/en/colours/hijau.mp3"
+   },
+   "kuning": {
+    "text": "yellow",
+    "path": "res://assets/audio/voice/en/colours/kuning.mp3"
+   },
+   "oren": {
+    "text": "orange",
+    "path": "res://assets/audio/voice/en/colours/oren.mp3"
+   },
+   "ungu": {
+    "text": "purple",
+    "path": "res://assets/audio/voice/en/colours/ungu.mp3"
+   },
+   "merah_jambu": {
+    "text": "pink",
+    "path": "res://assets/audio/voice/en/colours/merah_jambu.mp3"
+   },
+   "hitam": {
+    "text": "black",
+    "path": "res://assets/audio/voice/en/colours/hitam.mp3"
+   },
+   "putih": {
+    "text": "white",
+    "path": "res://assets/audio/voice/en/colours/putih.mp3"
+   },
+   "coklat": {
+    "text": "brown",
+    "path": "res://assets/audio/voice/en/colours/coklat.mp3"
+   },
+   "kelabu": {
+    "text": "grey",
+    "path": "res://assets/audio/voice/en/colours/kelabu.mp3"
+   }
+  },
+  "days": {
+   "isnin": {
+    "text": "Monday",
+    "path": "res://assets/audio/voice/en/days/isnin.mp3"
+   },
+   "selasa": {
+    "text": "Tuesday",
+    "path": "res://assets/audio/voice/en/days/selasa.mp3"
+   },
+   "rabu": {
+    "text": "Wednesday",
+    "path": "res://assets/audio/voice/en/days/rabu.mp3"
+   },
+   "khamis": {
+    "text": "Thursday",
+    "path": "res://assets/audio/voice/en/days/khamis.mp3"
+   },
+   "jumaat": {
+    "text": "Friday",
+    "path": "res://assets/audio/voice/en/days/jumaat.mp3"
+   },
+   "sabtu": {
+    "text": "Saturday",
+    "path": "res://assets/audio/voice/en/days/sabtu.mp3"
+   },
+   "ahad": {
+    "text": "Sunday",
+    "path": "res://assets/audio/voice/en/days/ahad.mp3"
+   }
+  },
+  "months": {
+   "1": {
+    "text": "January",
+    "path": "res://assets/audio/voice/en/months/1.mp3"
+   },
+   "2": {
+    "text": "February",
+    "path": "res://assets/audio/voice/en/months/2.mp3"
+   },
+   "3": {
+    "text": "March",
+    "path": "res://assets/audio/voice/en/months/3.mp3"
+   },
+   "4": {
+    "text": "April",
+    "path": "res://assets/audio/voice/en/months/4.mp3"
+   },
+   "5": {
+    "text": "May",
+    "path": "res://assets/audio/voice/en/months/5.mp3"
+   },
+   "6": {
+    "text": "June",
+    "path": "res://assets/audio/voice/en/months/6.mp3"
+   },
+   "7": {
+    "text": "July",
+    "path": "res://assets/audio/voice/en/months/7.mp3"
+   },
+   "8": {
+    "text": "August",
+    "path": "res://assets/audio/voice/en/months/8.mp3"
+   },
+   "9": {
+    "text": "September",
+    "path": "res://assets/audio/voice/en/months/9.mp3"
+   },
+   "10": {
+    "text": "October",
+    "path": "res://assets/audio/voice/en/months/10.mp3"
+   },
+   "11": {
+    "text": "November",
+    "path": "res://assets/audio/voice/en/months/11.mp3"
+   },
+   "12": {
+    "text": "December",
+    "path": "res://assets/audio/voice/en/months/12.mp3"
+   }
+  },
+  "vocab/bahasa_inggeris": {
+   "aeroplane": {
+    "text": "Aeroplane",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/aeroplane.mp3"
+   },
+   "ant": {
+    "text": "Ant",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/ant.mp3"
+   },
+   "ball": {
+    "text": "Ball",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/ball.mp3"
+   },
+   "bed": {
+    "text": "Bed",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/bed.mp3"
+   },
+   "bee": {
+    "text": "Bee",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/bee.mp3"
+   },
+   "bicycle": {
+    "text": "Bicycle",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/bicycle.mp3"
+   },
+   "bird": {
+    "text": "Bird",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/bird.mp3"
+   },
+   "bus": {
+    "text": "School bus",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/bus.mp3"
+   },
+   "butterfly": {
+    "text": "Butterfly",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/butterfly.mp3"
+   },
+   "butterfly_eggs": {
+    "text": "Butterfly eggs",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/butterfly_eggs.mp3"
+   },
+   "car": {
+    "text": "Car",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/car.mp3"
+   },
+   "cat": {
+    "text": "Cat",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/cat.mp3"
+   },
+   "caterpillar": {
+    "text": "Caterpillar",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/caterpillar.mp3"
+   },
+   "chicken": {
+    "text": "Chicken",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/chicken.mp3"
+   },
+   "chrysalis": {
+    "text": "Chrysalis (pupa)",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/chrysalis.mp3"
+   },
+   "cow": {
+    "text": "Cow",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/cow.mp3"
+   },
+   "cup": {
+    "text": "Cup",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/cup.mp3"
+   },
+   "dog": {
+    "text": "Dog",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/dog.mp3"
+   },
+   "door": {
+    "text": "Door",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/door.mp3"
+   },
+   "duck": {
+    "text": "Duck",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/duck.mp3"
+   },
+   "fish": {
+    "text": "Fish",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/fish.mp3"
+   },
+   "frog": {
+    "text": "Frog",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/frog.mp3"
+   },
+   "goat": {
+    "text": "Goat",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/goat.mp3"
+   },
+   "hat": {
+    "text": "Hat",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/hat.mp3"
+   },
+   "helicopter": {
+    "text": "Helicopter",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/helicopter.mp3"
+   },
+   "kite": {
+    "text": "Kite",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/kite.mp3"
+   },
+   "monkey": {
+    "text": "Monkey",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/monkey.mp3"
+   },
+   "motorcycle": {
+    "text": "Motorcycle",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/motorcycle.mp3"
+   },
+   "owl": {
+    "text": "Owl",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/owl.mp3"
+   },
+   "plate": {
+    "text": "Plate",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/plate.mp3"
+   },
+   "rabbit": {
+    "text": "Rabbit",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/rabbit.mp3"
+   },
+   "ship": {
+    "text": "Ship",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/ship.mp3"
+   },
+   "shirt": {
+    "text": "Shirt",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/shirt.mp3"
+   },
+   "shoes": {
+    "text": "Shoes",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/shoes.mp3"
+   },
+   "snail": {
+    "text": "Snail",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/snail.mp3"
+   },
+   "socks": {
+    "text": "Socks",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/socks.mp3"
+   },
+   "spoon": {
+    "text": "Spoon",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/spoon.mp3"
+   },
+   "teddy_bear": {
+    "text": "Teddy bear",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/teddy_bear.mp3"
+   },
+   "train": {
+    "text": "Train",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/train.mp3"
+   },
+   "umbrella": {
+    "text": "Umbrella",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/umbrella.mp3"
+   },
+   "window": {
+    "text": "Window",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_inggeris/window.mp3"
+   }
+  },
+  "vocab/bahasa_melayu": {
+   "anggur": {
+    "text": "Grapes",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/anggur.mp3"
+   },
+   "belimbing": {
+    "text": "Star fruit",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/belimbing.mp3"
+   },
+   "betik": {
+    "text": "Papaya",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/betik.mp3"
+   },
+   "buaya": {
+    "text": "Crocodile",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/buaya.mp3"
+   },
+   "congkak": {
+    "text": "Congkak",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/congkak.mp3"
+   },
+   "durian": {
+    "text": "Durian",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/durian.mp3"
+   },
+   "epal": {
+    "text": "Apple",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/epal.mp3"
+   },
+   "gajah": {
+    "text": "Elephant",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/gajah.mp3"
+   },
+   "gasing": {
+    "text": "Spinning top",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/gasing.mp3"
+   },
+   "harimau": {
+    "text": "Tiger",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/harimau.mp3"
+   },
+   "jambu_air": {
+    "text": "Rose apple",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/jambu_air.mp3"
+   },
+   "kelapa": {
+    "text": "Coconut",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/kelapa.mp3"
+   },
+   "kenyalang": {
+    "text": "Rhinoceros hornbill",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/kenyalang.mp3"
+   },
+   "ketupat": {
+    "text": "Ketupat",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/ketupat.mp3"
+   },
+   "kuih_lapis": {
+    "text": "Layer cake",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/kuih_lapis.mp3"
+   },
+   "kura_kura": {
+    "text": "Turtle",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/kura_kura.mp3"
+   },
+   "mangga": {
+    "text": "Mango",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/mangga.mp3"
+   },
+   "manggis": {
+    "text": "Mangosteen",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/manggis.mp3"
+   },
+   "nanas": {
+    "text": "Pineapple",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/nanas.mp3"
+   },
+   "nasi_lemak": {
+    "text": "Nasi lemak",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/nasi_lemak.mp3"
+   },
+   "orang_utan": {
+    "text": "Orang utan",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/orang_utan.mp3"
+   },
+   "oren": {
+    "text": "Orange",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/oren.mp3"
+   },
+   "perahu": {
+    "text": "Boat (perahu)",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/perahu.mp3"
+   },
+   "pisang": {
+    "text": "Banana",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/pisang.mp3"
+   },
+   "rambutan": {
+    "text": "Rambutan",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/rambutan.mp3"
+   },
+   "roti": {
+    "text": "Bread",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/roti.mp3"
+   },
+   "roti_canai": {
+    "text": "Roti canai",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/roti_canai.mp3"
+   },
+   "rumah_kampung": {
+    "text": "Malay village house",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/rumah_kampung.mp3"
+   },
+   "sang_kancil": {
+    "text": "Mouse deer (Sang Kancil)",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/sang_kancil.mp3"
+   },
+   "satay": {
+    "text": "Satay",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/satay.mp3"
+   },
+   "strawberi": {
+    "text": "Strawberry",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/strawberi.mp3"
+   },
+   "susu": {
+    "text": "Milk",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/susu.mp3"
+   },
+   "teh_tarik": {
+    "text": "Pulled tea",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/teh_tarik.mp3"
+   },
+   "telur": {
+    "text": "Egg",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/telur.mp3"
+   },
+   "tembikai": {
+    "text": "Watermelon",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/tembikai.mp3"
+   },
+   "wau": {
+    "text": "Wau bulan (Malay kite)",
+    "path": "res://assets/audio/voice/en/vocab/bahasa_melayu/wau.mp3"
+   }
+  },
+  "vocab/matematik": {
+   "balance_scale": {
+    "text": "Balance scale",
+    "path": "res://assets/audio/voice/en/vocab/matematik/balance_scale.mp3"
+   },
+   "base10_block": {
+    "text": "Thousand block (1000)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/base10_block.mp3"
+   },
+   "base10_flat": {
+    "text": "Hundred flat (100)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/base10_flat.mp3"
+   },
+   "base10_rod": {
+    "text": "Ten rod (10)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/base10_rod.mp3"
+   },
+   "base10_unit": {
+    "text": "Unit cube (1)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/base10_unit.mp3"
+   },
+   "chart_bar": {
+    "text": "Bar chart",
+    "path": "res://assets/audio/voice/en/vocab/matematik/chart_bar.mp3"
+   },
+   "chart_pie": {
+    "text": "Pie chart",
+    "path": "res://assets/audio/voice/en/vocab/matematik/chart_pie.mp3"
+   },
+   "clock_face": {
+    "text": "Clock face",
+    "path": "res://assets/audio/voice/en/vocab/matematik/clock_face.mp3"
+   },
+   "clock_hand_hour": {
+    "text": "Hour hand",
+    "path": "res://assets/audio/voice/en/vocab/matematik/clock_hand_hour.mp3"
+   },
+   "clock_hand_minute": {
+    "text": "Minute hand",
+    "path": "res://assets/audio/voice/en/vocab/matematik/clock_hand_minute.mp3"
+   },
+   "coin_10sen": {
+    "text": "10sen coin (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/coin_10sen.mp3"
+   },
+   "coin_20sen": {
+    "text": "20sen coin (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/coin_20sen.mp3"
+   },
+   "coin_50sen": {
+    "text": "50sen coin (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/coin_50sen.mp3"
+   },
+   "coin_5sen": {
+    "text": "5sen coin (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/coin_5sen.mp3"
+   },
+   "compasses": {
+    "text": "Compasses",
+    "path": "res://assets/audio/voice/en/vocab/matematik/compasses.mp3"
+   },
+   "counter_red": {
+    "text": "Counter (red)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/counter_red.mp3"
+   },
+   "counter_yellow": {
+    "text": "Counter (yellow)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/counter_yellow.mp3"
+   },
+   "dice_1": {
+    "text": "Dice 1",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_1.mp3"
+   },
+   "dice_2": {
+    "text": "Dice 2",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_2.mp3"
+   },
+   "dice_3": {
+    "text": "Dice 3",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_3.mp3"
+   },
+   "dice_4": {
+    "text": "Dice 4",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_4.mp3"
+   },
+   "dice_5": {
+    "text": "Dice 5",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_5.mp3"
+   },
+   "dice_6": {
+    "text": "Dice 6",
+    "path": "res://assets/audio/voice/en/vocab/matematik/dice_6.mp3"
+   },
+   "link_cube_blue": {
+    "text": "Linking cube (blue)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/link_cube_blue.mp3"
+   },
+   "link_cube_green": {
+    "text": "Linking cube (green)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/link_cube_green.mp3"
+   },
+   "link_cube_red": {
+    "text": "Linking cube (red)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/link_cube_red.mp3"
+   },
+   "link_cube_yellow": {
+    "text": "Linking cube (yellow)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/link_cube_yellow.mp3"
+   },
+   "measuring_jug": {
+    "text": "Measuring jug",
+    "path": "res://assets/audio/voice/en/vocab/matematik/measuring_jug.mp3"
+   },
+   "note_rm1": {
+    "text": "RM1 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm1.mp3"
+   },
+   "note_rm10": {
+    "text": "RM10 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm10.mp3"
+   },
+   "note_rm100": {
+    "text": "RM100 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm100.mp3"
+   },
+   "note_rm20": {
+    "text": "RM20 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm20.mp3"
+   },
+   "note_rm5": {
+    "text": "RM5 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm5.mp3"
+   },
+   "note_rm50": {
+    "text": "RM50 note (blank)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/note_rm50.mp3"
+   },
+   "op_decimal": {
+    "text": "Decimal point",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_decimal.mp3"
+   },
+   "op_divide": {
+    "text": "Divide",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_divide.mp3"
+   },
+   "op_equals": {
+    "text": "Equals",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_equals.mp3"
+   },
+   "op_greater": {
+    "text": "Greater than",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_greater.mp3"
+   },
+   "op_less": {
+    "text": "Less than",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_less.mp3"
+   },
+   "op_minus": {
+    "text": "Minus",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_minus.mp3"
+   },
+   "op_percent": {
+    "text": "Percent",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_percent.mp3"
+   },
+   "op_plus": {
+    "text": "Plus",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_plus.mp3"
+   },
+   "op_times": {
+    "text": "Multiply",
+    "path": "res://assets/audio/voice/en/vocab/matematik/op_times.mp3"
+   },
+   "pictograph": {
+    "text": "Pictograph",
+    "path": "res://assets/audio/voice/en/vocab/matematik/pictograph.mp3"
+   },
+   "protractor": {
+    "text": "Protractor",
+    "path": "res://assets/audio/voice/en/vocab/matematik/protractor.mp3"
+   },
+   "ruler_long": {
+    "text": "Ruler (30 cm)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/ruler_long.mp3"
+   },
+   "sempoa": {
+    "text": "Abacus (sempoa)",
+    "path": "res://assets/audio/voice/en/vocab/matematik/sempoa.mp3"
+   },
+   "set_square": {
+    "text": "Set square",
+    "path": "res://assets/audio/voice/en/vocab/matematik/set_square.mp3"
+   },
+   "shape_circle": {
+    "text": "Circle",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_circle.mp3"
+   },
+   "shape_heart": {
+    "text": "Heart",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_heart.mp3"
+   },
+   "shape_hexagon": {
+    "text": "Hexagon",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_hexagon.mp3"
+   },
+   "shape_octagon": {
+    "text": "Octagon",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_octagon.mp3"
+   },
+   "shape_oval": {
+    "text": "Oval",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_oval.mp3"
+   },
+   "shape_parallelogram": {
+    "text": "Parallelogram",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_parallelogram.mp3"
+   },
+   "shape_pentagon": {
+    "text": "Pentagon",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_pentagon.mp3"
+   },
+   "shape_rectangle": {
+    "text": "Rectangle",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_rectangle.mp3"
+   },
+   "shape_rhombus": {
+    "text": "Rhombus",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_rhombus.mp3"
+   },
+   "shape_semicircle": {
+    "text": "Semicircle",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_semicircle.mp3"
+   },
+   "shape_square": {
+    "text": "Square",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_square.mp3"
+   },
+   "shape_star": {
+    "text": "Star",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_star.mp3"
+   },
+   "shape_trapezium": {
+    "text": "Trapezium",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_trapezium.mp3"
+   },
+   "shape_triangle": {
+    "text": "Triangle",
+    "path": "res://assets/audio/voice/en/vocab/matematik/shape_triangle.mp3"
+   },
+   "solid_cone": {
+    "text": "Cone",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_cone.mp3"
+   },
+   "solid_cube": {
+    "text": "Cube",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_cube.mp3"
+   },
+   "solid_cuboid": {
+    "text": "Cuboid",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_cuboid.mp3"
+   },
+   "solid_cylinder": {
+    "text": "Cylinder",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_cylinder.mp3"
+   },
+   "solid_hemisphere": {
+    "text": "Hemisphere",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_hemisphere.mp3"
+   },
+   "solid_prism": {
+    "text": "Triangular prism",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_prism.mp3"
+   },
+   "solid_pyramid": {
+    "text": "Pyramid",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_pyramid.mp3"
+   },
+   "solid_sphere": {
+    "text": "Sphere",
+    "path": "res://assets/audio/voice/en/vocab/matematik/solid_sphere.mp3"
+   },
+   "tape_measure": {
+    "text": "Tape measure",
+    "path": "res://assets/audio/voice/en/vocab/matematik/tape_measure.mp3"
+   },
+   "weighing_scale": {
+    "text": "Weighing scale",
+    "path": "res://assets/audio/voice/en/vocab/matematik/weighing_scale.mp3"
+   }
+  },
+  "vocab/muzik": {
+   "angklung": {
+    "text": "Angklung",
+    "path": "res://assets/audio/voice/en/vocab/muzik/angklung.mp3"
+   },
+   "baluk_krocet": {
+    "text": "Crotchet rest",
+    "path": "res://assets/audio/voice/en/vocab/muzik/baluk_krocet.mp3"
+   },
+   "gendang": {
+    "text": "Gendang (Malay drum)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/gendang.mp3"
+   },
+   "gitar": {
+    "text": "Guitar",
+    "path": "res://assets/audio/voice/en/vocab/muzik/gitar.mp3"
+   },
+   "klef_trebel": {
+    "text": "Treble clef",
+    "path": "res://assets/audio/voice/en/vocab/muzik/klef_trebel.mp3"
+   },
+   "kompang": {
+    "text": "Kompang",
+    "path": "res://assets/audio/voice/en/vocab/muzik/kompang.mp3"
+   },
+   "marakas": {
+    "text": "Maracas",
+    "path": "res://assets/audio/voice/en/vocab/muzik/marakas.mp3"
+   },
+   "not_krocet": {
+    "text": "Quarter note (crotchet)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_krocet.mp3"
+   },
+   "not_kuaver": {
+    "text": "Eighth note (quaver)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_kuaver.mp3"
+   },
+   "not_kuaver_berpasangan": {
+    "text": "Beamed quavers",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_kuaver_berpasangan.mp3"
+   },
+   "not_minim": {
+    "text": "Half note (minim)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_minim.mp3"
+   },
+   "not_semibreve": {
+    "text": "Whole note (semibreve)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_semibreve.mp3"
+   },
+   "not_semikuaver": {
+    "text": "Sixteenth note (semiquaver)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/not_semikuaver.mp3"
+   },
+   "piano": {
+    "text": "Piano keys",
+    "path": "res://assets/audio/voice/en/vocab/muzik/piano.mp3"
+   },
+   "rekoder": {
+    "text": "Recorder",
+    "path": "res://assets/audio/voice/en/vocab/muzik/rekoder.mp3"
+   },
+   "sape": {
+    "text": "Sape (Sarawak lute)",
+    "path": "res://assets/audio/voice/en/vocab/muzik/sape.mp3"
+   },
+   "segi_tiga": {
+    "text": "Triangle",
+    "path": "res://assets/audio/voice/en/vocab/muzik/segi_tiga.mp3"
+   },
+   "tamborin": {
+    "text": "Tambourine",
+    "path": "res://assets/audio/voice/en/vocab/muzik/tamborin.mp3"
+   },
+   "zilofon": {
+    "text": "Xylophone",
+    "path": "res://assets/audio/voice/en/vocab/muzik/zilofon.mp3"
+   }
+  },
+  "vocab/pendidikan_islam": {
+   "al_quran_rehal": {
+    "text": "Quran on a stand (rehal)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/al_quran_rehal.mp3"
+   },
+   "bulan_bintang": {
+    "text": "Crescent and star",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/bulan_bintang.mp3"
+   },
+   "kaabah": {
+    "text": "Kaaba",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/kaabah.mp3"
+   },
+   "kendi": {
+    "text": "Water jug",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/kendi.mp3"
+   },
+   "kompas_kiblat": {
+    "text": "Qibla compass",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/kompas_kiblat.mp3"
+   },
+   "kopiah": {
+    "text": "Prayer cap",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/kopiah.mp3"
+   },
+   "kurma": {
+    "text": "Dates",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/kurma.mp3"
+   },
+   "masjid": {
+    "text": "Mosque",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/masjid.mp3"
+   },
+   "paip_air_wuduk": {
+    "text": "Ablution tap",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/paip_air_wuduk.mp3"
+   },
+   "pelita": {
+    "text": "Oil lamp (pelita)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/pelita.mp3"
+   },
+   "sampul_duit_raya": {
+    "text": "Raya money packet",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/sampul_duit_raya.mp3"
+   },
+   "sejadah": {
+    "text": "Prayer mat",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/sejadah.mp3"
+   },
+   "songkok": {
+    "text": "Songkok",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/songkok.mp3"
+   },
+   "tanglung": {
+    "text": "Lantern",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/tanglung.mp3"
+   },
+   "tasbih": {
+    "text": "Prayer beads",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_islam/tasbih.mp3"
+   }
+  },
+  "vocab/pendidikan_moral": {
+   "berjabat_tangan": {
+    "text": "Handshake",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/berjabat_tangan.mp3"
+   },
+   "berkongsi": {
+    "text": "Sharing",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/berkongsi.mp3"
+   },
+   "dompet": {
+    "text": "Wallet (honesty)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/dompet.mp3"
+   },
+   "ibu_jari": {
+    "text": "Thumbs up",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/ibu_jari.mp3"
+   },
+   "kad_terima_kasih": {
+    "text": "Thank-you card",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/kad_terima_kasih.mp3"
+   },
+   "keluarga": {
+    "text": "Family",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/keluarga.mp3"
+   },
+   "lampu_isyarat": {
+    "text": "Traffic light",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/lampu_isyarat.mp3"
+   },
+   "lintasan_zebra": {
+    "text": "Zebra crossing",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/lintasan_zebra.mp3"
+   },
+   "tabung": {
+    "text": "Piggy bank (savings)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tabung.mp3"
+   },
+   "tolong_menolong": {
+    "text": "Helping each other",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tolong_menolong.mp3"
+   },
+   "tong_kitar_biru": {
+    "text": "Recycling bin (paper)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tong_kitar_biru.mp3"
+   },
+   "tong_kitar_coklat": {
+    "text": "Recycling bin (glass)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tong_kitar_coklat.mp3"
+   },
+   "tong_kitar_oren": {
+    "text": "Recycling bin (plastic & cans)",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tong_kitar_oren.mp3"
+   },
+   "tong_sampah": {
+    "text": "Rubbish bin",
+    "path": "res://assets/audio/voice/en/vocab/pendidikan_moral/tong_sampah.mp3"
+   }
+  },
+  "vocab/pjpk": {
+   "ayam_goreng": {
+    "text": "Fried chicken",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/ayam_goreng.mp3"
+   },
+   "badminton": {
+    "text": "Badminton racket and shuttle",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/badminton.mp3"
+   },
+   "basuh_tangan": {
+    "text": "Washing hands",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/basuh_tangan.mp3"
+   },
+   "berus_gigi": {
+    "text": "Toothbrush and toothpaste",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/berus_gigi.mp3"
+   },
+   "bola_jaring": {
+    "text": "Netball",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/bola_jaring.mp3"
+   },
+   "bola_keranjang": {
+    "text": "Basketball",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/bola_keranjang.mp3"
+   },
+   "bola_sepak": {
+    "text": "Football",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/bola_sepak.mp3"
+   },
+   "bola_takraw": {
+    "text": "Sepak takraw ball",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/bola_takraw.mp3"
+   },
+   "brokoli": {
+    "text": "Broccoli",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/brokoli.mp3"
+   },
+   "burger": {
+    "text": "Burger (eat less)",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/burger.mp3"
+   },
+   "hula_hoop": {
+    "text": "Hula hoop",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/hula_hoop.mp3"
+   },
+   "kit_pertolongan_cemas": {
+    "text": "First aid kit",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/kit_pertolongan_cemas.mp3"
+   },
+   "kon": {
+    "text": "Cone",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/kon.mp3"
+   },
+   "lobak_merah": {
+    "text": "Carrot",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/lobak_merah.mp3"
+   },
+   "minuman_bergas": {
+    "text": "Fizzy drink (eat less)",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/minuman_bergas.mp3"
+   },
+   "nasi": {
+    "text": "Rice",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/nasi.mp3"
+   },
+   "ping_pong": {
+    "text": "Table tennis",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/ping_pong.mp3"
+   },
+   "pinggan_sihat": {
+    "text": "Malaysian healthy plate (quarter-quarter-half)",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/pinggan_sihat.mp3"
+   },
+   "sabun": {
+    "text": "Soap",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/sabun.mp3"
+   },
+   "tali_lompat": {
+    "text": "Skipping rope",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/tali_lompat.mp3"
+   },
+   "tomato": {
+    "text": "Tomato",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/tomato.mp3"
+   },
+   "tuala": {
+    "text": "Towel",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/tuala.mp3"
+   },
+   "wisel": {
+    "text": "Whistle",
+    "path": "res://assets/audio/voice/en/vocab/pjpk/wisel.mp3"
+   }
+  },
+  "vocab/rbt": {
+   "butang_baju": {
+    "text": "Buttons",
+    "path": "res://assets/audio/voice/en/vocab/rbt/butang_baju.mp3"
+   },
+   "cangkul": {
+    "text": "Hoe",
+    "path": "res://assets/audio/voice/en/vocab/rbt/cangkul.mp3"
+   },
+   "gear": {
+    "text": "Gear",
+    "path": "res://assets/audio/voice/en/vocab/rbt/gear.mp3"
+   },
+   "gergaji": {
+    "text": "Saw",
+    "path": "res://assets/audio/voice/en/vocab/rbt/gergaji.mp3"
+   },
+   "jarum_benang": {
+    "text": "Needle and thread",
+    "path": "res://assets/audio/voice/en/vocab/rbt/jarum_benang.mp3"
+   },
+   "kod_blok": {
+    "text": "Block code",
+    "path": "res://assets/audio/voice/en/vocab/rbt/kod_blok.mp3"
+   },
+   "komputer_riba": {
+    "text": "Laptop with code",
+    "path": "res://assets/audio/voice/en/vocab/rbt/komputer_riba.mp3"
+   },
+   "lakaran_reka_bentuk": {
+    "text": "Design sketch",
+    "path": "res://assets/audio/voice/en/vocab/rbt/lakaran_reka_bentuk.mp3"
+   },
+   "led": {
+    "text": "LED",
+    "path": "res://assets/audio/voice/en/vocab/rbt/led.mp3"
+   },
+   "litar": {
+    "text": "Simple circuit",
+    "path": "res://assets/audio/voice/en/vocab/rbt/litar.mp3"
+   },
+   "motor": {
+    "text": "Electric motor",
+    "path": "res://assets/audio/voice/en/vocab/rbt/motor.mp3"
+   },
+   "papan_mikropengawal": {
+    "text": "Microcontroller board",
+    "path": "res://assets/audio/voice/en/vocab/rbt/papan_mikropengawal.mp3"
+   },
+   "pemutar_skru": {
+    "text": "Screwdriver",
+    "path": "res://assets/audio/voice/en/vocab/rbt/pemutar_skru.mp3"
+   },
+   "penyiram": {
+    "text": "Watering can",
+    "path": "res://assets/audio/voice/en/vocab/rbt/penyiram.mp3"
+   },
+   "penyodok": {
+    "text": "Spade",
+    "path": "res://assets/audio/voice/en/vocab/rbt/penyodok.mp3"
+   },
+   "perintang": {
+    "text": "Resistor",
+    "path": "res://assets/audio/voice/en/vocab/rbt/perintang.mp3"
+   },
+   "playar": {
+    "text": "Pliers",
+    "path": "res://assets/audio/voice/en/vocab/rbt/playar.mp3"
+   },
+   "polibeg_anak_benih": {
+    "text": "Seedling in polybag",
+    "path": "res://assets/audio/voice/en/vocab/rbt/polibeg_anak_benih.mp3"
+   },
+   "robot": {
+    "text": "Robot",
+    "path": "res://assets/audio/voice/en/vocab/rbt/robot.mp3"
+   },
+   "sepana": {
+    "text": "Spanner",
+    "path": "res://assets/audio/voice/en/vocab/rbt/sepana.mp3"
+   },
+   "suis": {
+    "text": "Switch",
+    "path": "res://assets/audio/voice/en/vocab/rbt/suis.mp3"
+   },
+   "tukul": {
+    "text": "Hammer",
+    "path": "res://assets/audio/voice/en/vocab/rbt/tukul.mp3"
+   }
+  },
+  "vocab/sains": {
+   "atom": {
+    "text": "Atom",
+    "path": "res://assets/audio/voice/en/vocab/sains/atom.mp3"
+   },
+   "battery": {
+    "text": "Battery",
+    "path": "res://assets/audio/voice/en/vocab/sains/battery.mp3"
+   },
+   "beaker": {
+    "text": "Beaker",
+    "path": "res://assets/audio/voice/en/vocab/sains/beaker.mp3"
+   },
+   "cactus": {
+    "text": "Cactus",
+    "path": "res://assets/audio/voice/en/vocab/sains/cactus.mp3"
+   },
+   "cloud": {
+    "text": "Cloud",
+    "path": "res://assets/audio/voice/en/vocab/sains/cloud.mp3"
+   },
+   "cloud_rain": {
+    "text": "Rain",
+    "path": "res://assets/audio/voice/en/vocab/sains/cloud_rain.mp3"
+   },
+   "cloud_storm": {
+    "text": "Storm",
+    "path": "res://assets/audio/voice/en/vocab/sains/cloud_storm.mp3"
+   },
+   "comet": {
+    "text": "Comet",
+    "path": "res://assets/audio/voice/en/vocab/sains/comet.mp3"
+   },
+   "compass_rose": {
+    "text": "Compass",
+    "path": "res://assets/audio/voice/en/vocab/sains/compass_rose.mp3"
+   },
+   "dna": {
+    "text": "DNA",
+    "path": "res://assets/audio/voice/en/vocab/sains/dna.mp3"
+   },
+   "fire": {
+    "text": "Fire",
+    "path": "res://assets/audio/voice/en/vocab/sains/fire.mp3"
+   },
+   "flask_conical": {
+    "text": "Conical flask",
+    "path": "res://assets/audio/voice/en/vocab/sains/flask_conical.mp3"
+   },
+   "flask_round": {
+    "text": "Round flask",
+    "path": "res://assets/audio/voice/en/vocab/sains/flask_round.mp3"
+   },
+   "frog_eggs": {
+    "text": "Frog eggs (frogspawn)",
+    "path": "res://assets/audio/voice/en/vocab/sains/frog_eggs.mp3"
+   },
+   "froglet": {
+    "text": "Froglet",
+    "path": "res://assets/audio/voice/en/vocab/sains/froglet.mp3"
+   },
+   "leaf": {
+    "text": "Leaf",
+    "path": "res://assets/audio/voice/en/vocab/sains/leaf.mp3"
+   },
+   "light_bulb": {
+    "text": "Light bulb",
+    "path": "res://assets/audio/voice/en/vocab/sains/light_bulb.mp3"
+   },
+   "magnet": {
+    "text": "Magnet",
+    "path": "res://assets/audio/voice/en/vocab/sains/magnet.mp3"
+   },
+   "magnifier": {
+    "text": "Magnifying glass",
+    "path": "res://assets/audio/voice/en/vocab/sains/magnifier.mp3"
+   },
+   "microscope": {
+    "text": "Microscope",
+    "path": "res://assets/audio/voice/en/vocab/sains/microscope.mp3"
+   },
+   "molecule": {
+    "text": "Molecule (H2O)",
+    "path": "res://assets/audio/voice/en/vocab/sains/molecule.mp3"
+   },
+   "moon": {
+    "text": "Moon",
+    "path": "res://assets/audio/voice/en/vocab/sains/moon.mp3"
+   },
+   "mountain": {
+    "text": "Mountain",
+    "path": "res://assets/audio/voice/en/vocab/sains/mountain.mp3"
+   },
+   "mushroom": {
+    "text": "Mushroom",
+    "path": "res://assets/audio/voice/en/vocab/sains/mushroom.mp3"
+   },
+   "planet_earth": {
+    "text": "Earth",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_earth.mp3"
+   },
+   "planet_jupiter": {
+    "text": "Jupiter",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_jupiter.mp3"
+   },
+   "planet_mars": {
+    "text": "Mars",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_mars.mp3"
+   },
+   "planet_mercury": {
+    "text": "Mercury",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_mercury.mp3"
+   },
+   "planet_neptune": {
+    "text": "Neptune",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_neptune.mp3"
+   },
+   "planet_saturn": {
+    "text": "Saturn",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_saturn.mp3"
+   },
+   "planet_uranus": {
+    "text": "Uranus",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_uranus.mp3"
+   },
+   "planet_venus": {
+    "text": "Venus",
+    "path": "res://assets/audio/voice/en/vocab/sains/planet_venus.mp3"
+   },
+   "plant_flower": {
+    "text": "Flowering plant",
+    "path": "res://assets/audio/voice/en/vocab/sains/plant_flower.mp3"
+   },
+   "plant_fruit": {
+    "text": "Fruiting plant",
+    "path": "res://assets/audio/voice/en/vocab/sains/plant_fruit.mp3"
+   },
+   "plant_seed": {
+    "text": "Seed",
+    "path": "res://assets/audio/voice/en/vocab/sains/plant_seed.mp3"
+   },
+   "plant_sprout": {
+    "text": "Sprout",
+    "path": "res://assets/audio/voice/en/vocab/sains/plant_sprout.mp3"
+   },
+   "plant_young": {
+    "text": "Young plant",
+    "path": "res://assets/audio/voice/en/vocab/sains/plant_young.mp3"
+   },
+   "rainbow": {
+    "text": "Rainbow",
+    "path": "res://assets/audio/voice/en/vocab/sains/rainbow.mp3"
+   },
+   "rock": {
+    "text": "Rock",
+    "path": "res://assets/audio/voice/en/vocab/sains/rock.mp3"
+   },
+   "rocket": {
+    "text": "Rocket",
+    "path": "res://assets/audio/voice/en/vocab/sains/rocket.mp3"
+   },
+   "snowflake": {
+    "text": "Snowflake",
+    "path": "res://assets/audio/voice/en/vocab/sains/snowflake.mp3"
+   },
+   "star_space": {
+    "text": "Star",
+    "path": "res://assets/audio/voice/en/vocab/sains/star_space.mp3"
+   },
+   "sun": {
+    "text": "Sun",
+    "path": "res://assets/audio/voice/en/vocab/sains/sun.mp3"
+   },
+   "tadpole": {
+    "text": "Tadpole",
+    "path": "res://assets/audio/voice/en/vocab/sains/tadpole.mp3"
+   },
+   "telescope": {
+    "text": "Telescope",
+    "path": "res://assets/audio/voice/en/vocab/sains/telescope.mp3"
+   },
+   "test_tube_blue": {
+    "text": "Test tube (blue)",
+    "path": "res://assets/audio/voice/en/vocab/sains/test_tube_blue.mp3"
+   },
+   "test_tube_green": {
+    "text": "Test tube (green)",
+    "path": "res://assets/audio/voice/en/vocab/sains/test_tube_green.mp3"
+   },
+   "test_tube_rack": {
+    "text": "Test tube rack",
+    "path": "res://assets/audio/voice/en/vocab/sains/test_tube_rack.mp3"
+   },
+   "test_tube_red": {
+    "text": "Test tube (red)",
+    "path": "res://assets/audio/voice/en/vocab/sains/test_tube_red.mp3"
+   },
+   "thermometer": {
+    "text": "Thermometer",
+    "path": "res://assets/audio/voice/en/vocab/sains/thermometer.mp3"
+   },
+   "tooth": {
+    "text": "Tooth",
+    "path": "res://assets/audio/voice/en/vocab/sains/tooth.mp3"
+   },
+   "tree": {
+    "text": "Tree",
+    "path": "res://assets/audio/voice/en/vocab/sains/tree.mp3"
+   },
+   "ufo": {
+    "text": "UFO",
+    "path": "res://assets/audio/voice/en/vocab/sains/ufo.mp3"
+   },
+   "volcano": {
+    "text": "Volcano",
+    "path": "res://assets/audio/voice/en/vocab/sains/volcano.mp3"
+   },
+   "water_drop": {
+    "text": "Water drop",
+    "path": "res://assets/audio/voice/en/vocab/sains/water_drop.mp3"
+   },
+   "wind": {
+    "text": "Wind",
+    "path": "res://assets/audio/voice/en/vocab/sains/wind.mp3"
+   }
+  },
+  "vocab/sejarah": {
+   "bunga_raya": {
+    "text": "Hibiscus (national flower)",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/bunga_raya.mp3"
+   },
+   "dulang_bijih_timah": {
+    "text": "Tin panning tray (dulang)",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/dulang_bijih_timah.mp3"
+   },
+   "jalur_gemilang": {
+    "text": "Malaysian flag (Jalur Gemilang)",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/jalur_gemilang.mp3"
+   },
+   "kapal_layar": {
+    "text": "Sailing ship (Melaka era)",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/kapal_layar.mp3"
+   },
+   "keris": {
+    "text": "Keris",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/keris.mp3"
+   },
+   "kota_lama": {
+    "text": "Old fort gate",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/kota_lama.mp3"
+   },
+   "mahkota": {
+    "text": "Crown",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/mahkota.mp3"
+   },
+   "manuskrip": {
+    "text": "Old manuscript",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/manuskrip.mp3"
+   },
+   "meriam": {
+    "text": "Cannon",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/meriam.mp3"
+   },
+   "peta_lama": {
+    "text": "Old map",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/peta_lama.mp3"
+   },
+   "pokok_getah": {
+    "text": "Rubber tree tapping",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/pokok_getah.mp3"
+   },
+   "tengkolok": {
+    "text": "Tengkolok (royal headgear)",
+    "path": "res://assets/audio/voice/en/vocab/sejarah/tengkolok.mp3"
+   }
+  },
+  "vocab/seni_visual": {
+   "berus_cat": {
+    "text": "Paint brushes",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/berus_cat.mp3"
+   },
+   "canting": {
+    "text": "Batik canting",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/canting.mp3"
+   },
+   "gam": {
+    "text": "Glue stick",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/gam.mp3"
+   },
+   "gunting": {
+    "text": "Scissors",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/gunting.mp3"
+   },
+   "kain_batik": {
+    "text": "Batik cloth",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/kain_batik.mp3"
+   },
+   "kanvas_easel": {
+    "text": "Easel and canvas",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/kanvas_easel.mp3"
+   },
+   "kertas_warna": {
+    "text": "Coloured paper",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/kertas_warna.mp3"
+   },
+   "krayon": {
+    "text": "Crayons",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/krayon.mp3"
+   },
+   "origami": {
+    "text": "Origami crane",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/origami.mp3"
+   },
+   "pensel_warna": {
+    "text": "Coloured pencils",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/pensel_warna.mp3"
+   },
+   "roda_warna": {
+    "text": "Colour wheel",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/roda_warna.mp3"
+   },
+   "tanah_liat": {
+    "text": "Modelling clay",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/tanah_liat.mp3"
+   },
+   "tiub_cat": {
+    "text": "Paint tubes",
+    "path": "res://assets/audio/voice/en/vocab/seni_visual/tiub_cat.mp3"
+   }
+  }
+ }
+}

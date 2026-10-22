@@ -1,0 +1,209 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Apakah nama buah ini?",
+   "en": "What is this fruit called?"
+  },
+  "choices": {
+   "ms": [
+    "Durian",
+    "Rambutan",
+    "Manggis",
+    "Nanas"
+   ],
+   "en": [
+    "Durian",
+    "Rambutan",
+    "Mangosteen",
+    "Pineapple"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/durian"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Suku kata pertama bagi perkataan 'buku' ialah...",
+   "en": "The first syllable of 'buku' is..."
+  },
+  "choices": {
+   "ms": [
+    "bu",
+    "ku",
+    "ba",
+    "bi"
+   ],
+   "en": [
+    "bu",
+    "ku",
+    "ba",
+    "bi"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Pilih huruf vokal.",
+   "en": "Choose the vowel."
+  },
+  "choices": {
+   "ms": [
+    "a",
+    "b",
+    "k",
+    "m"
+   ],
+   "en": [
+    "a",
+    "b",
+    "k",
+    "m"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Haiwan ini dikenali sebagai...",
+   "en": "This animal is known as..."
+  },
+  "choices": {
+   "ms": [
+    "Sang Kancil",
+    "Harimau",
+    "Buaya",
+    "Gajah"
+   ],
+   "en": [
+    "Mouse deer",
+    "Tiger",
+    "Crocodile",
+    "Elephant"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/sang_kancil"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Lawan bagi perkataan 'tinggi' ialah...",
+   "en": "The opposite of 'tinggi' (tall) is..."
+  },
+  "choices": {
+   "ms": [
+    "rendah",
+    "besar",
+    "panjang",
+    "cantik"
+   ],
+   "en": [
+    "rendah (short)",
+    "besar (big)",
+    "panjang (long)",
+    "cantik (pretty)"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Pilih ayat yang betul.",
+   "en": "Choose the correct sentence."
+  },
+  "choices": {
+   "ms": [
+    "Adik makan nasi.",
+    "Nasi adik makan.",
+    "Makan nasi adik.",
+    "Adik nasi makan."
+   ],
+   "en": [
+    "Adik makan nasi.",
+    "Nasi adik makan.",
+    "Makan nasi adik.",
+    "Adik nasi makan."
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Permainan tradisional ini ialah...",
+   "en": "This traditional game is..."
+  },
+  "choices": {
+   "ms": [
+    "Congkak",
+    "Gasing",
+    "Wau",
+    "Batu seremban"
+   ],
+   "en": [
+    "Congkak",
+    "Spinning top",
+    "Kite",
+    "Five stones"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/congkak"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Peribahasa 'bagai aur dengan tebing' bermaksud...",
+   "en": "The proverb 'bagai aur dengan tebing' means..."
+  },
+  "choices": {
+   "ms": [
+    "saling membantu",
+    "bergaduh",
+    "malas",
+    "sombong"
+   ],
+   "en": [
+    "helping each other",
+    "quarrelling",
+    "lazy",
+    "arrogant"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Kata sendi nama yang sesuai: Ayah pergi ___ pejabat.",
+   "en": "Correct preposition: Ayah pergi ___ pejabat."
+  },
+  "choices": {
+   "ms": [
+    "ke",
+    "di",
+    "dari",
+    "pada"
+   ],
+   "en": [
+    "ke",
+    "di",
+    "dari",
+    "pada"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ }
+]

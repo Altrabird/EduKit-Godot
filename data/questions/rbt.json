@@ -1,0 +1,117 @@
+[
+ {
+  "year": 4,
+  "q": {
+   "ms": "Alat ini digunakan untuk memasukkan skru.",
+   "en": "This tool is used to drive screws."
+  },
+  "choices": {
+   "ms": [
+    "Pemutar skru",
+    "Tukul",
+    "Gergaji",
+    "Playar"
+   ],
+   "en": [
+    "Screwdriver",
+    "Hammer",
+    "Saw",
+    "Pliers"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/pemutar_skru"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Komponen yang menyalakan cahaya dalam litar ialah...",
+   "en": "The component that gives light in a circuit is the..."
+  },
+  "choices": {
+   "ms": [
+    "LED",
+    "Perintang",
+    "Suis",
+    "Motor"
+   ],
+   "en": [
+    "LED",
+    "Resistor",
+    "Switch",
+    "Motor"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/led"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Komponen yang menghadkan arus elektrik ialah...",
+   "en": "The component that limits electric current is the..."
+  },
+  "choices": {
+   "ms": [
+    "Perintang",
+    "LED",
+    "Bateri",
+    "Motor"
+   ],
+   "en": [
+    "Resistor",
+    "LED",
+    "Battery",
+    "Motor"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/perintang"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Alat ini digunakan untuk menyiram tanaman.",
+   "en": "This tool is used to water plants."
+  },
+  "choices": {
+   "ms": [
+    "Penyiram",
+    "Cangkul",
+    "Penyodok",
+    "Gunting"
+   ],
+   "en": [
+    "Watering can",
+    "Hoe",
+    "Spade",
+    "Scissors"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/penyiram"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Kod blok 'ulang 10 kali' ialah contoh...",
+   "en": "A 'repeat 10 times' block is an example of..."
+  },
+  "choices": {
+   "ms": [
+    "gelung (loop)",
+    "pemboleh ubah",
+    "acara",
+    "input"
+   ],
+   "en": [
+    "a loop",
+    "a variable",
+    "an event",
+    "an input"
+   ]
+  },
+  "answer": 0,
+  "image": "rbt/kod_blok"
+ }
+]

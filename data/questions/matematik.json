@@ -1,0 +1,209 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Berapakah 3 + 4?",
+   "en": "What is 3 + 4?"
+  },
+  "choices": {
+   "ms": [
+    "7",
+    "6",
+    "8",
+    "5"
+   ],
+   "en": [
+    "7",
+    "6",
+    "8",
+    "5"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Bentuk ini ialah...",
+   "en": "This shape is a..."
+  },
+  "choices": {
+   "ms": [
+    "Segi tiga",
+    "Bulatan",
+    "Segi empat sama",
+    "Pentagon"
+   ],
+   "en": [
+    "Triangle",
+    "Circle",
+    "Square",
+    "Pentagon"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/shape_triangle"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Pepejal ini ialah...",
+   "en": "This solid is a..."
+  },
+  "choices": {
+   "ms": [
+    "Silinder",
+    "Kon",
+    "Kubus",
+    "Sfera"
+   ],
+   "en": [
+    "Cylinder",
+    "Cone",
+    "Cube",
+    "Sphere"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/solid_cylinder"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Berapakah 50 sen + 50 sen?",
+   "en": "What is 50 sen + 50 sen?"
+  },
+  "choices": {
+   "ms": [
+    "RM1",
+    "RM10",
+    "100 sen + RM1",
+    "50 sen"
+   ],
+   "en": [
+    "RM1",
+    "RM10",
+    "100 sen + RM1",
+    "50 sen"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Berapakah 6 x 7?",
+   "en": "What is 6 x 7?"
+  },
+  "choices": {
+   "ms": [
+    "42",
+    "36",
+    "48",
+    "13"
+   ],
+   "en": [
+    "42",
+    "36",
+    "48",
+    "13"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "1 jam = ___ minit",
+   "en": "1 hour = ___ minutes"
+  },
+  "choices": {
+   "ms": [
+    "60",
+    "100",
+    "30",
+    "24"
+   ],
+   "en": [
+    "60",
+    "100",
+    "30",
+    "24"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/clock_face"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Pecahan setara bagi 1/2 ialah...",
+   "en": "An equivalent fraction of 1/2 is..."
+  },
+  "choices": {
+   "ms": [
+    "2/4",
+    "1/4",
+    "2/3",
+    "3/4"
+   ],
+   "en": [
+    "2/4",
+    "1/4",
+    "2/3",
+    "3/4"
+   ]
+  },
+  "answer": 0,
+  "image": ""
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "0.5 = ___ %",
+   "en": "0.5 = ___ %"
+  },
+  "choices": {
+   "ms": [
+    "50",
+    "5",
+    "0.5",
+    "500"
+   ],
+   "en": [
+    "50",
+    "5",
+    "0.5",
+    "500"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/op_percent"
+ },
+ {
+  "year": 6,
+  "q": {
+   "ms": "Purata bagi 4, 6 dan 8 ialah...",
+   "en": "The average of 4, 6 and 8 is..."
+  },
+  "choices": {
+   "ms": [
+    "6",
+    "18",
+    "8",
+    "5"
+   ],
+   "en": [
+    "6",
+    "18",
+    "8",
+    "5"
+   ]
+  },
+  "answer": 0,
+  "image": "matematik/chart_bar"
+ }
+]

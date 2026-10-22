@@ -1,0 +1,140 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Mengikut Pinggan Sihat Malaysia, separuh pinggan ialah...",
+   "en": "On the Malaysian Healthy Plate, half the plate is..."
+  },
+  "choices": {
+   "ms": [
+    "sayur dan buah",
+    "nasi",
+    "ayam",
+    "gula-gula"
+   ],
+   "en": [
+    "vegetables and fruit",
+    "rice",
+    "chicken",
+    "sweets"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/pinggan_sihat"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Kita perlu mencuci tangan dengan...",
+   "en": "We should wash our hands with..."
+  },
+  "choices": {
+   "ms": [
+    "sabun dan air",
+    "pasir",
+    "minyak",
+    "susu"
+   ],
+   "en": [
+    "soap and water",
+    "sand",
+    "oil",
+    "milk"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/basuh_tangan"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Kita menggosok gigi sekurang-kurangnya ___ sehari.",
+   "en": "We brush our teeth at least ___ a day."
+  },
+  "choices": {
+   "ms": [
+    "2 kali",
+    "sekali seminggu",
+    "5 kali",
+    "tidak perlu"
+   ],
+   "en": [
+    "twice",
+    "once a week",
+    "5 times",
+    "never"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/berus_gigi"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Bola ini digunakan dalam permainan...",
+   "en": "This ball is used in..."
+  },
+  "choices": {
+   "ms": [
+    "sepak takraw",
+    "bola jaring",
+    "bola keranjang",
+    "ping pong"
+   ],
+   "en": [
+    "sepak takraw",
+    "netball",
+    "basketball",
+    "table tennis"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/bola_takraw"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Makanan yang perlu dikurangkan ialah...",
+   "en": "Food we should eat less of is..."
+  },
+  "choices": {
+   "ms": [
+    "minuman bergas",
+    "brokoli",
+    "lobak merah",
+    "tomato"
+   ],
+   "en": [
+    "fizzy drinks",
+    "broccoli",
+    "carrots",
+    "tomatoes"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/minuman_bergas"
+ },
+ {
+  "year": 5,
+  "q": {
+   "ms": "Sebelum bersenam, kita perlu melakukan...",
+   "en": "Before exercising, we should..."
+  },
+  "choices": {
+   "ms": [
+    "memanaskan badan",
+    "tidur",
+    "makan banyak",
+    "minum air bergas"
+   ],
+   "en": [
+    "warm up",
+    "sleep",
+    "eat a lot",
+    "drink soda"
+   ]
+  },
+  "answer": 0,
+  "image": "pjpk/kon"
+ }
+]

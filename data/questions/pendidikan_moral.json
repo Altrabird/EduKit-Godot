@@ -1,0 +1,140 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Apakah yang patut kamu lakukan apabila menjumpai dompet orang lain?",
+   "en": "What should you do if you find someone's wallet?"
+  },
+  "choices": {
+   "ms": [
+    "Serahkan kepada guru",
+    "Simpan sendiri",
+    "Buang",
+    "Abaikan"
+   ],
+   "en": [
+    "Give it to a teacher",
+    "Keep it",
+    "Throw it away",
+    "Ignore it"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/dompet"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Tong kitar semula berwarna biru untuk...",
+   "en": "The blue recycling bin is for..."
+  },
+  "choices": {
+   "ms": [
+    "kertas",
+    "kaca",
+    "plastik",
+    "sisa makanan"
+   ],
+   "en": [
+    "paper",
+    "glass",
+    "plastic",
+    "food waste"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/tong_kitar_biru"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Tong kitar semula berwarna coklat untuk...",
+   "en": "The brown recycling bin is for..."
+  },
+  "choices": {
+   "ms": [
+    "kaca",
+    "kertas",
+    "plastik",
+    "tin"
+   ],
+   "en": [
+    "glass",
+    "paper",
+    "plastic",
+    "cans"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/tong_kitar_coklat"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Apabila lampu isyarat merah, kita mesti...",
+   "en": "When the traffic light is red, we must..."
+  },
+  "choices": {
+   "ms": [
+    "berhenti",
+    "berlari",
+    "melintas",
+    "menunggang"
+   ],
+   "en": [
+    "stop",
+    "run",
+    "cross",
+    "ride"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/lampu_isyarat"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Menolong rakan yang jatuh menunjukkan nilai...",
+   "en": "Helping a friend who fell shows..."
+  },
+  "choices": {
+   "ms": [
+    "baik hati",
+    "sombong",
+    "malas",
+    "boros"
+   ],
+   "en": [
+    "kindness",
+    "arrogance",
+    "laziness",
+    "wastefulness"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/tolong_menolong"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Menyimpan wang di dalam tabung menunjukkan sikap...",
+   "en": "Saving money in a piggy bank shows..."
+  },
+  "choices": {
+   "ms": [
+    "berjimat cermat",
+    "boros",
+    "tamak",
+    "pemarah"
+   ],
+   "en": [
+    "thrift",
+    "wastefulness",
+    "greed",
+    "anger"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_moral/tabung"
+ }
+]

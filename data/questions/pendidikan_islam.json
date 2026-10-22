@@ -1,0 +1,140 @@
+[
+ {
+  "year": 1,
+  "q": {
+   "ms": "Bilangan solat fardu sehari semalam ialah...",
+   "en": "How many obligatory prayers are there in a day?"
+  },
+  "choices": {
+   "ms": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "en": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/sejadah"
+ },
+ {
+  "year": 1,
+  "q": {
+   "ms": "Kitab suci umat Islam ialah...",
+   "en": "The holy book of Muslims is..."
+  },
+  "choices": {
+   "ms": [
+    "Al-Quran",
+    "Zabur",
+    "Taurat",
+    "Injil"
+   ],
+   "en": [
+    "The Quran",
+    "Zabur",
+    "Taurat",
+    "Injil"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/al_quran_rehal"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Sebelum solat, kita perlu mengambil...",
+   "en": "Before praying, we must perform..."
+  },
+  "choices": {
+   "ms": [
+    "wuduk",
+    "makan",
+    "tidur",
+    "mandi sahaja"
+   ],
+   "en": [
+    "ablution (wuduk)",
+    "a meal",
+    "a nap",
+    "only a bath"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/paip_air_wuduk"
+ },
+ {
+  "year": 2,
+  "q": {
+   "ms": "Umat Islam berpuasa pada bulan...",
+   "en": "Muslims fast in the month of..."
+  },
+  "choices": {
+   "ms": [
+    "Ramadan",
+    "Syawal",
+    "Rejab",
+    "Muharam"
+   ],
+   "en": [
+    "Ramadan",
+    "Syawal",
+    "Rejab",
+    "Muharam"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/tanglung"
+ },
+ {
+  "year": 3,
+  "q": {
+   "ms": "Kiblat umat Islam ialah ke arah...",
+   "en": "The qibla faces towards the..."
+  },
+  "choices": {
+   "ms": [
+    "Kaabah",
+    "Masjid",
+    "Matahari",
+    "Laut"
+   ],
+   "en": [
+    "Kaaba",
+    "Mosque",
+    "Sun",
+    "Sea"
+   ]
+  },
+  "answer": 0,
+  "image": "pendidikan_islam/kaabah"
+ },
+ {
+  "year": 4,
+  "q": {
+   "ms": "Hari raya selepas bulan Ramadan ialah...",
+   "en": "The festival after Ramadan is..."
+  },
+  "choices": {
+   "ms": [
+    "Hari Raya Aidilfitri",
+    "Hari Raya Aidiladha",
+    "Maulidur Rasul",
+    "Awal Muharam"
+   ],
+   "en": [
+    "Eid al-Fitr",
+    "Eid al-Adha",
+    "Prophet's Birthday",
+    "Islamic New Year"
+   ]
+  },
+  "answer": 0,
+  "image": "bahasa_melayu/ketupat"
+ }
+]

@@ -1,0 +1,770 @@
+[
+ {
+  "id": "desk",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/desk.glb",
+  "size_m": [
+   0.7,
+   0.74,
+   0.5
+  ],
+  "en": "Student desk",
+  "bm": "Meja murid"
+ },
+ {
+  "id": "chair",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/chair.glb",
+  "size_m": [
+   0.42,
+   0.87,
+   0.418
+  ],
+  "en": "Student chair",
+  "bm": "Kerusi murid"
+ },
+ {
+  "id": "teacher_desk",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/teacher_desk.glb",
+  "size_m": [
+   1.4,
+   0.85,
+   0.7
+  ],
+  "en": "Teacher's desk",
+  "bm": "Meja guru"
+ },
+ {
+  "id": "chalkboard",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/chalkboard.glb",
+  "size_m": [
+   2.4,
+   1.22,
+   0.17
+  ],
+  "en": "Chalkboard",
+  "bm": "Papan hitam"
+ },
+ {
+  "id": "whiteboard",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/whiteboard.glb",
+  "size_m": [
+   2.0,
+   1.115,
+   0.131
+  ],
+  "en": "Whiteboard",
+  "bm": "Papan putih"
+ },
+ {
+  "id": "bookshelf",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/bookshelf.glb",
+  "size_m": [
+   1.2,
+   1.815,
+   0.35
+  ],
+  "en": "Bookshelf",
+  "bm": "Rak buku"
+ },
+ {
+  "id": "book",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/book.glb",
+  "size_m": [
+   0.171,
+   0.035,
+   0.24
+  ],
+  "en": "Book",
+  "bm": "Buku"
+ },
+ {
+  "id": "book_stack",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/book_stack.glb",
+  "size_m": [
+   0.251,
+   0.166,
+   0.301
+  ],
+  "en": "Stack of books",
+  "bm": "Timbunan buku"
+ },
+ {
+  "id": "globe",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/globe.glb",
+  "size_m": [
+   0.365,
+   0.48,
+   0.396
+  ],
+  "en": "Globe",
+  "bm": "Glob"
+ },
+ {
+  "id": "wall_clock",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/wall_clock.glb",
+  "size_m": [
+   0.36,
+   0.062,
+   0.36
+  ],
+  "en": "Wall clock",
+  "bm": "Jam dinding"
+ },
+ {
+  "id": "school_bag",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/school_bag.glb",
+  "size_m": [
+   0.32,
+   0.47,
+   0.235
+  ],
+  "en": "School bag",
+  "bm": "Beg sekolah"
+ },
+ {
+  "id": "pencil",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/pencil.glb",
+  "size_m": [
+   0.017,
+   0.215,
+   0.017
+  ],
+  "en": "Pencil",
+  "bm": "Pensel"
+ },
+ {
+  "id": "apple",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/apple.glb",
+  "size_m": [
+   0.09,
+   0.103,
+   0.09
+  ],
+  "en": "Apple",
+  "bm": "Epal"
+ },
+ {
+  "id": "trophy",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/trophy.glb",
+  "size_m": [
+   0.28,
+   0.27,
+   0.18
+  ],
+  "en": "Trophy",
+  "bm": "Piala"
+ },
+ {
+  "id": "laptop",
+  "folder": "classroom",
+  "path": "res://assets/models/classroom/laptop.glb",
+  "size_m": [
+   0.34,
+   0.219,
+   0.269
+  ],
+  "en": "Laptop",
+  "bm": "Komputer riba"
+ },
+ {
+  "id": "beaker",
+  "folder": "sains",
+  "path": "res://assets/models/sains/beaker.glb",
+  "size_m": [
+   0.1,
+   0.12,
+   0.1
+  ],
+  "en": "Beaker",
+  "bm": "Bikar"
+ },
+ {
+  "id": "flask",
+  "folder": "sains",
+  "path": "res://assets/models/sains/flask.glb",
+  "size_m": [
+   0.14,
+   0.18,
+   0.14
+  ],
+  "en": "Conical flask",
+  "bm": "Kelalang kon"
+ },
+ {
+  "id": "test_tube_rack",
+  "folder": "sains",
+  "path": "res://assets/models/sains/test_tube_rack.glb",
+  "size_m": [
+   0.3,
+   0.165,
+   0.08
+  ],
+  "en": "Test tube rack",
+  "bm": "Rak tabung uji"
+ },
+ {
+  "id": "microscope",
+  "folder": "sains",
+  "path": "res://assets/models/sains/microscope.glb",
+  "size_m": [
+   0.18,
+   0.36,
+   0.22
+  ],
+  "en": "Microscope",
+  "bm": "Mikroskop"
+ },
+ {
+  "id": "magnet",
+  "folder": "sains",
+  "path": "res://assets/models/sains/magnet.glb",
+  "size_m": [
+   0.161,
+   0.041,
+   0.094
+  ],
+  "en": "Horseshoe magnet",
+  "bm": "Magnet ladam"
+ },
+ {
+  "id": "light_bulb",
+  "folder": "sains",
+  "path": "res://assets/models/sains/light_bulb.glb",
+  "size_m": [
+   0.1,
+   0.157,
+   0.1
+  ],
+  "en": "Light bulb",
+  "bm": "Mentol"
+ },
+ {
+  "id": "rocket",
+  "folder": "sains",
+  "path": "res://assets/models/sains/rocket.glb",
+  "size_m": [
+   0.354,
+   1.0,
+   0.408
+  ],
+  "en": "Rocket",
+  "bm": "Roket"
+ },
+ {
+  "id": "telescope",
+  "folder": "sains",
+  "path": "res://assets/models/sains/telescope.glb",
+  "size_m": [
+   0.899,
+   1.208,
+   0.548
+  ],
+  "en": "Telescope",
+  "bm": "Teleskop"
+ },
+ {
+  "id": "potted_plant",
+  "folder": "sains",
+  "path": "res://assets/models/sains/potted_plant.glb",
+  "size_m": [
+   0.363,
+   0.56,
+   0.3
+  ],
+  "en": "Potted plant",
+  "bm": "Pokok dalam pasu"
+ },
+ {
+  "id": "lab_table",
+  "folder": "sains",
+  "path": "res://assets/models/sains/lab_table.glb",
+  "size_m": [
+   1.8,
+   1.122,
+   0.81
+  ],
+  "en": "Lab table",
+  "bm": "Meja makmal"
+ },
+ {
+  "id": "planet_sun",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_sun.glb",
+  "size_m": [
+   1.2,
+   1.2,
+   1.2
+  ],
+  "en": "Sun",
+  "bm": "Matahari"
+ },
+ {
+  "id": "planet_mercury",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_mercury.glb",
+  "size_m": [
+   0.16,
+   0.16,
+   0.16
+  ],
+  "en": "Mercury",
+  "bm": "Utarid"
+ },
+ {
+  "id": "planet_venus",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_venus.glb",
+  "size_m": [
+   0.28,
+   0.28,
+   0.28
+  ],
+  "en": "Venus",
+  "bm": "Zuhrah"
+ },
+ {
+  "id": "planet_earth",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_earth.glb",
+  "size_m": [
+   0.31,
+   0.3,
+   0.301
+  ],
+  "en": "Earth",
+  "bm": "Bumi"
+ },
+ {
+  "id": "planet_moon",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_moon.glb",
+  "size_m": [
+   0.1,
+   0.1,
+   0.1
+  ],
+  "en": "Moon",
+  "bm": "Bulan"
+ },
+ {
+  "id": "planet_mars",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_mars.glb",
+  "size_m": [
+   0.2,
+   0.2,
+   0.2
+  ],
+  "en": "Mars",
+  "bm": "Marikh"
+ },
+ {
+  "id": "planet_jupiter",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_jupiter.glb",
+  "size_m": [
+   0.816,
+   0.8,
+   0.816
+  ],
+  "en": "Jupiter",
+  "bm": "Musytari"
+ },
+ {
+  "id": "planet_saturn",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_saturn.glb",
+  "size_m": [
+   1.201,
+   0.66,
+   1.129
+  ],
+  "en": "Saturn",
+  "bm": "Zuhal"
+ },
+ {
+  "id": "planet_uranus",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_uranus.glb",
+  "size_m": [
+   0.44,
+   0.44,
+   0.44
+  ],
+  "en": "Uranus",
+  "bm": "Uranus"
+ },
+ {
+  "id": "planet_neptune",
+  "folder": "sains",
+  "path": "res://assets/models/sains/planet_neptune.glb",
+  "size_m": [
+   0.42,
+   0.42,
+   0.42
+  ],
+  "en": "Neptune",
+  "bm": "Neptun"
+ },
+ {
+  "id": "solid_cube",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_cube.glb",
+  "size_m": [
+   0.2,
+   0.2,
+   0.2
+  ],
+  "en": "Cube",
+  "bm": "Kubus"
+ },
+ {
+  "id": "solid_cuboid",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_cuboid.glb",
+  "size_m": [
+   0.3,
+   0.12,
+   0.15
+  ],
+  "en": "Cuboid",
+  "bm": "Kuboid"
+ },
+ {
+  "id": "solid_cylinder",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_cylinder.glb",
+  "size_m": [
+   0.18,
+   0.22,
+   0.18
+  ],
+  "en": "Cylinder",
+  "bm": "Silinder"
+ },
+ {
+  "id": "solid_cone",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_cone.glb",
+  "size_m": [
+   0.2,
+   0.24,
+   0.2
+  ],
+  "en": "Cone",
+  "bm": "Kon"
+ },
+ {
+  "id": "solid_sphere",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_sphere.glb",
+  "size_m": [
+   0.22,
+   0.22,
+   0.22
+  ],
+  "en": "Sphere",
+  "bm": "Sfera"
+ },
+ {
+  "id": "solid_pyramid",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_pyramid.glb",
+  "size_m": [
+   0.3,
+   0.2,
+   0.3
+  ],
+  "en": "Square pyramid",
+  "bm": "Piramid"
+ },
+ {
+  "id": "solid_prism",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_prism.glb",
+  "size_m": [
+   0.173,
+   0.26,
+   0.15
+  ],
+  "en": "Triangular prism",
+  "bm": "Prisma segi tiga"
+ },
+ {
+  "id": "solid_hemisphere",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/solid_hemisphere.glb",
+  "size_m": [
+   0.24,
+   0.12,
+   0.24
+  ],
+  "en": "Hemisphere",
+  "bm": "Hemisfera"
+ },
+ {
+  "id": "dice",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/dice.glb",
+  "size_m": [
+   0.095,
+   0.095,
+   0.095
+  ],
+  "en": "Dice",
+  "bm": "Dadu"
+ },
+ {
+  "id": "sempoa",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/sempoa.glb",
+  "size_m": [
+   0.42,
+   0.3,
+   0.04
+  ],
+  "en": "Abacus (sempoa)",
+  "bm": "Sempoa"
+ },
+ {
+  "id": "base10_rod",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/base10_rod.glb",
+  "size_m": [
+   0.02,
+   0.199,
+   0.02
+  ],
+  "en": "Base-ten rod",
+  "bm": "Rod puluh"
+ },
+ {
+  "id": "base10_flat",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/base10_flat.glb",
+  "size_m": [
+   0.2,
+   0.019,
+   0.2
+  ],
+  "en": "Base-ten flat",
+  "bm": "Kepingan ratus"
+ },
+ {
+  "id": "balance_scale",
+  "folder": "matematik",
+  "path": "res://assets/models/matematik/balance_scale.glb",
+  "size_m": [
+   0.62,
+   0.382,
+   0.14
+  ],
+  "en": "Balance scale",
+  "bm": "Neraca"
+ },
+ {
+  "id": "football",
+  "folder": "pjpk",
+  "path": "res://assets/models/pjpk/football.glb",
+  "size_m": [
+   0.235,
+   0.235,
+   0.22
+  ],
+  "en": "Football",
+  "bm": "Bola sepak"
+ },
+ {
+  "id": "takraw_ball",
+  "folder": "pjpk",
+  "path": "res://assets/models/pjpk/takraw_ball.glb",
+  "size_m": [
+   0.15,
+   0.145,
+   0.15
+  ],
+  "en": "Sepak takraw ball",
+  "bm": "Bola sepak takraw"
+ },
+ {
+  "id": "training_cone",
+  "folder": "pjpk",
+  "path": "res://assets/models/pjpk/training_cone.glb",
+  "size_m": [
+   0.24,
+   0.38,
+   0.24
+  ],
+  "en": "Training cone",
+  "bm": "Kon latihan"
+ },
+ {
+  "id": "basketball",
+  "folder": "pjpk",
+  "path": "res://assets/models/pjpk/basketball.glb",
+  "size_m": [
+   0.248,
+   0.248,
+   0.248
+  ],
+  "en": "Basketball",
+  "bm": "Bola keranjang"
+ },
+ {
+  "id": "flag_pole",
+  "folder": "sejarah",
+  "path": "res://assets/models/sejarah/flag_pole.glb",
+  "size_m": [
+   1.056,
+   2.46,
+   0.076
+  ],
+  "en": "Malaysian flag on pole",
+  "bm": "Jalur Gemilang bertiang"
+ },
+ {
+  "id": "rumah_kampung",
+  "folder": "sejarah",
+  "path": "res://assets/models/sejarah/rumah_kampung.glb",
+  "size_m": [
+   4.101,
+   4.5,
+   4.286
+  ],
+  "en": "Malay village house",
+  "bm": "Rumah kampung"
+ },
+ {
+  "id": "tree",
+  "folder": "environment",
+  "path": "res://assets/models/environment/tree.glb",
+  "size_m": [
+   2.389,
+   3.0,
+   1.95
+  ],
+  "en": "Tree",
+  "bm": "Pokok"
+ },
+ {
+  "id": "coconut_tree",
+  "folder": "environment",
+  "path": "res://assets/models/environment/coconut_tree.glb",
+  "size_m": [
+   2.572,
+   3.884,
+   2.386
+  ],
+  "en": "Coconut tree",
+  "bm": "Pokok kelapa"
+ },
+ {
+  "id": "rock",
+  "folder": "environment",
+  "path": "res://assets/models/environment/rock.glb",
+  "size_m": [
+   0.907,
+   0.476,
+   0.699
+  ],
+  "en": "Rock",
+  "bm": "Batu"
+ },
+ {
+  "id": "bush",
+  "folder": "environment",
+  "path": "res://assets/models/environment/bush.glb",
+  "size_m": [
+   1.594,
+   0.9,
+   1.1
+  ],
+  "en": "Bush",
+  "bm": "Semak"
+ },
+ {
+  "id": "school_building",
+  "folder": "environment",
+  "path": "res://assets/models/environment/school_building.glb",
+  "size_m": [
+   12.728,
+   8.4,
+   12.728
+  ],
+  "en": "School building",
+  "bm": "Bangunan sekolah"
+ },
+ {
+  "id": "fence",
+  "folder": "environment",
+  "path": "res://assets/models/environment/fence.glb",
+  "size_m": [
+   2.0,
+   1.02,
+   0.143
+  ],
+  "en": "Fence",
+  "bm": "Pagar"
+ },
+ {
+  "id": "gear",
+  "folder": "rbt",
+  "path": "res://assets/models/rbt/gear.glb",
+  "size_m": [
+   0.27,
+   0.045,
+   0.27
+  ],
+  "en": "Gear",
+  "bm": "Gear"
+ },
+ {
+  "id": "robot_kit",
+  "folder": "rbt",
+  "path": "res://assets/models/rbt/robot_kit.glb",
+  "size_m": [
+   0.29,
+   0.253,
+   0.2
+  ],
+  "en": "Robot kit",
+  "bm": "Kit robot"
+ },
+ {
+  "id": "toolbox",
+  "folder": "rbt",
+  "path": "res://assets/models/rbt/toolbox.glb",
+  "size_m": [
+   0.46,
+   0.285,
+   0.235
+  ],
+  "en": "Toolbox",
+  "bm": "Kotak peralatan"
+ },
+ {
+  "id": "hammer",
+  "folder": "rbt",
+  "path": "res://assets/models/rbt/hammer.glb",
+  "size_m": [
+   0.13,
+   0.33,
+   0.04
+  ],
+  "en": "Hammer",
+  "bm": "Tukul"
+ }
+]
