@@ -11,6 +11,7 @@ signal pressed
 		if is_inside_tree():
 			_refresh()
 @export var show_name := true
+@export var caption := ""  ## overrides the manifest name (e.g. "Kulit pisang" for a banana in a bin game)
 @export var draggable := false
 @export var key := ""
 
@@ -43,7 +44,7 @@ func _ready() -> void:
 
 func _refresh() -> void:
 	_img.texture = EduAssets.texture(ref)
-	_name.text = EduAssets.name_of(ref)
+	_name.text = caption if caption != "" else EduAssets.name_of(ref)
 	_name.visible = show_name
 
 

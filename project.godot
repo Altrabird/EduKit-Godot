@@ -20,6 +20,9 @@ config/icon.kedai="res://assets/art/icons/coin.svg"
 run/main_scene.makmal="res://games/makmal/hub.tscn"
 config/name.makmal="Makmal Sains Ajaib 3D"
 config/icon.makmal="res://assets/art/subjects/sains/flask_conical.svg"
+run/main_scene.kampung="res://games/kampung/map.tscn"
+config/name.kampung="Kampungku Sihat"
+config/icon.kampung="res://assets/art/subjects/pjpk/pinggan_sihat.svg"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://assets/art/icons/grad_cap.svg"
 

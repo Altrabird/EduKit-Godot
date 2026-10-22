@@ -151,6 +151,9 @@ def sfx():
     S["combo"] = seq(*[bell(hz(n), 0.09, 0.6) for n in ("C6", "D6", "E6", "G6", "A6", "C7")])
     S["chalk_write"] = lowpass(noise(0.6), 4000) * (0.5 + 0.5 * np.abs(np.sin(2 * np.pi * 3 * t(0.6)))) * 0.5
     S["notification"] = seq(bell(hz("A5"), 0.15), bell(hz("E6"), 0.45))
+    # kompang: open "dum" (low, ringing skin) and slapped "pak" (bright, short)
+    S["kompang_dum"] = mix(osc(np.geomspace(190, 120, int(SR * 0.4)), 0.4) * np.exp(-t(0.4) * 9), 0.25 * lowpass(noise(0.05), 2500) * env(int(SR * 0.05), 0.001, 0.04, 0, 0.005))
+    S["kompang_pak"] = mix(0.8 * (noise(0.09) - lowpass(noise(0.09), 1500)) * np.exp(-t(0.09) * 45), 0.5 * osc(420, 0.09) * np.exp(-t(0.09) * 40))
     for name, x in S.items():
         save_wav(os.path.join(SFX, name + ".wav"), x)
     return list(S)

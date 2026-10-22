@@ -133,6 +133,42 @@
     "text": "Eja perkataan ini.",
     "path": "res://assets/audio/voice/ms/feedback/spell.mp3"
    },
+   "kg_welcome": {
+    "text": "Selamat datang ke kampung kita! Bantu kampung ini menjadi ceria semula.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_welcome.mp3"
+   },
+   "kg_plate": {
+    "text": "Susun makanan di atas Pinggan Sihat Malaysia.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_plate.mp3"
+   },
+   "kg_recycle": {
+    "text": "Masukkan sampah ke dalam tong kitar semula yang betul.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_recycle.mp3"
+   },
+   "kg_wash": {
+    "text": "Mari basuh tangan selama dua puluh saat. Ikut langkah-langkahnya.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_wash.mp3"
+   },
+   "kg_help": {
+    "text": "Apakah yang patut kamu lakukan?",
+    "path": "res://assets/audio/voice/ms/feedback/kg_help.mp3"
+   },
+   "kg_wudhu": {
+    "text": "Susun langkah wuduk mengikut urutan.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_wudhu.mp3"
+   },
+   "kg_kompang": {
+    "text": "Dengar rentak kompang, kemudian ketuk mengikut rentak.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_kompang.mp3"
+   },
+   "kg_colour": {
+    "text": "Campurkan dua warna untuk mendapatkan warna ini.",
+    "path": "res://assets/audio/voice/ms/feedback/kg_colour.mp3"
+   },
+   "kg_done": {
+    "text": "Kampung kita sudah ceria semula! Terima kasih!",
+    "path": "res://assets/audio/voice/ms/feedback/kg_done.mp3"
+   },
    "lab_welcome": {
     "text": "Selamat datang ke makmal sains! Pilih satu meja untuk memulakan misi.",
     "path": "res://assets/audio/voice/ms/feedback/lab_welcome.mp3"
@@ -3196,6 +3232,42 @@
    "spell": {
     "text": "Spell this word.",
     "path": "res://assets/audio/voice/en/feedback/spell.mp3"
+   },
+   "kg_welcome": {
+    "text": "Welcome to our village! Help bring its colours back.",
+    "path": "res://assets/audio/voice/en/feedback/kg_welcome.mp3"
+   },
+   "kg_plate": {
+    "text": "Put the food on the Malaysian Healthy Plate.",
+    "path": "res://assets/audio/voice/en/feedback/kg_plate.mp3"
+   },
+   "kg_recycle": {
+    "text": "Put each item into the right recycling bin.",
+    "path": "res://assets/audio/voice/en/feedback/kg_recycle.mp3"
+   },
+   "kg_wash": {
+    "text": "Let's wash our hands for twenty seconds. Follow the steps.",
+    "path": "res://assets/audio/voice/en/feedback/kg_wash.mp3"
+   },
+   "kg_help": {
+    "text": "What should you do?",
+    "path": "res://assets/audio/voice/en/feedback/kg_help.mp3"
+   },
+   "kg_wudhu": {
+    "text": "Put the steps of wudhu in order.",
+    "path": "res://assets/audio/voice/en/feedback/kg_wudhu.mp3"
+   },
+   "kg_kompang": {
+    "text": "Listen to the kompang rhythm, then tap along.",
+    "path": "res://assets/audio/voice/en/feedback/kg_kompang.mp3"
+   },
+   "kg_colour": {
+    "text": "Mix two colours to make this colour.",
+    "path": "res://assets/audio/voice/en/feedback/kg_colour.mp3"
+   },
+   "kg_done": {
+    "text": "Our village is bright again! Thank you!",
+    "path": "res://assets/audio/voice/en/feedback/kg_done.mp3"
    },
    "lab_welcome": {
     "text": "Welcome to the science lab! Choose a table to start a mission.",

@@ -23,6 +23,16 @@ FEEDBACK = {
     "your_score": ("Markah anda.", "Your score."), "question": ("Soalan.", "Question."), "paused": ("Permainan dijeda.", "Game paused."),
     "new_record": ("Rekod baharu!", "New record!"), "unlocked": ("Tahap baharu dibuka!", "New level unlocked!"), "hint": ("Ini petunjuk.", "Here is a hint."),
     "spell": ("Eja perkataan ini.", "Spell this word."),
+    # Kampungku Sihat
+    "kg_welcome": ("Selamat datang ke kampung kita! Bantu kampung ini menjadi ceria semula.", "Welcome to our village! Help bring its colours back."),
+    "kg_plate": ("Susun makanan di atas Pinggan Sihat Malaysia.", "Put the food on the Malaysian Healthy Plate."),
+    "kg_recycle": ("Masukkan sampah ke dalam tong kitar semula yang betul.", "Put each item into the right recycling bin."),
+    "kg_wash": ("Mari basuh tangan selama dua puluh saat. Ikut langkah-langkahnya.", "Let's wash our hands for twenty seconds. Follow the steps."),
+    "kg_help": ("Apakah yang patut kamu lakukan?", "What should you do?"),
+    "kg_wudhu": ("Susun langkah wuduk mengikut urutan.", "Put the steps of wudhu in order."),
+    "kg_kompang": ("Dengar rentak kompang, kemudian ketuk mengikut rentak.", "Listen to the kompang rhythm, then tap along."),
+    "kg_colour": ("Campurkan dua warna untuk mendapatkan warna ini.", "Mix two colours to make this colour."),
+    "kg_done": ("Kampung kita sudah ceria semula! Terima kasih!", "Our village is bright again! Thank you!"),
     # Makmal Sains Ajaib 3D
     "lab_welcome": ("Selamat datang ke makmal sains! Pilih satu meja untuk memulakan misi.", "Welcome to the science lab! Choose a table to start a mission."),
     "lab_solar": ("Susun planet mengikut urutan dari Matahari.", "Put the planets in order from the Sun."),
