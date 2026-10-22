@@ -141,6 +141,18 @@ func build_theme() -> Theme:
 	t.set_stylebox("slider", "HSlider", slider)
 	t.set_stylebox("grabber_area", "HSlider", box(PAL["Green"], 999, 3, 0))
 	t.set_stylebox("grabber_area_highlight", "HSlider", box(PAL["Green"].lightened(0.15), 999, 3, 0))
+	# Lists (gallery, level pickers)
+	t.set_stylebox("panel", "ItemList", box(Color("fdfcf7"), 18, 4, 0))
+	t.set_stylebox("selected", "ItemList", box(PAL["Blue"], 10, 0, 0))
+	t.set_stylebox("selected_focus", "ItemList", box(PAL["Blue"], 10, 0, 0))
+	t.set_stylebox("hovered", "ItemList", box(Color("dbeafe"), 10, 0, 0))
+	t.set_stylebox("cursor", "ItemList", StyleBoxEmpty.new())
+	t.set_stylebox("cursor_unfocused", "ItemList", StyleBoxEmpty.new())
+	t.set_color("font_color", "ItemList", INK)
+	t.set_color("font_hovered_color", "ItemList", INK)
+	t.set_color("font_selected_color", "ItemList", Color.WHITE)
+	t.set_color("guide_color", "ItemList", Color(0, 0, 0, 0.06))
+	t.set_constant("v_separation", "ItemList", 10)
 	return t
 
 

@@ -40,7 +40,7 @@ func _apply() -> void:
 		texture = EduAssets.texture("matematik/coin_%dsen" % value_sen)
 		custom_minimum_size = Vector2.ONE * (90 + COINS.find(value_sen) * 18)
 		_label.text = "%d sen" % value_sen
-		_label.add_theme_font_size_override("font_size", int(custom_minimum_size.x * 0.24))
+		_label.add_theme_font_size_override("font_size", int(custom_minimum_size.x * 0.17))
 		_label.offset_left = 0
 	elif value_sen in NOTES:
 		texture = EduAssets.texture("matematik/note_rm%d" % (value_sen / 100))

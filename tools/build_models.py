@@ -18,7 +18,7 @@ def srgb_to_lin(c):
     return c / 12.92 if c <= 0.04045 else ((c + 0.055) / 1.055) ** 2.4
 
 
-def mat(name, alpha=1.0, rough=0.6, metal=0.0, emit=0.0):
+def mat(name, alpha=1.0, rough=0.9, metal=0.0, emit=0.0):
     key = (name, alpha, metal, emit)
     if key in MATS:
         return MATS[key]

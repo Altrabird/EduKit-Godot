@@ -63,8 +63,9 @@ func _apply_color() -> void:
 
 func _fit() -> void:
 	# Shrink long words so they stay on the tile.
-	var base := size.y * 0.55
-	_label.add_theme_font_size_override("font_size", int(base / maxf(1.0, text.length() * 0.45)) if text.length() > 2 else int(base))
+	var by_height := size.y * 0.55
+	var by_width := size.x * 1.45 / maxf(1.0, text.length())
+	_label.add_theme_font_size_override("font_size", int(minf(by_height, by_width)))
 	pivot_offset = size / 2
 
 
