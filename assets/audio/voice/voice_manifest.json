@@ -133,6 +133,46 @@
     "text": "Eja perkataan ini.",
     "path": "res://assets/audio/voice/ms/feedback/spell.mp3"
    },
+   "shop_open": {
+    "text": "Kedai dibuka! Selamat datang!",
+    "path": "res://assets/audio/voice/ms/feedback/shop_open.mp3"
+   },
+   "shop_list": {
+    "text": "Saya mahu beli barang-barang ini.",
+    "path": "res://assets/audio/voice/ms/feedback/shop_list.mp3"
+   },
+   "shop_total": {
+    "text": "Berapakah jumlah harganya?",
+    "path": "res://assets/audio/voice/ms/feedback/shop_total.mp3"
+   },
+   "shop_change": {
+    "text": "Berapakah bakinya?",
+    "path": "res://assets/audio/voice/ms/feedback/shop_change.mp3"
+   },
+   "shop_thanks": {
+    "text": "Terima kasih, Pak Ali!",
+    "path": "res://assets/audio/voice/ms/feedback/shop_thanks.mp3"
+   },
+   "shop_clock": {
+    "text": "Laraskan jam kepada waktu kedai dibuka.",
+    "path": "res://assets/audio/voice/ms/feedback/shop_clock.mp3"
+   },
+   "shop_fraction": {
+    "text": "Potong buah mengikut pecahan ini.",
+    "path": "res://assets/audio/voice/ms/feedback/shop_fraction.mp3"
+   },
+   "shop_wrong_item": {
+    "text": "Bukan itu yang saya mahu.",
+    "path": "res://assets/audio/voice/ms/feedback/shop_wrong_item.mp3"
+   },
+   "shop_exact": {
+    "text": "Wang cukup-cukup. Tiada baki.",
+    "path": "res://assets/audio/voice/ms/feedback/shop_exact.mp3"
+   },
+   "shop_day_end": {
+    "text": "Kedai ditutup. Mari kira hasil jualan hari ini!",
+    "path": "res://assets/audio/voice/ms/feedback/shop_day_end.mp3"
+   },
    "find": {
     "text": "Cari objek ini.",
     "path": "res://assets/audio/voice/ms/feedback/find.mp3"
@@ -3124,6 +3164,46 @@
    "spell": {
     "text": "Spell this word.",
     "path": "res://assets/audio/voice/en/feedback/spell.mp3"
+   },
+   "shop_open": {
+    "text": "The shop is open! Welcome!",
+    "path": "res://assets/audio/voice/en/feedback/shop_open.mp3"
+   },
+   "shop_list": {
+    "text": "I would like to buy these, please.",
+    "path": "res://assets/audio/voice/en/feedback/shop_list.mp3"
+   },
+   "shop_total": {
+    "text": "How much is the total?",
+    "path": "res://assets/audio/voice/en/feedback/shop_total.mp3"
+   },
+   "shop_change": {
+    "text": "How much change do I get?",
+    "path": "res://assets/audio/voice/en/feedback/shop_change.mp3"
+   },
+   "shop_thanks": {
+    "text": "Thank you, Pak Ali!",
+    "path": "res://assets/audio/voice/en/feedback/shop_thanks.mp3"
+   },
+   "shop_clock": {
+    "text": "Set the clock to the shop opening time.",
+    "path": "res://assets/audio/voice/en/feedback/shop_clock.mp3"
+   },
+   "shop_fraction": {
+    "text": "Cut the fruit to show this fraction.",
+    "path": "res://assets/audio/voice/en/feedback/shop_fraction.mp3"
+   },
+   "shop_wrong_item": {
+    "text": "That's not what I asked for.",
+    "path": "res://assets/audio/voice/en/feedback/shop_wrong_item.mp3"
+   },
+   "shop_exact": {
+    "text": "Exact money. No change.",
+    "path": "res://assets/audio/voice/en/feedback/shop_exact.mp3"
+   },
+   "shop_day_end": {
+    "text": "The shop is closed. Let's count today's sales!",
+    "path": "res://assets/audio/voice/en/feedback/shop_day_end.mp3"
    },
    "find": {
     "text": "Find this object.",

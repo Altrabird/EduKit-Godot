@@ -22,7 +22,13 @@ FEEDBACK = {
     "thanks": ("Terima kasih kerana bermain!", "Thank you for playing!"), "three_stars": ("Tiga bintang! Hebatnya!", "Three stars! Amazing!"),
     "your_score": ("Markah anda.", "Your score."), "question": ("Soalan.", "Question."), "paused": ("Permainan dijeda.", "Game paused."),
     "new_record": ("Rekod baharu!", "New record!"), "unlocked": ("Tahap baharu dibuka!", "New level unlocked!"), "hint": ("Ini petunjuk.", "Here is a hint."),
-    "spell": ("Eja perkataan ini.", "Spell this word."), "find": ("Cari objek ini.", "Find this object."), "sort": ("Susun mengikut urutan.", "Put them in order."),
+    "spell": ("Eja perkataan ini.", "Spell this word."),
+    # Kedai Runcit Pak Ali
+    "shop_open": ("Kedai dibuka! Selamat datang!", "The shop is open! Welcome!"), "shop_list": ("Saya mahu beli barang-barang ini.", "I would like to buy these, please."),
+    "shop_total": ("Berapakah jumlah harganya?", "How much is the total?"), "shop_change": ("Berapakah bakinya?", "How much change do I get?"),
+    "shop_thanks": ("Terima kasih, Pak Ali!", "Thank you, Pak Ali!"), "shop_clock": ("Laraskan jam kepada waktu kedai dibuka.", "Set the clock to the shop opening time."),
+    "shop_fraction": ("Potong buah mengikut pecahan ini.", "Cut the fruit to show this fraction."), "shop_wrong_item": ("Bukan itu yang saya mahu.", "That's not what I asked for."),
+    "shop_exact": ("Wang cukup-cukup. Tiada baki.", "Exact money. No change."), "shop_day_end": ("Kedai ditutup. Mari kira hasil jualan hari ini!", "The shop is closed. Let's count today's sales!"), "find": ("Cari objek ini.", "Find this object."), "sort": ("Susun mengikut urutan.", "Put them in order."),
 }
 NUM_MS = "sifar satu dua tiga empat lima enam tujuh lapan sembilan sepuluh sebelas".split() + [f"{w} belas" for w in "dua tiga empat lima enam tujuh lapan sembilan".split()]
 NUM_EN = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()

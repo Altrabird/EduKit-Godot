@@ -14,6 +14,9 @@ config/icon.juara_kuiz="res://assets/art/icons/trophy.svg"
 run/main_scene.kancil="res://games/kancil/menu.tscn"
 config/name.kancil="Kancil & Suku Kata"
 config/icon.kancil="res://assets/art/subjects/bahasa_melayu/sang_kancil.svg"
+run/main_scene.kedai="res://games/kedai/menu.tscn"
+config/name.kedai="Kedai Runcit Pak Ali"
+config/icon.kedai="res://assets/art/icons/coin.svg"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://assets/art/icons/grad_cap.svg"
 

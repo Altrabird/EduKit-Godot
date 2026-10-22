@@ -6,6 +6,8 @@ extends TextureRect
 const COINS := [5, 10, 20, 50]
 const NOTES := [100, 500, 1000, 2000, 5000, 10000]
 
+signal pressed
+
 @export var value_sen := 50:
 	set(v):
 		value_sen = v
@@ -50,6 +52,16 @@ func _apply() -> void:
 		_label.offset_left = -110
 	else:
 		push_warning("MoneyItem: unsupported value %d sen" % value_sen)
+
+
+func _gui_input(event: InputEvent) -> void:
+	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
+		pivot_offset = size / 2
+		var tw := create_tween()
+		tw.tween_property(self, "scale", Vector2(0.9, 0.9), 0.05)
+		tw.tween_property(self, "scale", Vector2.ONE, 0.1)
+		Audio.sfx("coin" if value_sen < 100 else "page_flip", 0.08)
+		pressed.emit()
 
 
 static func format_rm(sen: int) -> String:
