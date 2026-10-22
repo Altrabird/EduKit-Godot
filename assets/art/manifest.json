@@ -1,0 +1,6603 @@
+[
+ {
+  "id": "classroom",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/classroom.svg",
+  "en": "Classroom",
+  "bm": "Bilik darjah",
+  "tags": [
+   "background",
+   "school",
+   "indoor"
+  ]
+ },
+ {
+  "id": "kampung",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/kampung.svg",
+  "en": "Malay village",
+  "bm": "Kampung",
+  "tags": [
+   "background",
+   "local",
+   "outdoor"
+  ]
+ },
+ {
+  "id": "library",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/library.svg",
+  "en": "Library",
+  "bm": "Perpustakaan",
+  "tags": [
+   "background",
+   "school",
+   "indoor"
+  ]
+ },
+ {
+  "id": "night_sky",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/night_sky.svg",
+  "en": "Night sky",
+  "bm": "Langit malam",
+  "tags": [
+   "background",
+   "sains",
+   "space",
+   "outdoor"
+  ]
+ },
+ {
+  "id": "parallax_far",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/parallax_far.svg",
+  "en": "Parallax: far hills",
+  "bm": "Paralaks: bukit jauh",
+  "tags": [
+   "background",
+   "parallax"
+  ]
+ },
+ {
+  "id": "parallax_near",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/parallax_near.svg",
+  "en": "Parallax: near trees",
+  "bm": "Paralaks: pokok dekat",
+  "tags": [
+   "background",
+   "parallax"
+  ]
+ },
+ {
+  "id": "parallax_sky",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/parallax_sky.svg",
+  "en": "Parallax: sky",
+  "bm": "Paralaks: langit",
+  "tags": [
+   "background",
+   "parallax"
+  ]
+ },
+ {
+  "id": "pattern_batik",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/pattern_batik.svg",
+  "en": "Batik pattern",
+  "bm": "Corak batik",
+  "tags": [
+   "pattern",
+   "tileable"
+  ]
+ },
+ {
+  "id": "pattern_chalkboard",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/pattern_chalkboard.svg",
+  "en": "Chalkboard",
+  "bm": "Papan hitam",
+  "tags": [
+   "pattern",
+   "tileable"
+  ]
+ },
+ {
+  "id": "pattern_dots",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/pattern_dots.svg",
+  "en": "Polka dots",
+  "bm": "Corak bintik",
+  "tags": [
+   "pattern",
+   "tileable"
+  ]
+ },
+ {
+  "id": "pattern_graph",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/pattern_graph.svg",
+  "en": "Graph paper",
+  "bm": "Kertas graf",
+  "tags": [
+   "pattern",
+   "tileable"
+  ]
+ },
+ {
+  "id": "pattern_notebook",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/pattern_notebook.svg",
+  "en": "Notebook paper",
+  "bm": "Kertas buku latihan",
+  "tags": [
+   "pattern",
+   "tileable"
+  ]
+ },
+ {
+  "id": "rainforest",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/rainforest.svg",
+  "en": "Rainforest",
+  "bm": "Hutan hujan tropika",
+  "tags": [
+   "background",
+   "sains",
+   "outdoor",
+   "local"
+  ]
+ },
+ {
+  "id": "school_field",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/school_field.svg",
+  "en": "School field",
+  "bm": "Padang sekolah",
+  "tags": [
+   "background",
+   "school",
+   "outdoor"
+  ]
+ },
+ {
+  "id": "science_lab",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/science_lab.svg",
+  "en": "Science lab",
+  "bm": "Makmal sains",
+  "tags": [
+   "background",
+   "school",
+   "indoor",
+   "sains"
+  ]
+ },
+ {
+  "id": "space",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/space.svg",
+  "en": "Outer space",
+  "bm": "Angkasa lepas",
+  "tags": [
+   "background",
+   "sains",
+   "space"
+  ]
+ },
+ {
+  "id": "stage_hall",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/stage_hall.svg",
+  "en": "School hall stage",
+  "bm": "Pentas dewan sekolah",
+  "tags": [
+   "background",
+   "school",
+   "indoor",
+   "quiz",
+   "ceremony"
+  ]
+ },
+ {
+  "id": "underwater",
+  "category": "backgrounds",
+  "path": "res://assets/art/backgrounds/underwater.svg",
+  "en": "Under the sea",
+  "bm": "Dasar laut",
+  "tags": [
+   "background",
+   "sains",
+   "sea"
+  ]
+ },
+ {
+  "id": "aiman_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_cheer.svg",
+  "en": "Aiman (pupil) (cheer)",
+  "bm": "Aiman (murid) (cheer)",
+  "tags": [
+   "character",
+   "aiman",
+   "cheer"
+  ]
+ },
+ {
+  "id": "aiman_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_happy.svg",
+  "en": "Aiman (pupil) (happy)",
+  "bm": "Aiman (murid) (happy)",
+  "tags": [
+   "character",
+   "aiman",
+   "happy"
+  ]
+ },
+ {
+  "id": "aiman_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_neutral.svg",
+  "en": "Aiman (pupil) (neutral)",
+  "bm": "Aiman (murid) (neutral)",
+  "tags": [
+   "character",
+   "aiman",
+   "neutral"
+  ]
+ },
+ {
+  "id": "aiman_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_sad.svg",
+  "en": "Aiman (pupil) (sad)",
+  "bm": "Aiman (murid) (sad)",
+  "tags": [
+   "character",
+   "aiman",
+   "sad"
+  ]
+ },
+ {
+  "id": "aiman_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_surprised.svg",
+  "en": "Aiman (pupil) (surprised)",
+  "bm": "Aiman (murid) (surprised)",
+  "tags": [
+   "character",
+   "aiman",
+   "surprised"
+  ]
+ },
+ {
+  "id": "aiman_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_talk.svg",
+  "en": "Aiman (pupil) (talk)",
+  "bm": "Aiman (murid) (talk)",
+  "tags": [
+   "character",
+   "aiman",
+   "talk"
+  ]
+ },
+ {
+  "id": "aiman_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/aiman_thinking.svg",
+  "en": "Aiman (pupil) (thinking)",
+  "bm": "Aiman (murid) (thinking)",
+  "tags": [
+   "character",
+   "aiman",
+   "thinking"
+  ]
+ },
+ {
+  "id": "aisyah_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_cheer.svg",
+  "en": "Aisyah (pupil) (cheer)",
+  "bm": "Aisyah (murid) (cheer)",
+  "tags": [
+   "character",
+   "aisyah",
+   "cheer"
+  ]
+ },
+ {
+  "id": "aisyah_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_happy.svg",
+  "en": "Aisyah (pupil) (happy)",
+  "bm": "Aisyah (murid) (happy)",
+  "tags": [
+   "character",
+   "aisyah",
+   "happy"
+  ]
+ },
+ {
+  "id": "aisyah_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_neutral.svg",
+  "en": "Aisyah (pupil) (neutral)",
+  "bm": "Aisyah (murid) (neutral)",
+  "tags": [
+   "character",
+   "aisyah",
+   "neutral"
+  ]
+ },
+ {
+  "id": "aisyah_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_sad.svg",
+  "en": "Aisyah (pupil) (sad)",
+  "bm": "Aisyah (murid) (sad)",
+  "tags": [
+   "character",
+   "aisyah",
+   "sad"
+  ]
+ },
+ {
+  "id": "aisyah_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_surprised.svg",
+  "en": "Aisyah (pupil) (surprised)",
+  "bm": "Aisyah (murid) (surprised)",
+  "tags": [
+   "character",
+   "aisyah",
+   "surprised"
+  ]
+ },
+ {
+  "id": "aisyah_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_talk.svg",
+  "en": "Aisyah (pupil) (talk)",
+  "bm": "Aisyah (murid) (talk)",
+  "tags": [
+   "character",
+   "aisyah",
+   "talk"
+  ]
+ },
+ {
+  "id": "aisyah_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/aisyah_thinking.svg",
+  "en": "Aisyah (pupil) (thinking)",
+  "bm": "Aisyah (murid) (thinking)",
+  "tags": [
+   "character",
+   "aisyah",
+   "thinking"
+  ]
+ },
+ {
+  "id": "arjun_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_cheer.svg",
+  "en": "Arjun (pupil) (cheer)",
+  "bm": "Arjun (murid) (cheer)",
+  "tags": [
+   "character",
+   "arjun",
+   "cheer"
+  ]
+ },
+ {
+  "id": "arjun_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_happy.svg",
+  "en": "Arjun (pupil) (happy)",
+  "bm": "Arjun (murid) (happy)",
+  "tags": [
+   "character",
+   "arjun",
+   "happy"
+  ]
+ },
+ {
+  "id": "arjun_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_neutral.svg",
+  "en": "Arjun (pupil) (neutral)",
+  "bm": "Arjun (murid) (neutral)",
+  "tags": [
+   "character",
+   "arjun",
+   "neutral"
+  ]
+ },
+ {
+  "id": "arjun_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_sad.svg",
+  "en": "Arjun (pupil) (sad)",
+  "bm": "Arjun (murid) (sad)",
+  "tags": [
+   "character",
+   "arjun",
+   "sad"
+  ]
+ },
+ {
+  "id": "arjun_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_surprised.svg",
+  "en": "Arjun (pupil) (surprised)",
+  "bm": "Arjun (murid) (surprised)",
+  "tags": [
+   "character",
+   "arjun",
+   "surprised"
+  ]
+ },
+ {
+  "id": "arjun_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_talk.svg",
+  "en": "Arjun (pupil) (talk)",
+  "bm": "Arjun (murid) (talk)",
+  "tags": [
+   "character",
+   "arjun",
+   "talk"
+  ]
+ },
+ {
+  "id": "arjun_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/arjun_thinking.svg",
+  "en": "Arjun (pupil) (thinking)",
+  "bm": "Arjun (murid) (thinking)",
+  "tags": [
+   "character",
+   "arjun",
+   "thinking"
+  ]
+ },
+ {
+  "id": "jaiden_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_cheer.svg",
+  "en": "Jaiden (pupil, sports attire) (cheer)",
+  "bm": "Jaiden (murid, pakaian sukan) (cheer)",
+  "tags": [
+   "character",
+   "jaiden",
+   "cheer"
+  ]
+ },
+ {
+  "id": "jaiden_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_happy.svg",
+  "en": "Jaiden (pupil, sports attire) (happy)",
+  "bm": "Jaiden (murid, pakaian sukan) (happy)",
+  "tags": [
+   "character",
+   "jaiden",
+   "happy"
+  ]
+ },
+ {
+  "id": "jaiden_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_neutral.svg",
+  "en": "Jaiden (pupil, sports attire) (neutral)",
+  "bm": "Jaiden (murid, pakaian sukan) (neutral)",
+  "tags": [
+   "character",
+   "jaiden",
+   "neutral"
+  ]
+ },
+ {
+  "id": "jaiden_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_sad.svg",
+  "en": "Jaiden (pupil, sports attire) (sad)",
+  "bm": "Jaiden (murid, pakaian sukan) (sad)",
+  "tags": [
+   "character",
+   "jaiden",
+   "sad"
+  ]
+ },
+ {
+  "id": "jaiden_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_surprised.svg",
+  "en": "Jaiden (pupil, sports attire) (surprised)",
+  "bm": "Jaiden (murid, pakaian sukan) (surprised)",
+  "tags": [
+   "character",
+   "jaiden",
+   "surprised"
+  ]
+ },
+ {
+  "id": "jaiden_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_talk.svg",
+  "en": "Jaiden (pupil, sports attire) (talk)",
+  "bm": "Jaiden (murid, pakaian sukan) (talk)",
+  "tags": [
+   "character",
+   "jaiden",
+   "talk"
+  ]
+ },
+ {
+  "id": "jaiden_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/jaiden_thinking.svg",
+  "en": "Jaiden (pupil, sports attire) (thinking)",
+  "bm": "Jaiden (murid, pakaian sukan) (thinking)",
+  "tags": [
+   "character",
+   "jaiden",
+   "thinking"
+  ]
+ },
+ {
+  "id": "kavitha_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_cheer.svg",
+  "en": "Kavitha (pupil) (cheer)",
+  "bm": "Kavitha (murid) (cheer)",
+  "tags": [
+   "character",
+   "kavitha",
+   "cheer"
+  ]
+ },
+ {
+  "id": "kavitha_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_happy.svg",
+  "en": "Kavitha (pupil) (happy)",
+  "bm": "Kavitha (murid) (happy)",
+  "tags": [
+   "character",
+   "kavitha",
+   "happy"
+  ]
+ },
+ {
+  "id": "kavitha_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_neutral.svg",
+  "en": "Kavitha (pupil) (neutral)",
+  "bm": "Kavitha (murid) (neutral)",
+  "tags": [
+   "character",
+   "kavitha",
+   "neutral"
+  ]
+ },
+ {
+  "id": "kavitha_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_sad.svg",
+  "en": "Kavitha (pupil) (sad)",
+  "bm": "Kavitha (murid) (sad)",
+  "tags": [
+   "character",
+   "kavitha",
+   "sad"
+  ]
+ },
+ {
+  "id": "kavitha_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_surprised.svg",
+  "en": "Kavitha (pupil) (surprised)",
+  "bm": "Kavitha (murid) (surprised)",
+  "tags": [
+   "character",
+   "kavitha",
+   "surprised"
+  ]
+ },
+ {
+  "id": "kavitha_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_talk.svg",
+  "en": "Kavitha (pupil) (talk)",
+  "bm": "Kavitha (murid) (talk)",
+  "tags": [
+   "character",
+   "kavitha",
+   "talk"
+  ]
+ },
+ {
+  "id": "kavitha_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/kavitha_thinking.svg",
+  "en": "Kavitha (pupil) (thinking)",
+  "bm": "Kavitha (murid) (thinking)",
+  "tags": [
+   "character",
+   "kavitha",
+   "thinking"
+  ]
+ },
+ {
+  "id": "kenyalang_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_cheer.svg",
+  "en": "Kenny the Hornbill (cheer)",
+  "bm": "Kenyalang (cheer)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "cheer"
+  ]
+ },
+ {
+  "id": "kenyalang_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_happy.svg",
+  "en": "Kenny the Hornbill (happy)",
+  "bm": "Kenyalang (happy)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "happy"
+  ]
+ },
+ {
+  "id": "kenyalang_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_neutral.svg",
+  "en": "Kenny the Hornbill (neutral)",
+  "bm": "Kenyalang (neutral)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "neutral"
+  ]
+ },
+ {
+  "id": "kenyalang_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_sad.svg",
+  "en": "Kenny the Hornbill (sad)",
+  "bm": "Kenyalang (sad)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "sad"
+  ]
+ },
+ {
+  "id": "kenyalang_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_surprised.svg",
+  "en": "Kenny the Hornbill (surprised)",
+  "bm": "Kenyalang (surprised)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "surprised"
+  ]
+ },
+ {
+  "id": "kenyalang_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_talk.svg",
+  "en": "Kenny the Hornbill (talk)",
+  "bm": "Kenyalang (talk)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "talk"
+  ]
+ },
+ {
+  "id": "kenyalang_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/kenyalang_thinking.svg",
+  "en": "Kenny the Hornbill (thinking)",
+  "bm": "Kenyalang (thinking)",
+  "tags": [
+   "character",
+   "mascot",
+   "kenyalang",
+   "thinking"
+  ]
+ },
+ {
+  "id": "meiling_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_cheer.svg",
+  "en": "Mei Ling (pupil) (cheer)",
+  "bm": "Mei Ling (murid) (cheer)",
+  "tags": [
+   "character",
+   "meiling",
+   "cheer"
+  ]
+ },
+ {
+  "id": "meiling_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_happy.svg",
+  "en": "Mei Ling (pupil) (happy)",
+  "bm": "Mei Ling (murid) (happy)",
+  "tags": [
+   "character",
+   "meiling",
+   "happy"
+  ]
+ },
+ {
+  "id": "meiling_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_neutral.svg",
+  "en": "Mei Ling (pupil) (neutral)",
+  "bm": "Mei Ling (murid) (neutral)",
+  "tags": [
+   "character",
+   "meiling",
+   "neutral"
+  ]
+ },
+ {
+  "id": "meiling_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_sad.svg",
+  "en": "Mei Ling (pupil) (sad)",
+  "bm": "Mei Ling (murid) (sad)",
+  "tags": [
+   "character",
+   "meiling",
+   "sad"
+  ]
+ },
+ {
+  "id": "meiling_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_surprised.svg",
+  "en": "Mei Ling (pupil) (surprised)",
+  "bm": "Mei Ling (murid) (surprised)",
+  "tags": [
+   "character",
+   "meiling",
+   "surprised"
+  ]
+ },
+ {
+  "id": "meiling_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_talk.svg",
+  "en": "Mei Ling (pupil) (talk)",
+  "bm": "Mei Ling (murid) (talk)",
+  "tags": [
+   "character",
+   "meiling",
+   "talk"
+  ]
+ },
+ {
+  "id": "meiling_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/meiling_thinking.svg",
+  "en": "Mei Ling (pupil) (thinking)",
+  "bm": "Mei Ling (murid) (thinking)",
+  "tags": [
+   "character",
+   "meiling",
+   "thinking"
+  ]
+ },
+ {
+  "id": "nurul_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_cheer.svg",
+  "en": "Cikgu Nurul (teacher) (cheer)",
+  "bm": "Cikgu Nurul (guru) (cheer)",
+  "tags": [
+   "character",
+   "nurul",
+   "cheer"
+  ]
+ },
+ {
+  "id": "nurul_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_happy.svg",
+  "en": "Cikgu Nurul (teacher) (happy)",
+  "bm": "Cikgu Nurul (guru) (happy)",
+  "tags": [
+   "character",
+   "nurul",
+   "happy"
+  ]
+ },
+ {
+  "id": "nurul_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_neutral.svg",
+  "en": "Cikgu Nurul (teacher) (neutral)",
+  "bm": "Cikgu Nurul (guru) (neutral)",
+  "tags": [
+   "character",
+   "nurul",
+   "neutral"
+  ]
+ },
+ {
+  "id": "nurul_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_sad.svg",
+  "en": "Cikgu Nurul (teacher) (sad)",
+  "bm": "Cikgu Nurul (guru) (sad)",
+  "tags": [
+   "character",
+   "nurul",
+   "sad"
+  ]
+ },
+ {
+  "id": "nurul_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_surprised.svg",
+  "en": "Cikgu Nurul (teacher) (surprised)",
+  "bm": "Cikgu Nurul (guru) (surprised)",
+  "tags": [
+   "character",
+   "nurul",
+   "surprised"
+  ]
+ },
+ {
+  "id": "nurul_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_talk.svg",
+  "en": "Cikgu Nurul (teacher) (talk)",
+  "bm": "Cikgu Nurul (guru) (talk)",
+  "tags": [
+   "character",
+   "nurul",
+   "talk"
+  ]
+ },
+ {
+  "id": "nurul_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/nurul_thinking.svg",
+  "en": "Cikgu Nurul (teacher) (thinking)",
+  "bm": "Cikgu Nurul (guru) (thinking)",
+  "tags": [
+   "character",
+   "nurul",
+   "thinking"
+  ]
+ },
+ {
+  "id": "rahman_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_cheer.svg",
+  "en": "Cikgu Rahman (teacher) (cheer)",
+  "bm": "Cikgu Rahman (guru) (cheer)",
+  "tags": [
+   "character",
+   "rahman",
+   "cheer"
+  ]
+ },
+ {
+  "id": "rahman_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_happy.svg",
+  "en": "Cikgu Rahman (teacher) (happy)",
+  "bm": "Cikgu Rahman (guru) (happy)",
+  "tags": [
+   "character",
+   "rahman",
+   "happy"
+  ]
+ },
+ {
+  "id": "rahman_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_neutral.svg",
+  "en": "Cikgu Rahman (teacher) (neutral)",
+  "bm": "Cikgu Rahman (guru) (neutral)",
+  "tags": [
+   "character",
+   "rahman",
+   "neutral"
+  ]
+ },
+ {
+  "id": "rahman_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_sad.svg",
+  "en": "Cikgu Rahman (teacher) (sad)",
+  "bm": "Cikgu Rahman (guru) (sad)",
+  "tags": [
+   "character",
+   "rahman",
+   "sad"
+  ]
+ },
+ {
+  "id": "rahman_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_surprised.svg",
+  "en": "Cikgu Rahman (teacher) (surprised)",
+  "bm": "Cikgu Rahman (guru) (surprised)",
+  "tags": [
+   "character",
+   "rahman",
+   "surprised"
+  ]
+ },
+ {
+  "id": "rahman_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_talk.svg",
+  "en": "Cikgu Rahman (teacher) (talk)",
+  "bm": "Cikgu Rahman (guru) (talk)",
+  "tags": [
+   "character",
+   "rahman",
+   "talk"
+  ]
+ },
+ {
+  "id": "rahman_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/rahman_thinking.svg",
+  "en": "Cikgu Rahman (teacher) (thinking)",
+  "bm": "Cikgu Rahman (guru) (thinking)",
+  "tags": [
+   "character",
+   "rahman",
+   "thinking"
+  ]
+ },
+ {
+  "id": "robo_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_cheer.svg",
+  "en": "Robo the tutor robot (cheer)",
+  "bm": "Robo (cheer)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "cheer"
+  ]
+ },
+ {
+  "id": "robo_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_happy.svg",
+  "en": "Robo the tutor robot (happy)",
+  "bm": "Robo (happy)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "happy"
+  ]
+ },
+ {
+  "id": "robo_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_neutral.svg",
+  "en": "Robo the tutor robot (neutral)",
+  "bm": "Robo (neutral)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "neutral"
+  ]
+ },
+ {
+  "id": "robo_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_sad.svg",
+  "en": "Robo the tutor robot (sad)",
+  "bm": "Robo (sad)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "sad"
+  ]
+ },
+ {
+  "id": "robo_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_surprised.svg",
+  "en": "Robo the tutor robot (surprised)",
+  "bm": "Robo (surprised)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "surprised"
+  ]
+ },
+ {
+  "id": "robo_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_talk.svg",
+  "en": "Robo the tutor robot (talk)",
+  "bm": "Robo (talk)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "talk"
+  ]
+ },
+ {
+  "id": "robo_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/robo_thinking.svg",
+  "en": "Robo the tutor robot (thinking)",
+  "bm": "Robo (thinking)",
+  "tags": [
+   "character",
+   "mascot",
+   "robo",
+   "thinking"
+  ]
+ },
+ {
+  "id": "weijie_cheer",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_cheer.svg",
+  "en": "Wei Jie (pupil) (cheer)",
+  "bm": "Wei Jie (murid) (cheer)",
+  "tags": [
+   "character",
+   "weijie",
+   "cheer"
+  ]
+ },
+ {
+  "id": "weijie_happy",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_happy.svg",
+  "en": "Wei Jie (pupil) (happy)",
+  "bm": "Wei Jie (murid) (happy)",
+  "tags": [
+   "character",
+   "weijie",
+   "happy"
+  ]
+ },
+ {
+  "id": "weijie_neutral",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_neutral.svg",
+  "en": "Wei Jie (pupil) (neutral)",
+  "bm": "Wei Jie (murid) (neutral)",
+  "tags": [
+   "character",
+   "weijie",
+   "neutral"
+  ]
+ },
+ {
+  "id": "weijie_sad",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_sad.svg",
+  "en": "Wei Jie (pupil) (sad)",
+  "bm": "Wei Jie (murid) (sad)",
+  "tags": [
+   "character",
+   "weijie",
+   "sad"
+  ]
+ },
+ {
+  "id": "weijie_surprised",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_surprised.svg",
+  "en": "Wei Jie (pupil) (surprised)",
+  "bm": "Wei Jie (murid) (surprised)",
+  "tags": [
+   "character",
+   "weijie",
+   "surprised"
+  ]
+ },
+ {
+  "id": "weijie_talk",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_talk.svg",
+  "en": "Wei Jie (pupil) (talk)",
+  "bm": "Wei Jie (murid) (talk)",
+  "tags": [
+   "character",
+   "weijie",
+   "talk"
+  ]
+ },
+ {
+  "id": "weijie_thinking",
+  "category": "characters",
+  "path": "res://assets/art/characters/weijie_thinking.svg",
+  "en": "Wei Jie (pupil) (thinking)",
+  "bm": "Wei Jie (murid) (thinking)",
+  "tags": [
+   "character",
+   "weijie",
+   "thinking"
+  ]
+ },
+ {
+  "id": "fx_circle_soft",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_circle_soft.svg",
+  "en": "Soft glow",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_confetti_circle",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_confetti_circle.svg",
+  "en": "Confetti dot",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_confetti_rect",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_confetti_rect.svg",
+  "en": "Confetti strip",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_confetti_triangle",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_confetti_triangle.svg",
+  "en": "Confetti triangle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_drop",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_drop.svg",
+  "en": "Drop",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_heart",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_heart.svg",
+  "en": "Heart particle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_note",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_note.svg",
+  "en": "Music note particle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_plus",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_plus.svg",
+  "en": "Plus particle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_ring",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_ring.svg",
+  "en": "Ring burst",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_smoke",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_smoke.svg",
+  "en": "Smoke puff",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_sparkle",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_sparkle.svg",
+  "en": "Sparkle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "fx_star",
+  "category": "fx",
+  "path": "res://assets/art/fx/fx_star.svg",
+  "en": "Star particle",
+  "bm": "",
+  "tags": [
+   "fx",
+   "particle"
+  ]
+ },
+ {
+  "id": "atom",
+  "category": "icons",
+  "path": "res://assets/art/icons/atom.svg",
+  "en": "Atom",
+  "bm": "Atom",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "back",
+  "category": "icons",
+  "path": "res://assets/art/icons/back.svg",
+  "en": "Back",
+  "bm": "Kembali",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "bag",
+  "category": "icons",
+  "path": "res://assets/art/icons/bag.svg",
+  "en": "Shop",
+  "bm": "Kedai",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "book",
+  "category": "icons",
+  "path": "res://assets/art/icons/book.svg",
+  "en": "Book",
+  "bm": "Buku",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "brush",
+  "category": "icons",
+  "path": "res://assets/art/icons/brush.svg",
+  "en": "Draw",
+  "bm": "Lukis",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "calculator",
+  "category": "icons",
+  "path": "res://assets/art/icons/calculator.svg",
+  "en": "Calculator",
+  "bm": "Kalkulator",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "calendar",
+  "category": "icons",
+  "path": "res://assets/art/icons/calendar.svg",
+  "en": "Calendar",
+  "bm": "Kalendar",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "camera",
+  "category": "icons",
+  "path": "res://assets/art/icons/camera.svg",
+  "en": "Camera",
+  "bm": "Kamera",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "chat",
+  "category": "icons",
+  "path": "res://assets/art/icons/chat.svg",
+  "en": "Talk",
+  "bm": "Bual",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "check",
+  "category": "icons",
+  "path": "res://assets/art/icons/check.svg",
+  "en": "Correct",
+  "bm": "Betul",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "clock",
+  "category": "icons",
+  "path": "res://assets/art/icons/clock.svg",
+  "en": "Clock",
+  "bm": "Jam",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "close",
+  "category": "icons",
+  "path": "res://assets/art/icons/close.svg",
+  "en": "Close",
+  "bm": "Tutup",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "coin",
+  "category": "icons",
+  "path": "res://assets/art/icons/coin.svg",
+  "en": "Coin",
+  "bm": "Syiling",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "cross",
+  "category": "icons",
+  "path": "res://assets/art/icons/cross.svg",
+  "en": "Wrong",
+  "bm": "Salah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "down",
+  "category": "icons",
+  "path": "res://assets/art/icons/down.svg",
+  "en": "Down",
+  "bm": "Bawah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "eye",
+  "category": "icons",
+  "path": "res://assets/art/icons/eye.svg",
+  "en": "Show",
+  "bm": "Tunjuk",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "flag",
+  "category": "icons",
+  "path": "res://assets/art/icons/flag.svg",
+  "en": "Flag",
+  "bm": "Bendera",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "flask",
+  "category": "icons",
+  "path": "res://assets/art/icons/flask.svg",
+  "en": "Science",
+  "bm": "Sains",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "gem",
+  "category": "icons",
+  "path": "res://assets/art/icons/gem.svg",
+  "en": "Gem",
+  "bm": "Permata",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "gift",
+  "category": "icons",
+  "path": "res://assets/art/icons/gift.svg",
+  "en": "Gift",
+  "bm": "Hadiah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "globe",
+  "category": "icons",
+  "path": "res://assets/art/icons/globe.svg",
+  "en": "Globe",
+  "bm": "Glob",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "grad_cap",
+  "category": "icons",
+  "path": "res://assets/art/icons/grad_cap.svg",
+  "en": "Graduate",
+  "bm": "Graduan",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "heart",
+  "category": "icons",
+  "path": "res://assets/art/icons/heart.svg",
+  "en": "Heart",
+  "bm": "Hati",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "heart_empty",
+  "category": "icons",
+  "path": "res://assets/art/icons/heart_empty.svg",
+  "en": "Empty heart",
+  "bm": "Hati kosong",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "hint",
+  "category": "icons",
+  "path": "res://assets/art/icons/hint.svg",
+  "en": "Hint",
+  "bm": "Petunjuk",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "home",
+  "category": "icons",
+  "path": "res://assets/art/icons/home.svg",
+  "en": "Home",
+  "bm": "Rumah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "hourglass",
+  "category": "icons",
+  "path": "res://assets/art/icons/hourglass.svg",
+  "en": "Timer",
+  "bm": "Pemasa",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "info",
+  "category": "icons",
+  "path": "res://assets/art/icons/info.svg",
+  "en": "Info",
+  "bm": "Maklumat",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "key",
+  "category": "icons",
+  "path": "res://assets/art/icons/key.svg",
+  "en": "Key",
+  "bm": "Kunci",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "keyboard",
+  "category": "icons",
+  "path": "res://assets/art/icons/keyboard.svg",
+  "en": "Type",
+  "bm": "Taip",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "leaderboard",
+  "category": "icons",
+  "path": "res://assets/art/icons/leaderboard.svg",
+  "en": "Leaderboard",
+  "bm": "Papan markah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "lightning",
+  "category": "icons",
+  "path": "res://assets/art/icons/lightning.svg",
+  "en": "Power-up",
+  "bm": "Kuasa",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "lock",
+  "category": "icons",
+  "path": "res://assets/art/icons/lock.svg",
+  "en": "Locked",
+  "bm": "Berkunci",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "map",
+  "category": "icons",
+  "path": "res://assets/art/icons/map.svg",
+  "en": "Map",
+  "bm": "Peta",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "medal",
+  "category": "icons",
+  "path": "res://assets/art/icons/medal.svg",
+  "en": "Medal",
+  "bm": "Pingat",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "menu",
+  "category": "icons",
+  "path": "res://assets/art/icons/menu.svg",
+  "en": "Menu",
+  "bm": "Menu",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "mic",
+  "category": "icons",
+  "path": "res://assets/art/icons/mic.svg",
+  "en": "Microphone",
+  "bm": "Mikrofon",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "minus",
+  "category": "icons",
+  "path": "res://assets/art/icons/minus.svg",
+  "en": "Subtract",
+  "bm": "Tolak",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "music",
+  "category": "icons",
+  "path": "res://assets/art/icons/music.svg",
+  "en": "Music",
+  "bm": "Muzik",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "next",
+  "category": "icons",
+  "path": "res://assets/art/icons/next.svg",
+  "en": "Next",
+  "bm": "Seterusnya",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "palette",
+  "category": "icons",
+  "path": "res://assets/art/icons/palette.svg",
+  "en": "Art",
+  "bm": "Seni",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "pause",
+  "category": "icons",
+  "path": "res://assets/art/icons/pause.svg",
+  "en": "Pause",
+  "bm": "Jeda",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "pencil",
+  "category": "icons",
+  "path": "res://assets/art/icons/pencil.svg",
+  "en": "Pencil",
+  "bm": "Pensel",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "pin",
+  "category": "icons",
+  "path": "res://assets/art/icons/pin.svg",
+  "en": "Location",
+  "bm": "Lokasi",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "play",
+  "category": "icons",
+  "path": "res://assets/art/icons/play.svg",
+  "en": "Play",
+  "bm": "Main",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "plus",
+  "category": "icons",
+  "path": "res://assets/art/icons/plus.svg",
+  "en": "Add",
+  "bm": "Tambah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "puzzle",
+  "category": "icons",
+  "path": "res://assets/art/icons/puzzle.svg",
+  "en": "Puzzle",
+  "bm": "Teka-teki",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "question",
+  "category": "icons",
+  "path": "res://assets/art/icons/question.svg",
+  "en": "Question",
+  "bm": "Soalan",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "restart",
+  "category": "icons",
+  "path": "res://assets/art/icons/restart.svg",
+  "en": "Restart",
+  "bm": "Ulang",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "ruler",
+  "category": "icons",
+  "path": "res://assets/art/icons/ruler.svg",
+  "en": "Ruler",
+  "bm": "Pembaris",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "school",
+  "category": "icons",
+  "path": "res://assets/art/icons/school.svg",
+  "en": "School",
+  "bm": "Sekolah",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "search",
+  "category": "icons",
+  "path": "res://assets/art/icons/search.svg",
+  "en": "Search",
+  "bm": "Cari",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "settings",
+  "category": "icons",
+  "path": "res://assets/art/icons/settings.svg",
+  "en": "Settings",
+  "bm": "Tetapan",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "shield",
+  "category": "icons",
+  "path": "res://assets/art/icons/shield.svg",
+  "en": "Shield",
+  "bm": "Perisai",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "sound_off",
+  "category": "icons",
+  "path": "res://assets/art/icons/sound_off.svg",
+  "en": "Sound off",
+  "bm": "Senyap",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "sound_on",
+  "category": "icons",
+  "path": "res://assets/art/icons/sound_on.svg",
+  "en": "Sound on",
+  "bm": "Bunyi",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "speaker",
+  "category": "icons",
+  "path": "res://assets/art/icons/speaker.svg",
+  "en": "Speaker",
+  "bm": "Pembesar suara",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "star",
+  "category": "icons",
+  "path": "res://assets/art/icons/star.svg",
+  "en": "Star",
+  "bm": "Bintang",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "star_empty",
+  "category": "icons",
+  "path": "res://assets/art/icons/star_empty.svg",
+  "en": "Empty star",
+  "bm": "Bintang kosong",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "stop",
+  "category": "icons",
+  "path": "res://assets/art/icons/stop.svg",
+  "en": "Stop",
+  "bm": "Henti",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "stopwatch",
+  "category": "icons",
+  "path": "res://assets/art/icons/stopwatch.svg",
+  "en": "Stopwatch",
+  "bm": "Jam randik",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "target",
+  "category": "icons",
+  "path": "res://assets/art/icons/target.svg",
+  "en": "Target",
+  "bm": "Sasaran",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "translate",
+  "category": "icons",
+  "path": "res://assets/art/icons/translate.svg",
+  "en": "Language",
+  "bm": "Bahasa",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "trophy",
+  "category": "icons",
+  "path": "res://assets/art/icons/trophy.svg",
+  "en": "Trophy",
+  "bm": "Piala",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "unlock",
+  "category": "icons",
+  "path": "res://assets/art/icons/unlock.svg",
+  "en": "Unlocked",
+  "bm": "Dibuka",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "up",
+  "category": "icons",
+  "path": "res://assets/art/icons/up.svg",
+  "en": "Up",
+  "bm": "Atas",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "user",
+  "category": "icons",
+  "path": "res://assets/art/icons/user.svg",
+  "en": "Player",
+  "bm": "Pemain",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "users",
+  "category": "icons",
+  "path": "res://assets/art/icons/users.svg",
+  "en": "Class",
+  "bm": "Kelas",
+  "tags": [
+   "icon",
+   "ui"
+  ]
+ },
+ {
+  "id": "aeroplane",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/aeroplane.svg",
+  "en": "Aeroplane",
+  "bm": "Kapal terbang",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "ant",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/ant.svg",
+  "en": "Ant",
+  "bm": "Semut",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "ball",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/ball.svg",
+  "en": "Ball",
+  "bm": "Bola",
+  "tags": [
+   "vocab",
+   "object",
+   "toy"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "bed",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/bed.svg",
+  "en": "Bed",
+  "bm": "Katil",
+  "tags": [
+   "vocab",
+   "object",
+   "home"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "bee",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/bee.svg",
+  "en": "Bee",
+  "bm": "Lebah",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "bicycle",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/bicycle.svg",
+  "en": "Bicycle",
+  "bm": "Basikal",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "bird",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/bird.svg",
+  "en": "Bird",
+  "bm": "Burung",
+  "tags": [
+   "vocab",
+   "animal",
+   "bird"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "bus",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/bus.svg",
+  "en": "School bus",
+  "bm": "Bas sekolah",
+  "tags": [
+   "vocab",
+   "transport",
+   "school"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "butterfly",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/butterfly.svg",
+  "en": "Butterfly",
+  "bm": "Rama-rama",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect",
+   "lifecycle"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "butterfly_eggs",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/butterfly_eggs.svg",
+  "en": "Butterfly eggs",
+  "bm": "Telur rama-rama",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect",
+   "lifecycle"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "car",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/car.svg",
+  "en": "Car",
+  "bm": "Kereta",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "cat",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/cat.svg",
+  "en": "Cat",
+  "bm": "Kucing",
+  "tags": [
+   "vocab",
+   "animal",
+   "pet"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "caterpillar",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/caterpillar.svg",
+  "en": "Caterpillar",
+  "bm": "Beluncas",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect",
+   "lifecycle"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "chicken",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/chicken.svg",
+  "en": "Chicken",
+  "bm": "Ayam",
+  "tags": [
+   "vocab",
+   "animal",
+   "farm",
+   "bird"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "chrysalis",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/chrysalis.svg",
+  "en": "Chrysalis (pupa)",
+  "bm": "Kepompong",
+  "tags": [
+   "vocab",
+   "animal",
+   "insect",
+   "lifecycle"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "cow",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/cow.svg",
+  "en": "Cow",
+  "bm": "Lembu",
+  "tags": [
+   "vocab",
+   "animal",
+   "farm"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "cup",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/cup.svg",
+  "en": "Cup",
+  "bm": "Cawan",
+  "tags": [
+   "vocab",
+   "object",
+   "kitchen"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "dog",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/dog.svg",
+  "en": "Dog",
+  "bm": "Anjing",
+  "tags": [
+   "vocab",
+   "animal",
+   "pet"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "door",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/door.svg",
+  "en": "Door",
+  "bm": "Pintu",
+  "tags": [
+   "vocab",
+   "object",
+   "home"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "duck",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/duck.svg",
+  "en": "Duck",
+  "bm": "Itik",
+  "tags": [
+   "vocab",
+   "animal",
+   "farm",
+   "bird"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "fish",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/fish.svg",
+  "en": "Fish",
+  "bm": "Ikan",
+  "tags": [
+   "vocab",
+   "animal",
+   "sea"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "frog",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/frog.svg",
+  "en": "Frog",
+  "bm": "Katak",
+  "tags": [
+   "vocab",
+   "animal",
+   "lifecycle",
+   "frog"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "goat",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/goat.svg",
+  "en": "Goat",
+  "bm": "Kambing",
+  "tags": [
+   "vocab",
+   "animal",
+   "farm"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "hat",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/hat.svg",
+  "en": "Hat",
+  "bm": "Topi",
+  "tags": [
+   "vocab",
+   "clothes"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "helicopter",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/helicopter.svg",
+  "en": "Helicopter",
+  "bm": "Helikopter",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "kite",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/kite.svg",
+  "en": "Kite",
+  "bm": "Layang-layang",
+  "tags": [
+   "vocab",
+   "object",
+   "toy"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "monkey",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/monkey.svg",
+  "en": "Monkey",
+  "bm": "Monyet",
+  "tags": [
+   "vocab",
+   "animal",
+   "jungle"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "motorcycle",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/motorcycle.svg",
+  "en": "Motorcycle",
+  "bm": "Motosikal",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "owl",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/owl.svg",
+  "en": "Owl",
+  "bm": "Burung hantu",
+  "tags": [
+   "vocab",
+   "animal",
+   "bird"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "plate",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/plate.svg",
+  "en": "Plate",
+  "bm": "Pinggan",
+  "tags": [
+   "vocab",
+   "object",
+   "kitchen"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "rabbit",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/rabbit.svg",
+  "en": "Rabbit",
+  "bm": "Arnab",
+  "tags": [
+   "vocab",
+   "animal",
+   "pet"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "ship",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/ship.svg",
+  "en": "Ship",
+  "bm": "Kapal",
+  "tags": [
+   "vocab",
+   "transport",
+   "sea"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "shirt",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/shirt.svg",
+  "en": "Shirt",
+  "bm": "Baju",
+  "tags": [
+   "vocab",
+   "clothes"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "shoes",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/shoes.svg",
+  "en": "Shoes",
+  "bm": "Kasut",
+  "tags": [
+   "vocab",
+   "clothes"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "snail",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/snail.svg",
+  "en": "Snail",
+  "bm": "Siput",
+  "tags": [
+   "vocab",
+   "animal"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "socks",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/socks.svg",
+  "en": "Socks",
+  "bm": "Stoking",
+  "tags": [
+   "vocab",
+   "clothes"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "spoon",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/spoon.svg",
+  "en": "Spoon",
+  "bm": "Sudu",
+  "tags": [
+   "vocab",
+   "object",
+   "kitchen"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "teddy_bear",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/teddy_bear.svg",
+  "en": "Teddy bear",
+  "bm": "Anak patung beruang",
+  "tags": [
+   "vocab",
+   "object",
+   "toy"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "train",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/train.svg",
+  "en": "Train",
+  "bm": "Kereta api",
+  "tags": [
+   "vocab",
+   "transport"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "umbrella",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/umbrella.svg",
+  "en": "Umbrella",
+  "bm": "Payung",
+  "tags": [
+   "vocab",
+   "object"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "window",
+  "category": "subjects/bahasa_inggeris",
+  "path": "res://assets/art/subjects/bahasa_inggeris/window.svg",
+  "en": "Window",
+  "bm": "Tingkap",
+  "tags": [
+   "vocab",
+   "object",
+   "home"
+  ],
+  "subject": "bahasa_inggeris"
+ },
+ {
+  "id": "anggur",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/anggur.svg",
+  "en": "Grapes",
+  "bm": "Anggur",
+  "tags": [
+   "vocab",
+   "fruit"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "belimbing",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/belimbing.svg",
+  "en": "Star fruit",
+  "bm": "Belimbing",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "betik",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/betik.svg",
+  "en": "Papaya",
+  "bm": "Betik",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "buaya",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/buaya.svg",
+  "en": "Crocodile",
+  "bm": "Buaya",
+  "tags": [
+   "vocab",
+   "animal",
+   "folktale",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "congkak",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/congkak.svg",
+  "en": "Congkak",
+  "bm": "Congkak",
+  "tags": [
+   "vocab",
+   "culture",
+   "local",
+   "game",
+   "math"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "durian",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/durian.svg",
+  "en": "Durian",
+  "bm": "Durian",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "epal",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/epal.svg",
+  "en": "Apple",
+  "bm": "Epal",
+  "tags": [
+   "vocab",
+   "fruit"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "gajah",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/gajah.svg",
+  "en": "Elephant",
+  "bm": "Gajah",
+  "tags": [
+   "vocab",
+   "animal",
+   "folktale",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "gasing",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/gasing.svg",
+  "en": "Spinning top",
+  "bm": "Gasing",
+  "tags": [
+   "vocab",
+   "culture",
+   "local",
+   "toy"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "harimau",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/harimau.svg",
+  "en": "Tiger",
+  "bm": "Harimau",
+  "tags": [
+   "vocab",
+   "animal",
+   "folktale",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "jambu_air",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/jambu_air.svg",
+  "en": "Rose apple",
+  "bm": "Jambu air",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "kelapa",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/kelapa.svg",
+  "en": "Coconut",
+  "bm": "Kelapa",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "kenyalang",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/kenyalang.svg",
+  "en": "Rhinoceros hornbill",
+  "bm": "Burung kenyalang",
+  "tags": [
+   "vocab",
+   "animal",
+   "local",
+   "bird"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "ketupat",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/ketupat.svg",
+  "en": "Ketupat",
+  "bm": "Ketupat",
+  "tags": [
+   "vocab",
+   "food",
+   "local",
+   "festival"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "kuih_lapis",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/kuih_lapis.svg",
+  "en": "Layer cake",
+  "bm": "Kuih lapis",
+  "tags": [
+   "vocab",
+   "food",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "kura_kura",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/kura_kura.svg",
+  "en": "Turtle",
+  "bm": "Penyu",
+  "tags": [
+   "vocab",
+   "animal",
+   "local",
+   "sea"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "mangga",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/mangga.svg",
+  "en": "Mango",
+  "bm": "Mangga",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "manggis",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/manggis.svg",
+  "en": "Mangosteen",
+  "bm": "Manggis",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "nanas",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/nanas.svg",
+  "en": "Pineapple",
+  "bm": "Nanas",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "nasi_lemak",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/nasi_lemak.svg",
+  "en": "Nasi lemak",
+  "bm": "Nasi lemak",
+  "tags": [
+   "vocab",
+   "food",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "orang_utan",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/orang_utan.svg",
+  "en": "Orang utan",
+  "bm": "Orang utan",
+  "tags": [
+   "vocab",
+   "animal",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "oren",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/oren.svg",
+  "en": "Orange",
+  "bm": "Oren",
+  "tags": [
+   "vocab",
+   "fruit"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "perahu",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/perahu.svg",
+  "en": "Boat (perahu)",
+  "bm": "Perahu",
+  "tags": [
+   "vocab",
+   "transport",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "pisang",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/pisang.svg",
+  "en": "Banana",
+  "bm": "Pisang",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "rambutan",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/rambutan.svg",
+  "en": "Rambutan",
+  "bm": "Rambutan",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "roti",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/roti.svg",
+  "en": "Bread",
+  "bm": "Roti",
+  "tags": [
+   "vocab",
+   "food"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "roti_canai",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/roti_canai.svg",
+  "en": "Roti canai",
+  "bm": "Roti canai",
+  "tags": [
+   "vocab",
+   "food",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "rumah_kampung",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/rumah_kampung.svg",
+  "en": "Malay village house",
+  "bm": "Rumah kampung",
+  "tags": [
+   "vocab",
+   "culture",
+   "local",
+   "home"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "sang_kancil",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/sang_kancil.svg",
+  "en": "Mouse deer (Sang Kancil)",
+  "bm": "Sang Kancil",
+  "tags": [
+   "vocab",
+   "animal",
+   "folktale",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "satay",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/satay.svg",
+  "en": "Satay",
+  "bm": "Sate",
+  "tags": [
+   "vocab",
+   "food",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "strawberi",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/strawberi.svg",
+  "en": "Strawberry",
+  "bm": "Strawberi",
+  "tags": [
+   "vocab",
+   "fruit"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "susu",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/susu.svg",
+  "en": "Milk",
+  "bm": "Susu",
+  "tags": [
+   "vocab",
+   "food",
+   "drink"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "teh_tarik",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/teh_tarik.svg",
+  "en": "Pulled tea",
+  "bm": "Teh tarik",
+  "tags": [
+   "vocab",
+   "food",
+   "drink",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "telur",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/telur.svg",
+  "en": "Egg",
+  "bm": "Telur",
+  "tags": [
+   "vocab",
+   "food"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "tembikai",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/tembikai.svg",
+  "en": "Watermelon",
+  "bm": "Tembikai",
+  "tags": [
+   "vocab",
+   "fruit",
+   "local"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "wau",
+  "category": "subjects/bahasa_melayu",
+  "path": "res://assets/art/subjects/bahasa_melayu/wau.svg",
+  "en": "Wau bulan (Malay kite)",
+  "bm": "Wau bulan",
+  "tags": [
+   "vocab",
+   "culture",
+   "local",
+   "toy"
+  ],
+  "subject": "bahasa_melayu"
+ },
+ {
+  "id": "balance_scale",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/balance_scale.svg",
+  "en": "Balance scale",
+  "bm": "Neraca",
+  "tags": [
+   "math",
+   "measure",
+   "mass"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "base10_block",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/base10_block.svg",
+  "en": "Thousand block (1000)",
+  "bm": "Blok ribu",
+  "tags": [
+   "math",
+   "base10"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "base10_flat",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/base10_flat.svg",
+  "en": "Hundred flat (100)",
+  "bm": "Kepingan ratus",
+  "tags": [
+   "math",
+   "base10"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "base10_rod",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/base10_rod.svg",
+  "en": "Ten rod (10)",
+  "bm": "Rod puluh",
+  "tags": [
+   "math",
+   "base10"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "base10_unit",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/base10_unit.svg",
+  "en": "Unit cube (1)",
+  "bm": "Kubus sa",
+  "tags": [
+   "math",
+   "base10"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "chart_bar",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/chart_bar.svg",
+  "en": "Bar chart",
+  "bm": "Carta palang",
+  "tags": [
+   "math",
+   "data"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "chart_pie",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/chart_pie.svg",
+  "en": "Pie chart",
+  "bm": "Carta pai",
+  "tags": [
+   "math",
+   "data"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "clock_face",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/clock_face.svg",
+  "en": "Clock face",
+  "bm": "Muka jam",
+  "tags": [
+   "math",
+   "time",
+   "clock"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "clock_hand_hour",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/clock_hand_hour.svg",
+  "en": "Hour hand",
+  "bm": "Jarum jam",
+  "tags": [
+   "math",
+   "time",
+   "clock"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "clock_hand_minute",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/clock_hand_minute.svg",
+  "en": "Minute hand",
+  "bm": "Jarum minit",
+  "tags": [
+   "math",
+   "time",
+   "clock"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "coin_10sen",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/coin_10sen.svg",
+  "en": "10sen coin (blank)",
+  "bm": "Syiling 10sen",
+  "tags": [
+   "math",
+   "money",
+   "coin"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "coin_20sen",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/coin_20sen.svg",
+  "en": "20sen coin (blank)",
+  "bm": "Syiling 20sen",
+  "tags": [
+   "math",
+   "money",
+   "coin"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "coin_50sen",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/coin_50sen.svg",
+  "en": "50sen coin (blank)",
+  "bm": "Syiling 50sen",
+  "tags": [
+   "math",
+   "money",
+   "coin"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "coin_5sen",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/coin_5sen.svg",
+  "en": "5sen coin (blank)",
+  "bm": "Syiling 5sen",
+  "tags": [
+   "math",
+   "money",
+   "coin"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "compasses",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/compasses.svg",
+  "en": "Compasses",
+  "bm": "Jangka lukis",
+  "tags": [
+   "math",
+   "measure"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "counter_red",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/counter_red.svg",
+  "en": "Counter (red)",
+  "bm": "Pembilang merah",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "counter_yellow",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/counter_yellow.svg",
+  "en": "Counter (yellow)",
+  "bm": "Pembilang kuning",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_1",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_1.svg",
+  "en": "Dice 1",
+  "bm": "Dadu 1",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_2",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_2.svg",
+  "en": "Dice 2",
+  "bm": "Dadu 2",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_3",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_3.svg",
+  "en": "Dice 3",
+  "bm": "Dadu 3",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_4",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_4.svg",
+  "en": "Dice 4",
+  "bm": "Dadu 4",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_5",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_5.svg",
+  "en": "Dice 5",
+  "bm": "Dadu 5",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "dice_6",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/dice_6.svg",
+  "en": "Dice 6",
+  "bm": "Dadu 6",
+  "tags": [
+   "math",
+   "dice",
+   "probability"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "link_cube_blue",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/link_cube_blue.svg",
+  "en": "Linking cube (blue)",
+  "bm": "Kiub bercantum",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "link_cube_green",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/link_cube_green.svg",
+  "en": "Linking cube (green)",
+  "bm": "Kiub bercantum",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "link_cube_red",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/link_cube_red.svg",
+  "en": "Linking cube (red)",
+  "bm": "Kiub bercantum",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "link_cube_yellow",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/link_cube_yellow.svg",
+  "en": "Linking cube (yellow)",
+  "bm": "Kiub bercantum",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "measuring_jug",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/measuring_jug.svg",
+  "en": "Measuring jug",
+  "bm": "Jag penyukat",
+  "tags": [
+   "math",
+   "measure",
+   "volume"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm1",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm1.svg",
+  "en": "RM1 note (blank)",
+  "bm": "Wang kertas RM1",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm10",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm10.svg",
+  "en": "RM10 note (blank)",
+  "bm": "Wang kertas RM10",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm100",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm100.svg",
+  "en": "RM100 note (blank)",
+  "bm": "Wang kertas RM100",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm20",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm20.svg",
+  "en": "RM20 note (blank)",
+  "bm": "Wang kertas RM20",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm5",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm5.svg",
+  "en": "RM5 note (blank)",
+  "bm": "Wang kertas RM5",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "note_rm50",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/note_rm50.svg",
+  "en": "RM50 note (blank)",
+  "bm": "Wang kertas RM50",
+  "tags": [
+   "math",
+   "money",
+   "note"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_decimal",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_decimal.svg",
+  "en": "Decimal point",
+  "bm": "Titik perpuluhan",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_divide",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_divide.svg",
+  "en": "Divide",
+  "bm": "Bahagi",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_equals",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_equals.svg",
+  "en": "Equals",
+  "bm": "Sama dengan",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_greater",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_greater.svg",
+  "en": "Greater than",
+  "bm": "Lebih daripada",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_less",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_less.svg",
+  "en": "Less than",
+  "bm": "Kurang daripada",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_minus",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_minus.svg",
+  "en": "Minus",
+  "bm": "Tolak",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_percent",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_percent.svg",
+  "en": "Percent",
+  "bm": "Peratus",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_plus",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_plus.svg",
+  "en": "Plus",
+  "bm": "Tambah",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "op_times",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/op_times.svg",
+  "en": "Multiply",
+  "bm": "Darab",
+  "tags": [
+   "math",
+   "operator",
+   "tile"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "pictograph",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/pictograph.svg",
+  "en": "Pictograph",
+  "bm": "Piktograf",
+  "tags": [
+   "math",
+   "data"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "protractor",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/protractor.svg",
+  "en": "Protractor",
+  "bm": "Protraktor",
+  "tags": [
+   "math",
+   "measure",
+   "angle"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "ruler_long",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/ruler_long.svg",
+  "en": "Ruler (30 cm)",
+  "bm": "Pembaris",
+  "tags": [
+   "math",
+   "measure",
+   "length"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "sempoa",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/sempoa.svg",
+  "en": "Abacus (sempoa)",
+  "bm": "Sempoa",
+  "tags": [
+   "math",
+   "counting"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "set_square",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/set_square.svg",
+  "en": "Set square",
+  "bm": "Sesiku",
+  "tags": [
+   "math",
+   "measure",
+   "angle"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_circle",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_circle.svg",
+  "en": "Circle",
+  "bm": "Bulatan",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_heart",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_heart.svg",
+  "en": "Heart",
+  "bm": "Hati",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_hexagon",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_hexagon.svg",
+  "en": "Hexagon",
+  "bm": "Heksagon",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_octagon",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_octagon.svg",
+  "en": "Octagon",
+  "bm": "Oktagon",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_oval",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_oval.svg",
+  "en": "Oval",
+  "bm": "Bujur",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_parallelogram",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_parallelogram.svg",
+  "en": "Parallelogram",
+  "bm": "Segi empat selari",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_pentagon",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_pentagon.svg",
+  "en": "Pentagon",
+  "bm": "Pentagon",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_rectangle",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_rectangle.svg",
+  "en": "Rectangle",
+  "bm": "Segi empat tepat",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_rhombus",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_rhombus.svg",
+  "en": "Rhombus",
+  "bm": "Rombus",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_semicircle",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_semicircle.svg",
+  "en": "Semicircle",
+  "bm": "Semibulatan",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_square",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_square.svg",
+  "en": "Square",
+  "bm": "Segi empat sama",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_star",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_star.svg",
+  "en": "Star",
+  "bm": "Bintang",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_trapezium",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_trapezium.svg",
+  "en": "Trapezium",
+  "bm": "Trapezium",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "shape_triangle",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/shape_triangle.svg",
+  "en": "Triangle",
+  "bm": "Segi tiga",
+  "tags": [
+   "math",
+   "shape",
+   "2d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_cone",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_cone.svg",
+  "en": "Cone",
+  "bm": "Kon",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_cube",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_cube.svg",
+  "en": "Cube",
+  "bm": "Kubus",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_cuboid",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_cuboid.svg",
+  "en": "Cuboid",
+  "bm": "Kuboid",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_cylinder",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_cylinder.svg",
+  "en": "Cylinder",
+  "bm": "Silinder",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_hemisphere",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_hemisphere.svg",
+  "en": "Hemisphere",
+  "bm": "Hemisfera",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_prism",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_prism.svg",
+  "en": "Triangular prism",
+  "bm": "Prisma segi tiga",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_pyramid",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_pyramid.svg",
+  "en": "Pyramid",
+  "bm": "Piramid",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "solid_sphere",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/solid_sphere.svg",
+  "en": "Sphere",
+  "bm": "Sfera",
+  "tags": [
+   "math",
+   "shape",
+   "3d"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "tape_measure",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/tape_measure.svg",
+  "en": "Tape measure",
+  "bm": "Pita ukur",
+  "tags": [
+   "math",
+   "measure",
+   "length"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "weighing_scale",
+  "category": "subjects/matematik",
+  "path": "res://assets/art/subjects/matematik/weighing_scale.svg",
+  "en": "Weighing scale",
+  "bm": "Penimbang",
+  "tags": [
+   "math",
+   "measure",
+   "mass"
+  ],
+  "subject": "matematik"
+ },
+ {
+  "id": "angklung",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/angklung.svg",
+  "en": "Angklung",
+  "bm": "Angklung",
+  "tags": [
+   "muzik",
+   "instrument",
+   "local"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "baluk_krocet",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/baluk_krocet.svg",
+  "en": "Crotchet rest",
+  "bm": "Tanda rehat krocet",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "gendang",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/gendang.svg",
+  "en": "Gendang (Malay drum)",
+  "bm": "Gendang",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion",
+   "local"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "gitar",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/gitar.svg",
+  "en": "Guitar",
+  "bm": "Gitar",
+  "tags": [
+   "muzik",
+   "instrument",
+   "string"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "klef_trebel",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/klef_trebel.svg",
+  "en": "Treble clef",
+  "bm": "Klef trebel",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "kompang",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/kompang.svg",
+  "en": "Kompang",
+  "bm": "Kompang",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion",
+   "local"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "marakas",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/marakas.svg",
+  "en": "Maracas",
+  "bm": "Marakas",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_krocet",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_krocet.svg",
+  "en": "Quarter note (crotchet)",
+  "bm": "Krocet",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_kuaver",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_kuaver.svg",
+  "en": "Eighth note (quaver)",
+  "bm": "Kuaver",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_kuaver_berpasangan",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_kuaver_berpasangan.svg",
+  "en": "Beamed quavers",
+  "bm": "Kuaver berpasangan",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_minim",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_minim.svg",
+  "en": "Half note (minim)",
+  "bm": "Minim",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_semibreve",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_semibreve.svg",
+  "en": "Whole note (semibreve)",
+  "bm": "Semibrif",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "not_semikuaver",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/not_semikuaver.svg",
+  "en": "Sixteenth note (semiquaver)",
+  "bm": "Semikuaver",
+  "tags": [
+   "muzik",
+   "notation"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "piano",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/piano.svg",
+  "en": "Piano keys",
+  "bm": "Kekunci piano",
+  "tags": [
+   "muzik",
+   "instrument",
+   "keyboard"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "rekoder",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/rekoder.svg",
+  "en": "Recorder",
+  "bm": "Rekoder",
+  "tags": [
+   "muzik",
+   "instrument",
+   "wind"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "sape",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/sape.svg",
+  "en": "Sape (Sarawak lute)",
+  "bm": "Sape",
+  "tags": [
+   "muzik",
+   "instrument",
+   "string",
+   "local"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "segi_tiga",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/segi_tiga.svg",
+  "en": "Triangle",
+  "bm": "Segi tiga (alat muzik)",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "tamborin",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/tamborin.svg",
+  "en": "Tambourine",
+  "bm": "Tamborin",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "zilofon",
+  "category": "subjects/muzik",
+  "path": "res://assets/art/subjects/muzik/zilofon.svg",
+  "en": "Xylophone",
+  "bm": "Zilofon",
+  "tags": [
+   "muzik",
+   "instrument",
+   "percussion"
+  ],
+  "subject": "muzik"
+ },
+ {
+  "id": "al_quran_rehal",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/al_quran_rehal.svg",
+  "en": "Quran on a stand (rehal)",
+  "bm": "Al-Quran dan rehal",
+  "tags": [
+   "pendidikan_islam",
+   "book"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "bulan_bintang",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/bulan_bintang.svg",
+  "en": "Crescent and star",
+  "bm": "Bulan dan bintang",
+  "tags": [
+   "pendidikan_islam",
+   "symbol"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "kaabah",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/kaabah.svg",
+  "en": "Kaaba",
+  "bm": "Kaabah",
+  "tags": [
+   "pendidikan_islam",
+   "place",
+   "hajj"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "kendi",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/kendi.svg",
+  "en": "Water jug",
+  "bm": "Kendi",
+  "tags": [
+   "pendidikan_islam",
+   "wudhu"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "kompas_kiblat",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/kompas_kiblat.svg",
+  "en": "Qibla compass",
+  "bm": "Kompas kiblat",
+  "tags": [
+   "pendidikan_islam",
+   "prayer"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "kopiah",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/kopiah.svg",
+  "en": "Prayer cap",
+  "bm": "Kopiah",
+  "tags": [
+   "pendidikan_islam",
+   "clothing"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "kurma",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/kurma.svg",
+  "en": "Dates",
+  "bm": "Kurma",
+  "tags": [
+   "pendidikan_islam",
+   "food",
+   "ramadan"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "masjid",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/masjid.svg",
+  "en": "Mosque",
+  "bm": "Masjid",
+  "tags": [
+   "pendidikan_islam",
+   "place"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "paip_air_wuduk",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/paip_air_wuduk.svg",
+  "en": "Ablution tap",
+  "bm": "Paip air wuduk",
+  "tags": [
+   "pendidikan_islam",
+   "wudhu"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "pelita",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/pelita.svg",
+  "en": "Oil lamp (pelita)",
+  "bm": "Pelita",
+  "tags": [
+   "pendidikan_islam",
+   "festival",
+   "raya"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "sampul_duit_raya",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/sampul_duit_raya.svg",
+  "en": "Raya money packet",
+  "bm": "Sampul duit raya",
+  "tags": [
+   "pendidikan_islam",
+   "festival",
+   "raya"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "sejadah",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/sejadah.svg",
+  "en": "Prayer mat",
+  "bm": "Sejadah",
+  "tags": [
+   "pendidikan_islam",
+   "prayer"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "songkok",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/songkok.svg",
+  "en": "Songkok",
+  "bm": "Songkok",
+  "tags": [
+   "pendidikan_islam",
+   "clothing"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "tanglung",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/tanglung.svg",
+  "en": "Lantern",
+  "bm": "Tanglung",
+  "tags": [
+   "pendidikan_islam",
+   "festival",
+   "ramadan"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "tasbih",
+  "category": "subjects/pendidikan_islam",
+  "path": "res://assets/art/subjects/pendidikan_islam/tasbih.svg",
+  "en": "Prayer beads",
+  "bm": "Tasbih",
+  "tags": [
+   "pendidikan_islam",
+   "prayer"
+  ],
+  "subject": "pendidikan_islam"
+ },
+ {
+  "id": "berjabat_tangan",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/berjabat_tangan.svg",
+  "en": "Handshake",
+  "bm": "Berjabat tangan",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "berkongsi",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/berkongsi.svg",
+  "en": "Sharing",
+  "bm": "Berkongsi",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "dompet",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/dompet.svg",
+  "en": "Wallet (honesty)",
+  "bm": "Dompet (amanah)",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "ibu_jari",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/ibu_jari.svg",
+  "en": "Thumbs up",
+  "bm": "Bagus",
+  "tags": [
+   "pendidikan_moral",
+   "value",
+   "feedback"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "kad_terima_kasih",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/kad_terima_kasih.svg",
+  "en": "Thank-you card",
+  "bm": "Kad terima kasih",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "keluarga",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/keluarga.svg",
+  "en": "Family",
+  "bm": "Keluarga",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "lampu_isyarat",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/lampu_isyarat.svg",
+  "en": "Traffic light",
+  "bm": "Lampu isyarat",
+  "tags": [
+   "pendidikan_moral",
+   "safety",
+   "road"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "lintasan_zebra",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/lintasan_zebra.svg",
+  "en": "Zebra crossing",
+  "bm": "Lintasan belang",
+  "tags": [
+   "pendidikan_moral",
+   "safety",
+   "road"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tabung",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tabung.svg",
+  "en": "Piggy bank (savings)",
+  "bm": "Tabung",
+  "tags": [
+   "pendidikan_moral",
+   "value",
+   "money"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tolong_menolong",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tolong_menolong.svg",
+  "en": "Helping each other",
+  "bm": "Tolong-menolong",
+  "tags": [
+   "pendidikan_moral",
+   "value"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tong_kitar_biru",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tong_kitar_biru.svg",
+  "en": "Recycling bin (paper)",
+  "bm": "Tong kitar semula biru (kertas)",
+  "tags": [
+   "pendidikan_moral",
+   "environment",
+   "recycle"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tong_kitar_coklat",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tong_kitar_coklat.svg",
+  "en": "Recycling bin (glass)",
+  "bm": "Tong kitar semula coklat (kaca)",
+  "tags": [
+   "pendidikan_moral",
+   "environment",
+   "recycle"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tong_kitar_oren",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tong_kitar_oren.svg",
+  "en": "Recycling bin (plastic & cans)",
+  "bm": "Tong kitar semula oren (plastik & tin)",
+  "tags": [
+   "pendidikan_moral",
+   "environment",
+   "recycle"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "tong_sampah",
+  "category": "subjects/pendidikan_moral",
+  "path": "res://assets/art/subjects/pendidikan_moral/tong_sampah.svg",
+  "en": "Rubbish bin",
+  "bm": "Tong sampah",
+  "tags": [
+   "pendidikan_moral",
+   "environment"
+  ],
+  "subject": "pendidikan_moral"
+ },
+ {
+  "id": "ayam_goreng",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/ayam_goreng.svg",
+  "en": "Fried chicken",
+  "bm": "Ayam goreng",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "food"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "badminton",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/badminton.svg",
+  "en": "Badminton racket and shuttle",
+  "bm": "Raket dan bulu tangkis",
+  "tags": [
+   "pjpk",
+   "sport",
+   "local"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "basuh_tangan",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/basuh_tangan.svg",
+  "en": "Washing hands",
+  "bm": "Basuh tangan",
+  "tags": [
+   "pjpk",
+   "health",
+   "hygiene"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "berus_gigi",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/berus_gigi.svg",
+  "en": "Toothbrush and toothpaste",
+  "bm": "Berus gigi dan ubat gigi",
+  "tags": [
+   "pjpk",
+   "health",
+   "hygiene"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "bola_jaring",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/bola_jaring.svg",
+  "en": "Netball",
+  "bm": "Bola jaring",
+  "tags": [
+   "pjpk",
+   "sport",
+   "ball"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "bola_keranjang",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/bola_keranjang.svg",
+  "en": "Basketball",
+  "bm": "Bola keranjang",
+  "tags": [
+   "pjpk",
+   "sport",
+   "ball"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "bola_sepak",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/bola_sepak.svg",
+  "en": "Football",
+  "bm": "Bola sepak",
+  "tags": [
+   "pjpk",
+   "sport",
+   "ball"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "bola_takraw",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/bola_takraw.svg",
+  "en": "Sepak takraw ball",
+  "bm": "Bola sepak takraw",
+  "tags": [
+   "pjpk",
+   "sport",
+   "ball",
+   "local"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "brokoli",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/brokoli.svg",
+  "en": "Broccoli",
+  "bm": "Brokoli",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "vegetable"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "burger",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/burger.svg",
+  "en": "Burger (eat less)",
+  "bm": "Burger (kurangkan)",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "junk"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "hula_hoop",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/hula_hoop.svg",
+  "en": "Hula hoop",
+  "bm": "Gelung rotan",
+  "tags": [
+   "pjpk",
+   "sport"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "kit_pertolongan_cemas",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/kit_pertolongan_cemas.svg",
+  "en": "First aid kit",
+  "bm": "Kit pertolongan cemas",
+  "tags": [
+   "pjpk",
+   "health"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "kon",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/kon.svg",
+  "en": "Cone",
+  "bm": "Kon",
+  "tags": [
+   "pjpk",
+   "sport"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "lobak_merah",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/lobak_merah.svg",
+  "en": "Carrot",
+  "bm": "Lobak merah",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "vegetable"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "minuman_bergas",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/minuman_bergas.svg",
+  "en": "Fizzy drink (eat less)",
+  "bm": "Minuman bergas (kurangkan)",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "junk"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "nasi",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/nasi.svg",
+  "en": "Rice",
+  "bm": "Nasi",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "food"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "ping_pong",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/ping_pong.svg",
+  "en": "Table tennis",
+  "bm": "Ping pong",
+  "tags": [
+   "pjpk",
+   "sport"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "pinggan_sihat",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/pinggan_sihat.svg",
+  "en": "Malaysian healthy plate (quarter-quarter-half)",
+  "bm": "Pinggan Sihat Malaysia (suku-suku separuh)",
+  "tags": [
+   "pjpk",
+   "health",
+   "nutrition"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "sabun",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/sabun.svg",
+  "en": "Soap",
+  "bm": "Sabun",
+  "tags": [
+   "pjpk",
+   "health",
+   "hygiene"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "tali_lompat",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/tali_lompat.svg",
+  "en": "Skipping rope",
+  "bm": "Tali lompat",
+  "tags": [
+   "pjpk",
+   "sport"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "tomato",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/tomato.svg",
+  "en": "Tomato",
+  "bm": "Tomato",
+  "tags": [
+   "pjpk",
+   "nutrition",
+   "vegetable"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "tuala",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/tuala.svg",
+  "en": "Towel",
+  "bm": "Tuala",
+  "tags": [
+   "pjpk",
+   "health",
+   "hygiene"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "wisel",
+  "category": "subjects/pjpk",
+  "path": "res://assets/art/subjects/pjpk/wisel.svg",
+  "en": "Whistle",
+  "bm": "Wisel",
+  "tags": [
+   "pjpk",
+   "sport"
+  ],
+  "subject": "pjpk"
+ },
+ {
+  "id": "butang_baju",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/butang_baju.svg",
+  "en": "Buttons",
+  "bm": "Butang",
+  "tags": [
+   "rbt",
+   "sewing"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "cangkul",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/cangkul.svg",
+  "en": "Hoe",
+  "bm": "Cangkul",
+  "tags": [
+   "rbt",
+   "agriculture"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "gear",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/gear.svg",
+  "en": "Gear",
+  "bm": "Gear",
+  "tags": [
+   "rbt",
+   "mechanism"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "gergaji",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/gergaji.svg",
+  "en": "Saw",
+  "bm": "Gergaji",
+  "tags": [
+   "rbt",
+   "tool"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "jarum_benang",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/jarum_benang.svg",
+  "en": "Needle and thread",
+  "bm": "Jarum dan benang",
+  "tags": [
+   "rbt",
+   "sewing"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "kod_blok",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/kod_blok.svg",
+  "en": "Block code",
+  "bm": "Kod blok",
+  "tags": [
+   "rbt",
+   "coding"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "komputer_riba",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/komputer_riba.svg",
+  "en": "Laptop with code",
+  "bm": "Komputer riba",
+  "tags": [
+   "rbt",
+   "coding"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "lakaran_reka_bentuk",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/lakaran_reka_bentuk.svg",
+  "en": "Design sketch",
+  "bm": "Lakaran reka bentuk",
+  "tags": [
+   "rbt",
+   "design"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "led",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/led.svg",
+  "en": "LED",
+  "bm": "LED",
+  "tags": [
+   "rbt",
+   "electronics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "litar",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/litar.svg",
+  "en": "Simple circuit",
+  "bm": "Litar ringkas",
+  "tags": [
+   "rbt",
+   "electronics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "motor",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/motor.svg",
+  "en": "Electric motor",
+  "bm": "Motor elektrik",
+  "tags": [
+   "rbt",
+   "electronics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "papan_mikropengawal",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/papan_mikropengawal.svg",
+  "en": "Microcontroller board",
+  "bm": "Papan mikropengawal",
+  "tags": [
+   "rbt",
+   "electronics",
+   "coding"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "pemutar_skru",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/pemutar_skru.svg",
+  "en": "Screwdriver",
+  "bm": "Pemutar skru",
+  "tags": [
+   "rbt",
+   "tool"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "penyiram",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/penyiram.svg",
+  "en": "Watering can",
+  "bm": "Penyiram",
+  "tags": [
+   "rbt",
+   "agriculture"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "penyodok",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/penyodok.svg",
+  "en": "Spade",
+  "bm": "Penyodok",
+  "tags": [
+   "rbt",
+   "agriculture"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "perintang",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/perintang.svg",
+  "en": "Resistor",
+  "bm": "Perintang",
+  "tags": [
+   "rbt",
+   "electronics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "playar",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/playar.svg",
+  "en": "Pliers",
+  "bm": "Playar",
+  "tags": [
+   "rbt",
+   "tool"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "polibeg_anak_benih",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/polibeg_anak_benih.svg",
+  "en": "Seedling in polybag",
+  "bm": "Anak benih dalam polibeg",
+  "tags": [
+   "rbt",
+   "agriculture"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "robot",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/robot.svg",
+  "en": "Robot",
+  "bm": "Robot",
+  "tags": [
+   "rbt",
+   "coding",
+   "robotics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "sepana",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/sepana.svg",
+  "en": "Spanner",
+  "bm": "Sepana",
+  "tags": [
+   "rbt",
+   "tool"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "suis",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/suis.svg",
+  "en": "Switch",
+  "bm": "Suis",
+  "tags": [
+   "rbt",
+   "electronics"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "tukul",
+  "category": "subjects/rbt",
+  "path": "res://assets/art/subjects/rbt/tukul.svg",
+  "en": "Hammer",
+  "bm": "Tukul",
+  "tags": [
+   "rbt",
+   "tool"
+  ],
+  "subject": "rbt"
+ },
+ {
+  "id": "atom",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/atom.svg",
+  "en": "Atom",
+  "bm": "Atom",
+  "tags": [
+   "science",
+   "chemistry"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "battery",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/battery.svg",
+  "en": "Battery",
+  "bm": "Bateri",
+  "tags": [
+   "science",
+   "physics",
+   "electric"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "beaker",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/beaker.svg",
+  "en": "Beaker",
+  "bm": "Bikar",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "cactus",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/cactus.svg",
+  "en": "Cactus",
+  "bm": "Kaktus",
+  "tags": [
+   "science",
+   "plant"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "cloud",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/cloud.svg",
+  "en": "Cloud",
+  "bm": "Awan",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "cloud_rain",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/cloud_rain.svg",
+  "en": "Rain",
+  "bm": "Hujan",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "cloud_storm",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/cloud_storm.svg",
+  "en": "Storm",
+  "bm": "Ribut petir",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "comet",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/comet.svg",
+  "en": "Comet",
+  "bm": "Komet",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "compass_rose",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/compass_rose.svg",
+  "en": "Compass",
+  "bm": "Kompas",
+  "tags": [
+   "science",
+   "earth",
+   "geography"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "dna",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/dna.svg",
+  "en": "DNA",
+  "bm": "DNA",
+  "tags": [
+   "science",
+   "biology"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "fire",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/fire.svg",
+  "en": "Fire",
+  "bm": "Api",
+  "tags": [
+   "science",
+   "chemistry"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "flask_conical",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/flask_conical.svg",
+  "en": "Conical flask",
+  "bm": "Kelalang kon",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "flask_round",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/flask_round.svg",
+  "en": "Round flask",
+  "bm": "Kelalang dasar bulat",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "frog_eggs",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/frog_eggs.svg",
+  "en": "Frog eggs (frogspawn)",
+  "bm": "Telur katak",
+  "tags": [
+   "science",
+   "animal",
+   "lifecycle",
+   "frog"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "froglet",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/froglet.svg",
+  "en": "Froglet",
+  "bm": "Anak katak",
+  "tags": [
+   "science",
+   "animal",
+   "lifecycle",
+   "frog"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "leaf",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/leaf.svg",
+  "en": "Leaf",
+  "bm": "Daun",
+  "tags": [
+   "science",
+   "plant"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "light_bulb",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/light_bulb.svg",
+  "en": "Light bulb",
+  "bm": "Mentol",
+  "tags": [
+   "science",
+   "physics",
+   "electric"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "magnet",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/magnet.svg",
+  "en": "Magnet",
+  "bm": "Magnet",
+  "tags": [
+   "science",
+   "physics"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "magnifier",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/magnifier.svg",
+  "en": "Magnifying glass",
+  "bm": "Kanta pembesar",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "microscope",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/microscope.svg",
+  "en": "Microscope",
+  "bm": "Mikroskop",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "molecule",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/molecule.svg",
+  "en": "Molecule (H2O)",
+  "bm": "Molekul air",
+  "tags": [
+   "science",
+   "chemistry"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "moon",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/moon.svg",
+  "en": "Moon",
+  "bm": "Bulan",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "mountain",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/mountain.svg",
+  "en": "Mountain",
+  "bm": "Gunung",
+  "tags": [
+   "science",
+   "earth"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "mushroom",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/mushroom.svg",
+  "en": "Mushroom",
+  "bm": "Cendawan",
+  "tags": [
+   "science",
+   "plant",
+   "fungi"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_earth",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_earth.svg",
+  "en": "Earth",
+  "bm": "Bumi",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_jupiter",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_jupiter.svg",
+  "en": "Jupiter",
+  "bm": "Musytari",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_mars",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_mars.svg",
+  "en": "Mars",
+  "bm": "Marikh",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_mercury",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_mercury.svg",
+  "en": "Mercury",
+  "bm": "Utarid",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_neptune",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_neptune.svg",
+  "en": "Neptune",
+  "bm": "Neptun",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_saturn",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_saturn.svg",
+  "en": "Saturn",
+  "bm": "Zuhal",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_uranus",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_uranus.svg",
+  "en": "Uranus",
+  "bm": "Uranus",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "planet_venus",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/planet_venus.svg",
+  "en": "Venus",
+  "bm": "Zuhrah",
+  "tags": [
+   "science",
+   "space",
+   "planet"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "plant_flower",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/plant_flower.svg",
+  "en": "Flowering plant",
+  "bm": "Pokok berbunga",
+  "tags": [
+   "science",
+   "plant",
+   "lifecycle"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "plant_fruit",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/plant_fruit.svg",
+  "en": "Fruiting plant",
+  "bm": "Pokok berbuah",
+  "tags": [
+   "science",
+   "plant",
+   "lifecycle"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "plant_seed",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/plant_seed.svg",
+  "en": "Seed",
+  "bm": "Biji benih",
+  "tags": [
+   "science",
+   "plant",
+   "lifecycle"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "plant_sprout",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/plant_sprout.svg",
+  "en": "Sprout",
+  "bm": "Anak benih",
+  "tags": [
+   "science",
+   "plant",
+   "lifecycle"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "plant_young",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/plant_young.svg",
+  "en": "Young plant",
+  "bm": "Pokok muda",
+  "tags": [
+   "science",
+   "plant",
+   "lifecycle"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "rainbow",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/rainbow.svg",
+  "en": "Rainbow",
+  "bm": "Pelangi",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "rock",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/rock.svg",
+  "en": "Rock",
+  "bm": "Batu",
+  "tags": [
+   "science",
+   "earth"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "rocket",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/rocket.svg",
+  "en": "Rocket",
+  "bm": "Roket",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "snowflake",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/snowflake.svg",
+  "en": "Snowflake",
+  "bm": "Kepingan salji",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "star_space",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/star_space.svg",
+  "en": "Star",
+  "bm": "Bintang",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "sun",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/sun.svg",
+  "en": "Sun",
+  "bm": "Matahari",
+  "tags": [
+   "science",
+   "space",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "tadpole",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/tadpole.svg",
+  "en": "Tadpole",
+  "bm": "Berudu",
+  "tags": [
+   "science",
+   "animal",
+   "lifecycle",
+   "frog"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "telescope",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/telescope.svg",
+  "en": "Telescope",
+  "bm": "Teleskop",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "test_tube_blue",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/test_tube_blue.svg",
+  "en": "Test tube (blue)",
+  "bm": "Tabung uji",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "test_tube_green",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/test_tube_green.svg",
+  "en": "Test tube (green)",
+  "bm": "Tabung uji",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "test_tube_rack",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/test_tube_rack.svg",
+  "en": "Test tube rack",
+  "bm": "Rak tabung uji",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "test_tube_red",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/test_tube_red.svg",
+  "en": "Test tube (red)",
+  "bm": "Tabung uji",
+  "tags": [
+   "science",
+   "lab"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "thermometer",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/thermometer.svg",
+  "en": "Thermometer",
+  "bm": "Termometer",
+  "tags": [
+   "science",
+   "physics",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "tooth",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/tooth.svg",
+  "en": "Tooth",
+  "bm": "Gigi",
+  "tags": [
+   "science",
+   "health"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "tree",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/tree.svg",
+  "en": "Tree",
+  "bm": "Pokok",
+  "tags": [
+   "science",
+   "plant"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "ufo",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/ufo.svg",
+  "en": "UFO",
+  "bm": "UFO",
+  "tags": [
+   "science",
+   "space",
+   "fun"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "volcano",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/volcano.svg",
+  "en": "Volcano",
+  "bm": "Gunung berapi",
+  "tags": [
+   "science",
+   "earth"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "water_drop",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/water_drop.svg",
+  "en": "Water drop",
+  "bm": "Titisan air",
+  "tags": [
+   "science",
+   "weather",
+   "water"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "wind",
+  "category": "subjects/sains",
+  "path": "res://assets/art/subjects/sains/wind.svg",
+  "en": "Wind",
+  "bm": "Angin",
+  "tags": [
+   "science",
+   "weather"
+  ],
+  "subject": "sains"
+ },
+ {
+  "id": "bunga_raya",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/bunga_raya.svg",
+  "en": "Hibiscus (national flower)",
+  "bm": "Bunga raya",
+  "tags": [
+   "sejarah",
+   "national",
+   "symbol",
+   "flower"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "dulang_bijih_timah",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/dulang_bijih_timah.svg",
+  "en": "Tin panning tray (dulang)",
+  "bm": "Dulang bijih timah",
+  "tags": [
+   "sejarah",
+   "economy",
+   "history"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "jalur_gemilang",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/jalur_gemilang.svg",
+  "en": "Malaysian flag (Jalur Gemilang)",
+  "bm": "Jalur Gemilang",
+  "tags": [
+   "sejarah",
+   "national",
+   "symbol"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "kapal_layar",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/kapal_layar.svg",
+  "en": "Sailing ship (Melaka era)",
+  "bm": "Kapal layar",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "trade",
+   "melaka"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "keris",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/keris.svg",
+  "en": "Keris",
+  "bm": "Keris",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "weapon"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "kota_lama",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/kota_lama.svg",
+  "en": "Old fort gate",
+  "bm": "Pintu kota lama",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "melaka"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "mahkota",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/mahkota.svg",
+  "en": "Crown",
+  "bm": "Mahkota",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "royal"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "manuskrip",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/manuskrip.svg",
+  "en": "Old manuscript",
+  "bm": "Manuskrip",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "writing"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "meriam",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/meriam.svg",
+  "en": "Cannon",
+  "bm": "Meriam",
+  "tags": [
+   "sejarah",
+   "heritage"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "peta_lama",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/peta_lama.svg",
+  "en": "Old map",
+  "bm": "Peta lama",
+  "tags": [
+   "sejarah",
+   "geography",
+   "history"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "pokok_getah",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/pokok_getah.svg",
+  "en": "Rubber tree tapping",
+  "bm": "Menoreh getah",
+  "tags": [
+   "sejarah",
+   "economy",
+   "history"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "tengkolok",
+  "category": "subjects/sejarah",
+  "path": "res://assets/art/subjects/sejarah/tengkolok.svg",
+  "en": "Tengkolok (royal headgear)",
+  "bm": "Tengkolok",
+  "tags": [
+   "sejarah",
+   "heritage",
+   "clothing"
+  ],
+  "subject": "sejarah"
+ },
+ {
+  "id": "berus_cat",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/berus_cat.svg",
+  "en": "Paint brushes",
+  "bm": "Berus cat",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "canting",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/canting.svg",
+  "en": "Batik canting",
+  "bm": "Canting batik",
+  "tags": [
+   "seni_visual",
+   "tool",
+   "batik",
+   "local"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "gam",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/gam.svg",
+  "en": "Glue stick",
+  "bm": "Gam",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "gunting",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/gunting.svg",
+  "en": "Scissors",
+  "bm": "Gunting",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "kain_batik",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/kain_batik.svg",
+  "en": "Batik cloth",
+  "bm": "Kain batik",
+  "tags": [
+   "seni_visual",
+   "batik",
+   "local",
+   "pattern"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "kanvas_easel",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/kanvas_easel.svg",
+  "en": "Easel and canvas",
+  "bm": "Kekuda dan kanvas",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "kertas_warna",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/kertas_warna.svg",
+  "en": "Coloured paper",
+  "bm": "Kertas warna",
+  "tags": [
+   "seni_visual",
+   "material"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "krayon",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/krayon.svg",
+  "en": "Crayons",
+  "bm": "Krayon",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "origami",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/origami.svg",
+  "en": "Origami crane",
+  "bm": "Origami burung",
+  "tags": [
+   "seni_visual",
+   "craft"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "pensel_warna",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/pensel_warna.svg",
+  "en": "Coloured pencils",
+  "bm": "Pensel warna",
+  "tags": [
+   "seni_visual",
+   "tool"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "roda_warna",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/roda_warna.svg",
+  "en": "Colour wheel",
+  "bm": "Roda warna",
+  "tags": [
+   "seni_visual",
+   "colour",
+   "theory"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "tanah_liat",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/tanah_liat.svg",
+  "en": "Modelling clay",
+  "bm": "Tanah liat",
+  "tags": [
+   "seni_visual",
+   "material"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "tiub_cat",
+  "category": "subjects/seni_visual",
+  "path": "res://assets/art/subjects/seni_visual/tiub_cat.svg",
+  "en": "Paint tubes",
+  "bm": "Tiub cat",
+  "tags": [
+   "seni_visual",
+   "tool",
+   "colour"
+  ],
+  "subject": "seni_visual"
+ },
+ {
+  "id": "tiles_platformer",
+  "category": "tiles",
+  "path": "res://assets/art/tiles/tiles_platformer.svg",
+  "en": "Platformer tile atlas (64 px)",
+  "bm": "Atlas jubin platform",
+  "tags": [
+   "tiles",
+   "atlas"
+  ]
+ },
+ {
+  "id": "answer_card_a",
+  "category": "ui",
+  "path": "res://assets/art/ui/answer_card_a.svg",
+  "en": "Answer card A",
+  "bm": "Kad jawapan A",
+  "tags": [
+   "ui",
+   "quiz",
+   "9slice"
+  ]
+ },
+ {
+  "id": "answer_card_b",
+  "category": "ui",
+  "path": "res://assets/art/ui/answer_card_b.svg",
+  "en": "Answer card B",
+  "bm": "Kad jawapan B",
+  "tags": [
+   "ui",
+   "quiz",
+   "9slice"
+  ]
+ },
+ {
+  "id": "answer_card_c",
+  "category": "ui",
+  "path": "res://assets/art/ui/answer_card_c.svg",
+  "en": "Answer card C",
+  "bm": "Kad jawapan C",
+  "tags": [
+   "ui",
+   "quiz",
+   "9slice"
+  ]
+ },
+ {
+  "id": "answer_card_d",
+  "category": "ui",
+  "path": "res://assets/art/ui/answer_card_d.svg",
+  "en": "Answer card D",
+  "bm": "Kad jawapan D",
+  "tags": [
+   "ui",
+   "quiz",
+   "9slice"
+  ]
+ },
+ {
+  "id": "arrow_pointer",
+  "category": "ui",
+  "path": "res://assets/art/ui/arrow_pointer.svg",
+  "en": "Tutorial pointer hand",
+  "bm": "Penunjuk tangan",
+  "tags": [
+   "ui",
+   "tutorial"
+  ]
+ },
+ {
+  "id": "badge_bronze",
+  "category": "ui",
+  "path": "res://assets/art/ui/badge_bronze.svg",
+  "en": "Bronze badge",
+  "bm": "Lencana bronze",
+  "tags": [
+   "ui",
+   "reward"
+  ]
+ },
+ {
+  "id": "badge_gold",
+  "category": "ui",
+  "path": "res://assets/art/ui/badge_gold.svg",
+  "en": "Gold badge",
+  "bm": "Lencana gold",
+  "tags": [
+   "ui",
+   "reward"
+  ]
+ },
+ {
+  "id": "badge_silver",
+  "category": "ui",
+  "path": "res://assets/art/ui/badge_silver.svg",
+  "en": "Silver badge",
+  "bm": "Lencana silver",
+  "tags": [
+   "ui",
+   "reward"
+  ]
+ },
+ {
+  "id": "certificate_frame",
+  "category": "ui",
+  "path": "res://assets/art/ui/certificate_frame.svg",
+  "en": "Certificate frame (blank)",
+  "bm": "Bingkai sijil",
+  "tags": [
+   "ui",
+   "reward"
+  ]
+ },
+ {
+  "id": "clipboard",
+  "category": "ui",
+  "path": "res://assets/art/ui/clipboard.svg",
+  "en": "Clipboard",
+  "bm": "Papan klip",
+  "tags": [
+   "ui",
+   "frame"
+  ]
+ },
+ {
+  "id": "level_node_done",
+  "category": "ui",
+  "path": "res://assets/art/ui/level_node_done.svg",
+  "en": "Level node (complete)",
+  "bm": "Nod tahap (selesai)",
+  "tags": [
+   "ui",
+   "map"
+  ]
+ },
+ {
+  "id": "level_node_locked",
+  "category": "ui",
+  "path": "res://assets/art/ui/level_node_locked.svg",
+  "en": "Level node (locked)",
+  "bm": "Nod tahap (berkunci)",
+  "tags": [
+   "ui",
+   "map"
+  ]
+ },
+ {
+  "id": "level_node_open",
+  "category": "ui",
+  "path": "res://assets/art/ui/level_node_open.svg",
+  "en": "Level node (open)",
+  "bm": "Nod tahap (dibuka)",
+  "tags": [
+   "ui",
+   "map"
+  ]
+ },
+ {
+  "id": "map_path_dot",
+  "category": "ui",
+  "path": "res://assets/art/ui/map_path_dot.svg",
+  "en": "Map path dot",
+  "bm": "Titik laluan",
+  "tags": [
+   "ui",
+   "map"
+  ]
+ },
+ {
+  "id": "panel_card",
+  "category": "ui",
+  "path": "res://assets/art/ui/panel_card.svg",
+  "en": "Card panel with header",
+  "bm": "Panel kad",
+  "tags": [
+   "ui",
+   "panel",
+   "9slice"
+  ]
+ },
+ {
+  "id": "panel_chalkboard",
+  "category": "ui",
+  "path": "res://assets/art/ui/panel_chalkboard.svg",
+  "en": "Chalkboard panel",
+  "bm": "Panel papan hitam",
+  "tags": [
+   "ui",
+   "panel",
+   "9slice"
+  ]
+ },
+ {
+  "id": "panel_glass",
+  "category": "ui",
+  "path": "res://assets/art/ui/panel_glass.svg",
+  "en": "Frosted glass panel",
+  "bm": "Panel kaca",
+  "tags": [
+   "ui",
+   "panel",
+   "9slice"
+  ]
+ },
+ {
+  "id": "panel_paper",
+  "category": "ui",
+  "path": "res://assets/art/ui/panel_paper.svg",
+  "en": "Paper panel",
+  "bm": "Panel kertas",
+  "tags": [
+   "ui",
+   "panel",
+   "9slice"
+  ]
+ },
+ {
+  "id": "panel_wood",
+  "category": "ui",
+  "path": "res://assets/art/ui/panel_wood.svg",
+  "en": "Wooden sign panel",
+  "bm": "Panel papan kayu",
+  "tags": [
+   "ui",
+   "panel",
+   "9slice"
+  ]
+ },
+ {
+  "id": "polaroid",
+  "category": "ui",
+  "path": "res://assets/art/ui/polaroid.svg",
+  "en": "Photo frame",
+  "bm": "Bingkai foto",
+  "tags": [
+   "ui",
+   "frame"
+  ]
+ },
+ {
+  "id": "ribbon_banner",
+  "category": "ui",
+  "path": "res://assets/art/ui/ribbon_banner.svg",
+  "en": "Ribbon banner",
+  "bm": "Reben sepanduk",
+  "tags": [
+   "ui",
+   "title"
+  ]
+ },
+ {
+  "id": "speech_bubble",
+  "category": "ui",
+  "path": "res://assets/art/ui/speech_bubble.svg",
+  "en": "Speech bubble",
+  "bm": "Belon kata",
+  "tags": [
+   "ui",
+   "dialogue"
+  ]
+ },
+ {
+  "id": "stars_0",
+  "category": "ui",
+  "path": "res://assets/art/ui/stars_0.svg",
+  "en": "0 of 3 stars",
+  "bm": "0 daripada 3 bintang",
+  "tags": [
+   "ui",
+   "rating"
+  ]
+ },
+ {
+  "id": "stars_1",
+  "category": "ui",
+  "path": "res://assets/art/ui/stars_1.svg",
+  "en": "1 of 3 stars",
+  "bm": "1 daripada 3 bintang",
+  "tags": [
+   "ui",
+   "rating"
+  ]
+ },
+ {
+  "id": "stars_2",
+  "category": "ui",
+  "path": "res://assets/art/ui/stars_2.svg",
+  "en": "2 of 3 stars",
+  "bm": "2 daripada 3 bintang",
+  "tags": [
+   "ui",
+   "rating"
+  ]
+ },
+ {
+  "id": "stars_3",
+  "category": "ui",
+  "path": "res://assets/art/ui/stars_3.svg",
+  "en": "3 of 3 stars",
+  "bm": "3 daripada 3 bintang",
+  "tags": [
+   "ui",
+   "rating"
+  ]
+ },
+ {
+  "id": "sticky_note_blue",
+  "category": "ui",
+  "path": "res://assets/art/ui/sticky_note_blue.svg",
+  "en": "Sticky note (blue)",
+  "bm": "Nota lekat",
+  "tags": [
+   "ui"
+  ]
+ },
+ {
+  "id": "sticky_note_pink",
+  "category": "ui",
+  "path": "res://assets/art/ui/sticky_note_pink.svg",
+  "en": "Sticky note (pink)",
+  "bm": "Nota lekat",
+  "tags": [
+   "ui"
+  ]
+ },
+ {
+  "id": "sticky_note_yellow",
+  "category": "ui",
+  "path": "res://assets/art/ui/sticky_note_yellow.svg",
+  "en": "Sticky note (yellow)",
+  "bm": "Nota lekat",
+  "tags": [
+   "ui"
+  ]
+ },
+ {
+  "id": "thought_bubble",
+  "category": "ui",
+  "path": "res://assets/art/ui/thought_bubble.svg",
+  "en": "Thought bubble",
+  "bm": "Belon fikir",
+  "tags": [
+   "ui",
+   "dialogue"
+  ]
+ },
+ {
+  "id": "tile_blue",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_blue.svg",
+  "en": "Blank tile (blue)",
+  "bm": "Jubin kosong (blue)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_green",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_green.svg",
+  "en": "Blank tile (green)",
+  "bm": "Jubin kosong (green)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_orange",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_orange.svg",
+  "en": "Blank tile (orange)",
+  "bm": "Jubin kosong (orange)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_purple",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_purple.svg",
+  "en": "Blank tile (purple)",
+  "bm": "Jubin kosong (purple)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_red",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_red.svg",
+  "en": "Blank tile (red)",
+  "bm": "Jubin kosong (red)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_slot",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_slot.svg",
+  "en": "Empty tile slot",
+  "bm": "Slot jubin",
+  "tags": [
+   "ui",
+   "tile",
+   "dragdrop"
+  ]
+ },
+ {
+  "id": "tile_white",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_white.svg",
+  "en": "Blank tile (white)",
+  "bm": "Jubin kosong (white)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_wood",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_wood.svg",
+  "en": "Blank tile (wood)",
+  "bm": "Jubin kosong (wood)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "tile_yellow",
+  "category": "ui",
+  "path": "res://assets/art/ui/tile_yellow.svg",
+  "en": "Blank tile (yellow)",
+  "bm": "Jubin kosong (yellow)",
+  "tags": [
+   "ui",
+   "tile",
+   "text"
+  ]
+ },
+ {
+  "id": "timer_ring_bg",
+  "category": "ui",
+  "path": "res://assets/art/ui/timer_ring_bg.svg",
+  "en": "Timer ring background",
+  "bm": "Latar pemasa",
+  "tags": [
+   "ui",
+   "timer"
+  ]
+ }
+]
