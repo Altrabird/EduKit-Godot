@@ -9,6 +9,7 @@ signal hurt
 signal landed
 
 @export var char_id := "aiman"
+@export var sprite_ref := ""  ## any manifest picture instead of a character (e.g. "bahasa_melayu/sang_kancil")
 @export var speed := 520.0
 @export var jump_velocity := -1050.0
 @export var gravity := 2600.0
@@ -25,7 +26,7 @@ var _base := Vector2.ONE
 
 
 func _ready() -> void:
-	var tex := EduAssets.character(char_id, "neutral")
+	var tex := _tex("neutral")
 	_sprite.texture = tex
 	_base = Vector2.ONE * height_px / tex.get_height()
 	_sprite.scale = _base
@@ -98,12 +99,25 @@ func _check_hazards() -> void:
 
 
 func _on_hurt() -> void:
+	bump(-signf(velocity.x) if velocity.x != 0 else -1.0)
+
+
+## Knock back (dir = -1 left / 1 right), flash, and emit `hurt`. Enemies call this.
+func bump(dir: float) -> void:
 	Audio.sfx("hurt")
-	velocity = Vector2(-velocity.x, jump_velocity * 0.6)
-	_sprite.texture = EduAssets.character(char_id, "sad")
-	get_tree().create_timer(0.6).timeout.connect(func(): _sprite.texture = EduAssets.character(char_id, "neutral"))
+	velocity = Vector2(dir * speed * 0.8, jump_velocity * 0.6)
+	set_expression("sad")
+	var tw := create_tween()
+	for k in 3:
+		tw.tween_property(_sprite, "modulate:a", 0.3, 0.08)
+		tw.tween_property(_sprite, "modulate:a", 1.0, 0.08)
+	get_tree().create_timer(0.6).timeout.connect(func(): set_expression("neutral"))
 	hurt.emit()
 
 
+func _tex(expr: String) -> Texture2D:
+	return EduAssets.texture(sprite_ref) if sprite_ref != "" else EduAssets.character(char_id, expr)
+
+
 func set_expression(expr: String) -> void:
-	_sprite.texture = EduAssets.character(char_id, expr)
+	_sprite.texture = _tex(expr)

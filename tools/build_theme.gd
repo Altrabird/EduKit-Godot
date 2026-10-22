@@ -192,6 +192,9 @@ func build_tileset() -> TileSet:
 				td.set_collision_polygon_one_way(0, 0, true)
 				td.set_custom_data("kind", "one_way")
 			elif c in HAZARD:
+				# a low collider so Player2D's slide collisions can detect the hazard
+				td.add_collision_polygon(0)
+				td.set_collision_polygon_points(0, 0, PackedVector2Array([Vector2(-30, 0), Vector2(30, 0), Vector2(30, 32), Vector2(-30, 32)]))
 				td.set_custom_data("kind", "hazard")
 			else:
 				td.set_custom_data("kind", "deco")

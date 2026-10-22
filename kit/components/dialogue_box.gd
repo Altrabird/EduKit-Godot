@@ -71,7 +71,7 @@ func _advance() -> void:
 		return
 	var l: Dictionary = _lines[_i]
 	var c: String = l.get("char", "robo")
-	_portrait.texture = EduAssets.character(c, l.get("expr", "talk"))
+	_portrait.texture = EduAssets.texture(l.portrait) if l.has("portrait") else EduAssets.character(c, l.get("expr", "talk"))
 	_name.text = l.get("name", NAMES.get(c, c.capitalize()))
 	_text.text = l.text
 	_text.visible_ratio = 0.0
@@ -101,7 +101,8 @@ func _finish_line() -> void:
 	_typing = false
 	_text.visible_ratio = 1.0
 	if _i >= 0 and _i < _lines.size():
-		_portrait.texture = EduAssets.character(_lines[_i].get("char", "robo"), _lines[_i].get("expr_after", "neutral"))
+		if not _lines[_i].has("portrait"):
+			_portrait.texture = EduAssets.character(_lines[_i].get("char", "robo"), _lines[_i].get("expr_after", "neutral"))
 
 
 func _gui_input(event: InputEvent) -> void:

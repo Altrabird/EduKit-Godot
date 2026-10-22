@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Export one game to HTML5 and publish it to its own GitHub repo + Pages.
-# Usage: bash tools/deploy_web.sh "<export preset>" <game folder> <GitHub repo name> "<description>"
+# Usage: bash tools/deploy_web.sh "<export preset>" <game folder> <GitHub repo name> "<description>" [click x,y ...]
 # e.g.   bash tools/deploy_web.sh "Web - Juara Kuiz Sekolah" juara_kuiz Juara-Kuiz-Sekolah "KSSR quiz game"
 set -euo pipefail
-PRESET="$1"; GAME="$2"; REPO="$3"; DESC="$4"
+PRESET="$1"; GAME="$2"; REPO="$3"; DESC="$4"; shift 4
 OWNER="Altrabird"
 G="${GODOT:-/c/Users/HARSIDI BIN JUNICK/Desktop/Godot_v4.7.2-stable_win64.exe/Godot_v4.7.2-stable_win64_console.exe}"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -12,7 +12,7 @@ DEPLOY="$ROOT/build/deploy/$REPO"
 
 rm -rf "$OUT" && mkdir -p "$OUT"
 "$G" --headless --path "$ROOT" --export-release "$PRESET" "$OUT/index.html" > "$ROOT/build/export_$GAME.log" 2>&1
-python "$ROOT/tools/web_smoke.py" "$OUT" "$ROOT/build/smoke_$GAME.png" 12 | grep -v "GET /"
+python "$ROOT/tools/web_smoke.py" "$OUT" "$ROOT/build/smoke_$GAME.png" 12 "$@" | grep -v "GET /"
 
 mkdir -p "$DEPLOY"
 cd "$DEPLOY"

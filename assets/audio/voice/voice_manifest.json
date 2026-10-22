@@ -878,6 +878,96 @@
     "path": "res://assets/audio/voice/ms/months/12.mp3"
    }
   },
+  "words": {
+   "bola": {
+    "text": "bola",
+    "path": "res://assets/audio/voice/ms/words/bola.mp3"
+   },
+   "roti": {
+    "text": "roti",
+    "path": "res://assets/audio/voice/ms/words/roti.mp3"
+   },
+   "susu": {
+    "text": "susu",
+    "path": "res://assets/audio/voice/ms/words/susu.mp3"
+   },
+   "topi": {
+    "text": "topi",
+    "path": "res://assets/audio/voice/ms/words/topi.mp3"
+   },
+   "baju": {
+    "text": "baju",
+    "path": "res://assets/audio/voice/ms/words/baju.mp3"
+   },
+   "nasi": {
+    "text": "nasi",
+    "path": "res://assets/audio/voice/ms/words/nasi.mp3"
+   },
+   "gigi": {
+    "text": "gigi",
+    "path": "res://assets/audio/voice/ms/words/gigi.mp3"
+   },
+   "sate": {
+    "text": "sate",
+    "path": "res://assets/audio/voice/ms/words/sate.mp3"
+   },
+   "peta": {
+    "text": "peta",
+    "path": "res://assets/audio/voice/ms/words/peta.mp3"
+   },
+   "batu": {
+    "text": "batu",
+    "path": "res://assets/audio/voice/ms/words/batu.mp3"
+   },
+   "sudu": {
+    "text": "sudu",
+    "path": "res://assets/audio/voice/ms/words/sudu.mp3"
+   },
+   "dadu": {
+    "text": "dadu",
+    "path": "res://assets/audio/voice/ms/words/dadu.mp3"
+   },
+   "wau": {
+    "text": "wau",
+    "path": "res://assets/audio/voice/ms/words/wau.mp3"
+   },
+   "kereta": {
+    "text": "kereta",
+    "path": "res://assets/audio/voice/ms/words/kereta.mp3"
+   },
+   "tomato": {
+    "text": "tomato",
+    "path": "res://assets/audio/voice/ms/words/tomato.mp3"
+   },
+   "buaya": {
+    "text": "buaya",
+    "path": "res://assets/audio/voice/ms/words/buaya.mp3"
+   },
+   "piala": {
+    "text": "piala",
+    "path": "res://assets/audio/voice/ms/words/piala.mp3"
+   },
+   "perahu": {
+    "text": "perahu",
+    "path": "res://assets/audio/voice/ms/words/perahu.mp3"
+   },
+   "kelapa": {
+    "text": "kelapa",
+    "path": "res://assets/audio/voice/ms/words/kelapa.mp3"
+   },
+   "pelita": {
+    "text": "pelita",
+    "path": "res://assets/audio/voice/ms/words/pelita.mp3"
+   },
+   "piano": {
+    "text": "piano",
+    "path": "res://assets/audio/voice/ms/words/piano.mp3"
+   },
+   "tuala": {
+    "text": "tuala",
+    "path": "res://assets/audio/voice/ms/words/tuala.mp3"
+   }
+  },
   "questions/bahasa_melayu": {
    "068e787c88": {
     "text": "Apakah nama buah ini?",
@@ -3396,6 +3486,88 @@
    "12": {
     "text": "December",
     "path": "res://assets/audio/voice/en/months/12.mp3"
+   }
+  },
+  "words": {
+   "cat": {
+    "text": "cat",
+    "path": "res://assets/audio/voice/en/words/cat.mp3"
+   },
+   "dog": {
+    "text": "dog",
+    "path": "res://assets/audio/voice/en/words/dog.mp3"
+   },
+   "bus": {
+    "text": "bus",
+    "path": "res://assets/audio/voice/en/words/bus.mp3"
+   },
+   "car": {
+    "text": "car",
+    "path": "res://assets/audio/voice/en/words/car.mp3"
+   },
+   "bee": {
+    "text": "bee",
+    "path": "res://assets/audio/voice/en/words/bee.mp3"
+   },
+   "ant": {
+    "text": "ant",
+    "path": "res://assets/audio/voice/en/words/ant.mp3"
+   },
+   "owl": {
+    "text": "owl",
+    "path": "res://assets/audio/voice/en/words/owl.mp3"
+   },
+   "hat": {
+    "text": "hat",
+    "path": "res://assets/audio/voice/en/words/hat.mp3"
+   },
+   "cup": {
+    "text": "cup",
+    "path": "res://assets/audio/voice/en/words/cup.mp3"
+   },
+   "bed": {
+    "text": "bed",
+    "path": "res://assets/audio/voice/en/words/bed.mp3"
+   },
+   "fish": {
+    "text": "fish",
+    "path": "res://assets/audio/voice/en/words/fish.mp3"
+   },
+   "bird": {
+    "text": "bird",
+    "path": "res://assets/audio/voice/en/words/bird.mp3"
+   },
+   "ball": {
+    "text": "ball",
+    "path": "res://assets/audio/voice/en/words/ball.mp3"
+   },
+   "kite": {
+    "text": "kite",
+    "path": "res://assets/audio/voice/en/words/kite.mp3"
+   },
+   "frog": {
+    "text": "frog",
+    "path": "res://assets/audio/voice/en/words/frog.mp3"
+   },
+   "ship": {
+    "text": "ship",
+    "path": "res://assets/audio/voice/en/words/ship.mp3"
+   },
+   "duck": {
+    "text": "duck",
+    "path": "res://assets/audio/voice/en/words/duck.mp3"
+   },
+   "door": {
+    "text": "door",
+    "path": "res://assets/audio/voice/en/words/door.mp3"
+   },
+   "goat": {
+    "text": "goat",
+    "path": "res://assets/audio/voice/en/words/goat.mp3"
+   },
+   "sock": {
+    "text": "sock",
+    "path": "res://assets/audio/voice/en/words/sock.mp3"
    }
   },
   "questions/bahasa_inggeris": {

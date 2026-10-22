@@ -57,6 +57,11 @@ def jobs():
         j += [("ms", "days", ms, ms.capitalize()), ("en", "days", ms, en)]
     for i, (ms, en) in enumerate(zip(MONTHS, MONTHS_EN)):
         j += [("ms", "months", str(i + 1), ms), ("en", "months", str(i + 1), en)]
+    # Whole-word clips for Kancil & Suku Kata (each word in its own language).
+    words = json.load(open(os.path.join(ROOT, "data", "kancil_words.json"), encoding="utf-8"))
+    for lang, rows in words.items():
+        for w in rows:
+            j.append((lang, "words", w["word"], w["word"]))
     # Bank questions: language subjects are voiced only in their own language.
     qdir = os.path.join(ROOT, "data", "questions")
     for fn in sorted(os.listdir(qdir)):
