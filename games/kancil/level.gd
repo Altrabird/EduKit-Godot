@@ -123,7 +123,7 @@ func _items() -> void:
 			"start":
 				checkpoint = Vector2(px, _row(it.h) * TS)
 			"part", "decoy":
-				_pickup(it, Vector2(px, (_row(it.h) - 1) * TS + TS / 2.0))
+				_pickup(it, Vector2(px, (_row(it.h) - 1) * TS - 16))
 			"plank":
 				for k in it.w:
 					map.set_cell(Vector2i(it.x + k, _row(it.h)), 0, PLANK[0 if k == 0 else (2 if k == it.w - 1 else 1)])
